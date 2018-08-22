@@ -1,0 +1,12 @@
+ASHKE|ASHKE|BROADMEADOWS|BROADMEADOWS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=BMWCIN&sessionId=139972|2018|8|17|15|45|2
+ASHKE|ASHKE|BROADMEADOWS|BROADMEADOWS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=BMWCIN&sessionId=139974|2018|8|17|21|15|3
+ASHKE|ASHKE|BROADMEADOWS|BROADMEADOWS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=BMWCIN&sessionId=140113|2018|8|18|12|30|4
+ASHKE|ASHKE|BROADMEADOWS|BROADMEADOWS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=BMWCIN&sessionId=139976|2018|8|18|21|35|6
+ASHKE|ASHKE|BROADMEADOWS|BROADMEADOWS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=BMWCIN&sessionId=140158|2018|8|19|15|15|8
+ASHKE|ASHKE|BROADMEADOWS|BROADMEADOWS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=BMWCIN&sessionId=139978|2018|8|19|21|15|9
+ASHKE|ASHKE|WATERGARDENS|WATERGARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=TAYLOR&sessionId=157027|2018|8|17|21|0|3
+ASHKE|ASHKE|WATERGARDENS|WATERGARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=TAYLOR&sessionId=157208|2018|8|18|21|0|6
+ASHKE|ASHKE|WATERGARDENS|WATERGARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=TAYLOR&sessionId=157037|2018|8|19|21|0|9
+ASHKE|ASHKE|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181704&date=20180817&time=17:20&ReturnUrl=%2Fmovies%2Fashke|2018|8|17|17|20|2
+ASHKE|ASHKE|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181544&date=20180818&time=17:20&ReturnUrl=%2Fmovies%2Fashke|2018|8|18|17|20|5
+ASHKE|ASHKE|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181679&date=20180819&time=17:20&ReturnUrl=%2Fmovies%2Fashke|2018|8|19|17|20|8

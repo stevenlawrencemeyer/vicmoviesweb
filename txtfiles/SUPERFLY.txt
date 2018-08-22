@@ -1,0 +1,8 @@
+SUPERFLY|SUPERFLY|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341771|2018|8|17|15|40|2
+SUPERFLY|SUPERFLY|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341776|2018|8|18|15|40|5
+SUPERFLY|SUPERFLY|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545842&date=20180817&time=15:50&ReturnUrl=%2Fmovies%2Fsuperfly|2018|8|17|15|50|2
+SUPERFLY|SUPERFLY|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545619&date=20180818&time=15:20&ReturnUrl=%2Fmovies%2Fsuperfly|2018|8|18|15|20|5
+SUPERFLY|SUPERFLY|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545847&date=20180819&time=15:50&ReturnUrl=%2Fmovies%2Fsuperfly|2018|8|19|15|50|8
+SUPERFLY|SUPERFLY|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673628&date=20180817&time=14:00&ReturnUrl=%2Fmovies%2Fsuperfly|2018|8|17|14|0|2
+SUPERFLY|SUPERFLY|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673359&date=20180818&time=14:00&ReturnUrl=%2Fmovies%2Fsuperfly|2018|8|18|14|0|5
+SUPERFLY|SUPERFLY|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673612&date=20180819&time=14:00&ReturnUrl=%2Fmovies%2Fsuperfly|2018|8|19|14|0|8

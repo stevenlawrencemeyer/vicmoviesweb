@@ -1,0 +1,67 @@
+SHOWDOGS|SHOW DOGS|BROADMEADOWS|BROADMEADOWS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=BMWCIN&sessionId=138299|2018|8|18|10|0|4
+SHOWDOGS|SHOW DOGS|BROADMEADOWS|BROADMEADOWS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=BMWCIN&sessionId=138302|2018|8|19|10|0|7
+SHOWDOGS|SHOW DOGS|CHADSTONE|CHADSTONE|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=CHDSTN&sessionId=59670|2018|8|17|10|0|1
+SHOWDOGS|SHOW DOGS|CHADSTONE|CHADSTONE|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=CHDSTN&sessionId=56660|2018|8|18|10|0|4
+SHOWDOGS|SHOW DOGS|CHADSTONE|CHADSTONE|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=CHDSTN&sessionId=56663|2018|8|19|10|0|7
+SHOWDOGS|SHOW DOGS|EASTLAND|EASTLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=EASTLN&sessionId=269354|2018|8|17|10|0|1
+SHOWDOGS|SHOW DOGS|EASTLAND|EASTLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=EASTLN&sessionId=266249|2018|8|18|10|0|4
+SHOWDOGS|SHOW DOGS|EASTLAND|EASTLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=EASTLN&sessionId=266252|2018|8|19|10|0|7
+SHOWDOGS|SHOW DOGS|FOREST_HILL|FOREST HILL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FHLCIN&sessionId=126628|2018|8|18|10|0|4
+SHOWDOGS|SHOW DOGS|FOREST_HILL|FOREST HILL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FHLCIN&sessionId=127130|2018|8|19|10|0|7
+SHOWDOGS|SHOW DOGS|GREENSBOROUGH|GREENSBOROUGH|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=GRENSB&sessionId=161188|2018|8|18|10|0|4
+SHOWDOGS|SHOW DOGS|GREENSBOROUGH|GREENSBOROUGH|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=GRENSB&sessionId=161191|2018|8|19|10|0|7
+SHOWDOGS|SHOW DOGS|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341799|2018|8|17|10|0|1
+SHOWDOGS|SHOW DOGS|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341804|2018|8|18|10|0|4
+SHOWDOGS|SHOW DOGS|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341809|2018|8|19|10|0|7
+SHOWDOGS|SHOW DOGS|NORTHLAND|NORTHLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=NORTHL&sessionId=258012|2018|8|17|10|0|1
+SHOWDOGS|SHOW DOGS|NORTHLAND|NORTHLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=NORTHL&sessionId=255559|2018|8|18|10|0|4
+SHOWDOGS|SHOW DOGS|NORTHLAND|NORTHLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=NORTHL&sessionId=255572|2018|8|19|10|0|7
+SHOWDOGS|SHOW DOGS|VICTORIA_GARDENS|VICTORIA GARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=VGDCIN&sessionId=201880|2018|8|18|10|0|4
+SHOWDOGS|SHOW DOGS|VICTORIA_GARDENS|VICTORIA GARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=VGDCIN&sessionId=201883|2018|8|19|10|0|7
+SHOWDOGS|SHOW DOGS|WATERGARDENS|WATERGARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=TAYLOR&sessionId=157173|2018|8|17|10|0|1
+SHOWDOGS|SHOW DOGS|WATERGARDENS|WATERGARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=TAYLOR&sessionId=155163|2018|8|18|10|0|4
+SHOWDOGS|SHOW DOGS|WATERGARDENS|WATERGARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=TAYLOR&sessionId=157180|2018|8|19|10|0|7
+SHOWDOGS|SHOW DOGS|AIRPORT_WEST|AIRPORT WEST|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=272&sessionid=293726&date=20180818&time=11:00&ReturnUrl=%2Fmovies%2Fshow-dogs|2018|8|18|11|0|4
+SHOWDOGS|SHOW DOGS|AIRPORT_WEST|AIRPORT WEST|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=272&sessionid=294271&date=20180818&time=11:15&ReturnUrl=%2Fmovies%2Fshow-dogs|2018|8|18|11|15|4
+SHOWDOGS|SHOW DOGS|AIRPORT_WEST|AIRPORT WEST|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=272&sessionid=293727&date=20180819&time=11:00&ReturnUrl=%2Fmovies%2Fshow-dogs|2018|8|19|11|0|7
+SHOWDOGS|SHOW DOGS|AIRPORT_WEST|AIRPORT WEST|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=272&sessionid=294311&date=20180819&time=11:15&ReturnUrl=%2Fmovies%2Fshow-dogs|2018|8|19|11|15|7
+SHOWDOGS|SHOW DOGS|BENDIGO|BENDIGO|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=024&sessionid=39874&date=20180818&time=09:45&ReturnUrl=%2Fmovies%2Fshow-dogs|2018|8|18|9|45|6
+SHOWDOGS|SHOW DOGS|BENDIGO|BENDIGO|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=024&sessionid=39905&date=20180819&time=09:45&ReturnUrl=%2Fmovies%2Fshow-dogs|2018|8|19|9|45|9
+SHOWDOGS|SHOW DOGS|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353219&date=20180818&time=11:15&ReturnUrl=%2Fmovies%2Fshow-dogs|2018|8|18|11|15|4
+SHOWDOGS|SHOW DOGS|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353343&date=20180819&time=11:15&ReturnUrl=%2Fmovies%2Fshow-dogs|2018|8|19|11|15|7
+SHOWDOGS|SHOW DOGS|DONCASTER|DONCASTER|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=301&sessionid=185766&date=20180818&time=10:30&ReturnUrl=%2Fmovies%2Fshow-dogs|2018|8|18|10|30|4
+SHOWDOGS|SHOW DOGS|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=411798&date=20180818&time=10:00&ReturnUrl=%2Fmovies%2Fshow-dogs|2018|8|18|10|0|4
+SHOWDOGS|SHOW DOGS|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=410826&date=20180818&time=11:00&ReturnUrl=%2Fmovies%2Fshow-dogs|2018|8|18|11|0|4
+SHOWDOGS|SHOW DOGS|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=411990&date=20180819&time=10:00&ReturnUrl=%2Fmovies%2Fshow-dogs|2018|8|19|10|0|7
+SHOWDOGS|SHOW DOGS|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=410827&date=20180819&time=11:00&ReturnUrl=%2Fmovies%2Fshow-dogs|2018|8|19|11|0|7
+SHOWDOGS|SHOW DOGS|GEELONG|GEELONG|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=121&sessionid=360326&date=20180818&time=10:10&ReturnUrl=%2Fmovies%2Fshow-dogs|2018|8|18|10|10|4
+SHOWDOGS|SHOW DOGS|GEELONG|GEELONG|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=121&sessionid=359932&date=20180818&time=11:15&ReturnUrl=%2Fmovies%2Fshow-dogs|2018|8|18|11|15|4
+SHOWDOGS|SHOW DOGS|GEELONG|GEELONG|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=121&sessionid=360509&date=20180819&time=10:30&ReturnUrl=%2Fmovies%2Fshow-dogs|2018|8|19|10|30|7
+SHOWDOGS|SHOW DOGS|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545600&date=20180818&time=11:00&ReturnUrl=%2Fmovies%2Fshow-dogs|2018|8|18|11|0|4
+SHOWDOGS|SHOW DOGS|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545794&date=20180819&time=11:00&ReturnUrl=%2Fmovies%2Fshow-dogs|2018|8|19|11|0|7
+SHOWDOGS|SHOW DOGS|KARINGAL|KARINGAL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=312&sessionid=279517&date=20180818&time=10:30&ReturnUrl=%2Fmovies%2Fshow-dogs|2018|8|18|10|30|4
+SHOWDOGS|SHOW DOGS|KARINGAL|KARINGAL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=312&sessionid=278816&date=20180818&time=11:00&ReturnUrl=%2Fmovies%2Fshow-dogs|2018|8|18|11|0|4
+SHOWDOGS|SHOW DOGS|KARINGAL|KARINGAL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=312&sessionid=279752&date=20180819&time=10:30&ReturnUrl=%2Fmovies%2Fshow-dogs|2018|8|19|10|30|7
+SHOWDOGS|SHOW DOGS|KARINGAL|KARINGAL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=312&sessionid=278817&date=20180819&time=11:00&ReturnUrl=%2Fmovies%2Fshow-dogs|2018|8|19|11|0|7
+SHOWDOGS|SHOW DOGS|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=518540&date=20180818&time=11:00&ReturnUrl=%2Fmovies%2Fshow-dogs|2018|8|18|11|0|4
+SHOWDOGS|SHOW DOGS|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=518541&date=20180819&time=11:00&ReturnUrl=%2Fmovies%2Fshow-dogs|2018|8|19|11|0|7
+SHOWDOGS|SHOW DOGS|MORWELL|MORWELL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=320&sessionid=238374&date=20180818&time=10:45&ReturnUrl=%2Fmovies%2Fshow-dogs|2018|8|18|10|45|4
+SHOWDOGS|SHOW DOGS|MORWELL|MORWELL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=320&sessionid=237812&date=20180818&time=11:00&ReturnUrl=%2Fmovies%2Fshow-dogs|2018|8|18|11|0|4
+SHOWDOGS|SHOW DOGS|MORWELL|MORWELL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=320&sessionid=238436&date=20180819&time=10:45&ReturnUrl=%2Fmovies%2Fshow-dogs|2018|8|19|10|45|7
+SHOWDOGS|SHOW DOGS|MORWELL|MORWELL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=320&sessionid=237813&date=20180819&time=11:00&ReturnUrl=%2Fmovies%2Fshow-dogs|2018|8|19|11|0|7
+SHOWDOGS|SHOW DOGS|PLENTY_VALLEY|PLENTY VALLEY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=285&sessionid=6817&date=20180818&time=10:45&ReturnUrl=%2Fmovies%2Fshow-dogs|2018|8|18|10|45|4
+SHOWDOGS|SHOW DOGS|PLENTY_VALLEY|PLENTY VALLEY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=285&sessionid=6984&date=20180819&time=10:45&ReturnUrl=%2Fmovies%2Fshow-dogs|2018|8|19|10|45|7
+SHOWDOGS|SHOW DOGS|SHEPPARTON|SHEPPARTON|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=025&sessionid=137390&date=20180818&time=10:50&ReturnUrl=%2Fmovies%2Fshow-dogs|2018|8|18|10|50|4
+SHOWDOGS|SHOW DOGS|SHEPPARTON|SHEPPARTON|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=025&sessionid=137418&date=20180819&time=10:50&ReturnUrl=%2Fmovies%2Fshow-dogs|2018|8|19|10|50|7
+SHOWDOGS|SHOW DOGS|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=579864&date=20180818&time=10:20&ReturnUrl=%2Fmovies%2Fshow-dogs|2018|8|18|10|20|4
+SHOWDOGS|SHOW DOGS|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=578553&date=20180818&time=11:00&ReturnUrl=%2Fmovies%2Fshow-dogs|2018|8|18|11|0|4
+SHOWDOGS|SHOW DOGS|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=580212&date=20180819&time=10:20&ReturnUrl=%2Fmovies%2Fshow-dogs|2018|8|19|10|20|7
+SHOWDOGS|SHOW DOGS|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=578554&date=20180819&time=11:00&ReturnUrl=%2Fmovies%2Fshow-dogs|2018|8|19|11|0|7
+SHOWDOGS|SHOW DOGS|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673338&date=20180818&time=10:15&ReturnUrl=%2Fmovies%2Fshow-dogs|2018|8|18|10|15|4
+SHOWDOGS|SHOW DOGS|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=672044&date=20180818&time=11:00&ReturnUrl=%2Fmovies%2Fshow-dogs|2018|8|18|11|0|4
+SHOWDOGS|SHOW DOGS|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673508&date=20180819&time=10:15&ReturnUrl=%2Fmovies%2Fshow-dogs|2018|8|19|10|15|7
+SHOWDOGS|SHOW DOGS|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=672045&date=20180819&time=11:00&ReturnUrl=%2Fmovies%2Fshow-dogs|2018|8|19|11|0|7
+SHOWDOGS|SHOW DOGS|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181558&date=20180818&time=10:00&ReturnUrl=%2Fmovies%2Fshow-dogs|2018|8|18|10|0|4
+SHOWDOGS|SHOW DOGS|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=180716&date=20180818&time=11:00&ReturnUrl=%2Fmovies%2Fshow-dogs|2018|8|18|11|0|4
+SHOWDOGS|SHOW DOGS|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181847&date=20180819&time=10:00&ReturnUrl=%2Fmovies%2Fshow-dogs|2018|8|19|10|0|7
+SHOWDOGS|SHOW DOGS|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=180717&date=20180819&time=11:00&ReturnUrl=%2Fmovies%2Fshow-dogs|2018|8|19|11|0|7

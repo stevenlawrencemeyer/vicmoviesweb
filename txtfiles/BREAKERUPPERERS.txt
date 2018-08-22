@@ -1,0 +1,38 @@
+BREAKERUPPERERS|THE BREAKER UPPERERS|EASTLAND|EASTLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=EASTLN&sessionId=269409|2018|8|17|10|0|1
+BREAKERUPPERERS|THE BREAKER UPPERERS|EASTLAND|EASTLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=EASTLN&sessionId=269179|2018|8|17|16|0|2
+BREAKERUPPERERS|THE BREAKER UPPERERS|EASTLAND|EASTLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=EASTLN&sessionId=269444|2018|8|18|10|0|4
+BREAKERUPPERERS|THE BREAKER UPPERERS|EASTLAND|EASTLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=EASTLN&sessionId=269184|2018|8|18|16|0|5
+BREAKERUPPERERS|THE BREAKER UPPERERS|EASTLAND|EASTLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=EASTLN&sessionId=269449|2018|8|19|10|0|7
+BREAKERUPPERERS|THE BREAKER UPPERERS|GREENSBOROUGH|GREENSBOROUGH|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=GRENSB&sessionId=164247|2018|8|17|14|55|2
+BREAKERUPPERERS|THE BREAKER UPPERERS|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341828|2018|8|17|10|15|1
+BREAKERUPPERERS|THE BREAKER UPPERERS|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341880|2018|8|18|10|15|4
+BREAKERUPPERERS|THE BREAKER UPPERERS|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341860|2018|8|19|10|0|7
+BREAKERUPPERERS|THE BREAKER UPPERERS|NORTHLAND|NORTHLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=NORTHL&sessionId=258209|2018|8|17|10|0|1
+BREAKERUPPERERS|THE BREAKER UPPERERS|NORTHLAND|NORTHLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=NORTHL&sessionId=258214|2018|8|18|10|0|4
+BREAKERUPPERERS|THE BREAKER UPPERERS|NORTHLAND|NORTHLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=NORTHL&sessionId=258219|2018|8|19|10|0|7
+BREAKERUPPERERS|THE BREAKER UPPERERS|GEELONG|GEELONG|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=121&sessionid=360485&date=20180817&time=19:30&ReturnUrl=%2Fmovies%2Fthe-breaker-upperers|2018|8|17|19|30|3
+BREAKERUPPERERS|THE BREAKER UPPERERS|GEELONG|GEELONG|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=121&sessionid=360314&date=20180818&time=18:00&ReturnUrl=%2Fmovies%2Fthe-breaker-upperers|2018|8|18|18|0|5
+BREAKERUPPERERS|THE BREAKER UPPERERS|GEELONG|GEELONG|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=121&sessionid=360441&date=20180819&time=17:50&ReturnUrl=%2Fmovies%2Fthe-breaker-upperers|2018|8|19|17|50|8
+BREAKERUPPERERS|THE BREAKER UPPERERS|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545659&date=20180817&time=12:00&ReturnUrl=%2Fmovies%2Fthe-breaker-upperers|2018|8|17|12|0|1
+BREAKERUPPERERS|THE BREAKER UPPERERS|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545660&date=20180817&time=14:00&ReturnUrl=%2Fmovies%2Fthe-breaker-upperers|2018|8|17|14|0|2
+BREAKERUPPERERS|THE BREAKER UPPERERS|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545791&date=20180817&time=18:30&ReturnUrl=%2Fmovies%2Fthe-breaker-upperers|2018|8|17|18|30|2
+BREAKERUPPERERS|THE BREAKER UPPERERS|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545793&date=20180818&time=11:00&ReturnUrl=%2Fmovies%2Fthe-breaker-upperers|2018|8|18|11|0|4
+BREAKERUPPERERS|THE BREAKER UPPERERS|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545586&date=20180818&time=14:15&ReturnUrl=%2Fmovies%2Fthe-breaker-upperers|2018|8|18|14|15|5
+BREAKERUPPERERS|THE BREAKER UPPERERS|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545587&date=20180818&time=19:00&ReturnUrl=%2Fmovies%2Fthe-breaker-upperers|2018|8|18|19|0|6
+BREAKERUPPERERS|THE BREAKER UPPERERS|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545744&date=20180819&time=11:10&ReturnUrl=%2Fmovies%2Fthe-breaker-upperers|2018|8|19|11|10|7
+BREAKERUPPERERS|THE BREAKER UPPERERS|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545756&date=20180819&time=13:10&ReturnUrl=%2Fmovies%2Fthe-breaker-upperers|2018|8|19|13|10|8
+BREAKERUPPERERS|THE BREAKER UPPERERS|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545666&date=20180819&time=19:00&ReturnUrl=%2Fmovies%2Fthe-breaker-upperers|2018|8|19|19|0|9
+BREAKERUPPERERS|THE BREAKER UPPERERS|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519942&date=20180817&time=12:20&ReturnUrl=%2Fmovies%2Fthe-breaker-upperers|2018|8|17|12|20|1
+BREAKERUPPERERS|THE BREAKER UPPERERS|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519828&date=20180817&time=18:00&ReturnUrl=%2Fmovies%2Fthe-breaker-upperers|2018|8|17|18|0|2
+BREAKERUPPERERS|THE BREAKER UPPERERS|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519630&date=20180818&time=12:20&ReturnUrl=%2Fmovies%2Fthe-breaker-upperers|2018|8|18|12|20|4
+BREAKERUPPERERS|THE BREAKER UPPERERS|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519615&date=20180818&time=18:00&ReturnUrl=%2Fmovies%2Fthe-breaker-upperers|2018|8|18|18|0|5
+BREAKERUPPERERS|THE BREAKER UPPERERS|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519947&date=20180819&time=12:20&ReturnUrl=%2Fmovies%2Fthe-breaker-upperers|2018|8|19|12|20|7
+BREAKERUPPERERS|THE BREAKER UPPERERS|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519833&date=20180819&time=17:45&ReturnUrl=%2Fmovies%2Fthe-breaker-upperers|2018|8|19|17|45|8
+BREAKERUPPERERS|THE BREAKER UPPERERS|RIVOLI|RIVOLI|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=023&sessionid=287201&date=20180817&time=16:20&ReturnUrl=%2Fmovies%2Fthe-breaker-upperers|2018|8|17|16|20|2
+BREAKERUPPERERS|THE BREAKER UPPERERS|RIVOLI|RIVOLI|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=023&sessionid=287227&date=20180817&time=18:40&ReturnUrl=%2Fmovies%2Fthe-breaker-upperers|2018|8|17|18|40|2
+BREAKERUPPERERS|THE BREAKER UPPERERS|RIVOLI|RIVOLI|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=023&sessionid=287069&date=20180818&time=13:50&ReturnUrl=%2Fmovies%2Fthe-breaker-upperers|2018|8|18|13|50|5
+BREAKERUPPERERS|THE BREAKER UPPERERS|RIVOLI|RIVOLI|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=023&sessionid=287082&date=20180818&time=21:00&ReturnUrl=%2Fmovies%2Fthe-breaker-upperers|2018|8|18|21|0|6
+BREAKERUPPERERS|THE BREAKER UPPERERS|RIVOLI|RIVOLI|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=023&sessionid=287251&date=20180819&time=20:30&ReturnUrl=%2Fmovies%2Fthe-breaker-upperers|2018|8|19|20|30|9
+BREAKERUPPERERS|THE BREAKER UPPERERS|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=579925&date=20180817&time=13:00&ReturnUrl=%2Fmovies%2Fthe-breaker-upperers|2018|8|17|13|0|2
+BREAKERUPPERERS|THE BREAKER UPPERERS|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=579819&date=20180818&time=13:00&ReturnUrl=%2Fmovies%2Fthe-breaker-upperers|2018|8|18|13|0|5
+BREAKERUPPERERS|THE BREAKER UPPERERS|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=579929&date=20180819&time=13:00&ReturnUrl=%2Fmovies%2Fthe-breaker-upperers|2018|8|19|13|0|8

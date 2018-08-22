@@ -1,0 +1,306 @@
+DARKESTMINDS|THE DARKEST MINDS|BROADMEADOWS|BROADMEADOWS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=BMWCIN&sessionId=140108|2018|8|17|10|15|1
+DARKESTMINDS|THE DARKEST MINDS|BROADMEADOWS|BROADMEADOWS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=BMWCIN&sessionId=139995|2018|8|17|15|15|2
+DARKESTMINDS|THE DARKEST MINDS|BROADMEADOWS|BROADMEADOWS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=BMWCIN&sessionId=140136|2018|8|17|21|10|3
+DARKESTMINDS|THE DARKEST MINDS|BROADMEADOWS|BROADMEADOWS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=BMWCIN&sessionId=140112|2018|8|18|10|15|4
+DARKESTMINDS|THE DARKEST MINDS|BROADMEADOWS|BROADMEADOWS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=BMWCIN&sessionId=140000|2018|8|18|15|15|5
+DARKESTMINDS|THE DARKEST MINDS|BROADMEADOWS|BROADMEADOWS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=BMWCIN&sessionId=139975|2018|8|18|19|20|6
+DARKESTMINDS|THE DARKEST MINDS|BROADMEADOWS|BROADMEADOWS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=BMWCIN&sessionId=140117|2018|8|19|10|15|7
+DARKESTMINDS|THE DARKEST MINDS|BROADMEADOWS|BROADMEADOWS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=BMWCIN&sessionId=140004|2018|8|19|12|45|7
+DARKESTMINDS|THE DARKEST MINDS|BROADMEADOWS|BROADMEADOWS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=BMWCIN&sessionId=140157|2018|8|19|16|45|8
+DARKESTMINDS|THE DARKEST MINDS|BROADMEADOWS|BROADMEADOWS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=BMWCIN&sessionId=139977|2018|8|19|19|0|9
+DARKESTMINDS|THE DARKEST MINDS|CHADSTONE|CHADSTONE|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=CHDSTN&sessionId=59584|2018|8|17|10|15|1
+DARKESTMINDS|THE DARKEST MINDS|CHADSTONE|CHADSTONE|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=CHDSTN&sessionId=59614|2018|8|17|13|15|2
+DARKESTMINDS|THE DARKEST MINDS|CHADSTONE|CHADSTONE|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=CHDSTN&sessionId=59615|2018|8|17|15|45|2
+DARKESTMINDS|THE DARKEST MINDS|CHADSTONE|CHADSTONE|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=CHDSTN&sessionId=59616|2018|8|17|17|50|2
+DARKESTMINDS|THE DARKEST MINDS|CHADSTONE|CHADSTONE|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=CHDSTN&sessionId=59698|2018|8|17|20|10|3
+DARKESTMINDS|THE DARKEST MINDS|CHADSTONE|CHADSTONE|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=CHDSTN&sessionId=59840|2018|8|18|10|20|4
+DARKESTMINDS|THE DARKEST MINDS|CHADSTONE|CHADSTONE|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=CHDSTN&sessionId=59620|2018|8|18|15|45|5
+DARKESTMINDS|THE DARKEST MINDS|CHADSTONE|CHADSTONE|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=CHDSTN&sessionId=59591|2018|8|18|19|0|6
+DARKESTMINDS|THE DARKEST MINDS|CHADSTONE|CHADSTONE|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=CHDSTN&sessionId=59702|2018|8|18|20|50|6
+DARKESTMINDS|THE DARKEST MINDS|CHADSTONE|CHADSTONE|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=CHDSTN&sessionId=59841|2018|8|19|10|15|7
+DARKESTMINDS|THE DARKEST MINDS|CHADSTONE|CHADSTONE|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=CHDSTN&sessionId=59705|2018|8|19|17|0|8
+DARKESTMINDS|THE DARKEST MINDS|CHADSTONE|CHADSTONE|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=CHDSTN&sessionId=59707|2018|8|19|21|40|9
+DARKESTMINDS|THE DARKEST MINDS|EASTLAND|EASTLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=EASTLN&sessionId=269266|2018|8|17|10|0|1
+DARKESTMINDS|THE DARKEST MINDS|EASTLAND|EASTLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=EASTLN&sessionId=269267|2018|8|17|12|30|1
+DARKESTMINDS|THE DARKEST MINDS|EASTLAND|EASTLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=EASTLN&sessionId=269328|2018|8|17|16|10|2
+DARKESTMINDS|THE DARKEST MINDS|EASTLAND|EASTLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=EASTLN&sessionId=269180|2018|8|17|18|0|2
+DARKESTMINDS|THE DARKEST MINDS|EASTLAND|EASTLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=EASTLN&sessionId=269329|2018|8|17|21|10|3
+DARKESTMINDS|THE DARKEST MINDS|EASTLAND|EASTLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=EASTLN&sessionId=269271|2018|8|18|10|0|4
+DARKESTMINDS|THE DARKEST MINDS|EASTLAND|EASTLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=EASTLN&sessionId=269272|2018|8|18|12|30|4
+DARKESTMINDS|THE DARKEST MINDS|EASTLAND|EASTLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=EASTLN&sessionId=269332|2018|8|18|16|10|5
+DARKESTMINDS|THE DARKEST MINDS|EASTLAND|EASTLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=EASTLN&sessionId=269333|2018|8|18|18|40|5
+DARKESTMINDS|THE DARKEST MINDS|EASTLAND|EASTLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=EASTLN&sessionId=269334|2018|8|18|21|10|6
+DARKESTMINDS|THE DARKEST MINDS|EASTLAND|EASTLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=EASTLN&sessionId=269276|2018|8|19|10|0|7
+DARKESTMINDS|THE DARKEST MINDS|EASTLAND|EASTLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=EASTLN&sessionId=269277|2018|8|19|12|30|7
+DARKESTMINDS|THE DARKEST MINDS|EASTLAND|EASTLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=EASTLN&sessionId=269337|2018|8|19|16|10|8
+DARKESTMINDS|THE DARKEST MINDS|EASTLAND|EASTLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=EASTLN&sessionId=269338|2018|8|19|18|40|8
+DARKESTMINDS|THE DARKEST MINDS|EASTLAND|EASTLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=EASTLN&sessionId=269339|2018|8|19|21|10|9
+DARKESTMINDS|THE DARKEST MINDS|FOREST_HILL|FOREST HILL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FHLCIN&sessionId=128139|2018|8|17|11|30|1
+DARKESTMINDS|THE DARKEST MINDS|FOREST_HILL|FOREST HILL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FHLCIN&sessionId=128118|2018|8|17|15|30|2
+DARKESTMINDS|THE DARKEST MINDS|FOREST_HILL|FOREST HILL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FHLCIN&sessionId=128119|2018|8|17|20|30|3
+DARKESTMINDS|THE DARKEST MINDS|FOREST_HILL|FOREST HILL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FHLCIN&sessionId=128144|2018|8|18|12|0|4
+DARKESTMINDS|THE DARKEST MINDS|FOREST_HILL|FOREST HILL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FHLCIN&sessionId=128120|2018|8|18|16|40|5
+DARKESTMINDS|THE DARKEST MINDS|FOREST_HILL|FOREST HILL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FHLCIN&sessionId=128121|2018|8|18|19|0|6
+DARKESTMINDS|THE DARKEST MINDS|FOREST_HILL|FOREST HILL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FHLCIN&sessionId=128235|2018|8|19|12|0|7
+DARKESTMINDS|THE DARKEST MINDS|FOREST_HILL|FOREST HILL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FHLCIN&sessionId=128283|2018|8|19|16|50|8
+DARKESTMINDS|THE DARKEST MINDS|FOREST_HILL|FOREST HILL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FHLCIN&sessionId=128124|2018|8|19|19|10|9
+DARKESTMINDS|THE DARKEST MINDS|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=181853|2018|8|17|10|30|1
+DARKESTMINDS|THE DARKEST MINDS|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=181854|2018|8|17|13|0|2
+DARKESTMINDS|THE DARKEST MINDS|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=181771|2018|8|17|15|45|2
+DARKESTMINDS|THE DARKEST MINDS|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=181968|2018|8|17|18|30|2
+DARKESTMINDS|THE DARKEST MINDS|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=181999|2018|8|17|21|30|3
+DARKESTMINDS|THE DARKEST MINDS|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=181858|2018|8|18|10|30|4
+DARKESTMINDS|THE DARKEST MINDS|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=181859|2018|8|18|13|0|5
+DARKESTMINDS|THE DARKEST MINDS|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=181776|2018|8|18|15|45|5
+DARKESTMINDS|THE DARKEST MINDS|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=181973|2018|8|18|18|40|5
+DARKESTMINDS|THE DARKEST MINDS|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=181894|2018|8|18|21|40|6
+DARKESTMINDS|THE DARKEST MINDS|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=181863|2018|8|19|10|30|7
+DARKESTMINDS|THE DARKEST MINDS|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=181864|2018|8|19|13|0|8
+DARKESTMINDS|THE DARKEST MINDS|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=181781|2018|8|19|16|20|8
+DARKESTMINDS|THE DARKEST MINDS|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=181729|2018|8|19|18|30|8
+DARKESTMINDS|THE DARKEST MINDS|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=181900|2018|8|19|21|30|9
+DARKESTMINDS|THE DARKEST MINDS|GREENSBOROUGH|GREENSBOROUGH|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=GRENSB&sessionId=164279|2018|8|17|10|30|1
+DARKESTMINDS|THE DARKEST MINDS|GREENSBOROUGH|GREENSBOROUGH|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=GRENSB&sessionId=164181|2018|8|17|14|10|2
+DARKESTMINDS|THE DARKEST MINDS|GREENSBOROUGH|GREENSBOROUGH|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=GRENSB&sessionId=164341|2018|8|17|16|30|2
+DARKESTMINDS|THE DARKEST MINDS|GREENSBOROUGH|GREENSBOROUGH|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=GRENSB&sessionId=164312|2018|8|17|19|5|3
+DARKESTMINDS|THE DARKEST MINDS|GREENSBOROUGH|GREENSBOROUGH|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=GRENSB&sessionId=164249|2018|8|17|21|30|3
+DARKESTMINDS|THE DARKEST MINDS|GREENSBOROUGH|GREENSBOROUGH|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=GRENSB&sessionId=164160|2018|8|18|10|45|4
+DARKESTMINDS|THE DARKEST MINDS|GREENSBOROUGH|GREENSBOROUGH|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=GRENSB&sessionId=164285|2018|8|18|12|50|4
+DARKESTMINDS|THE DARKEST MINDS|GREENSBOROUGH|GREENSBOROUGH|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=GRENSB&sessionId=164346|2018|8|18|16|30|5
+DARKESTMINDS|THE DARKEST MINDS|GREENSBOROUGH|GREENSBOROUGH|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=GRENSB&sessionId=164317|2018|8|18|19|0|6
+DARKESTMINDS|THE DARKEST MINDS|GREENSBOROUGH|GREENSBOROUGH|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=GRENSB&sessionId=164255|2018|8|18|21|40|6
+DARKESTMINDS|THE DARKEST MINDS|GREENSBOROUGH|GREENSBOROUGH|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=GRENSB&sessionId=164289|2018|8|19|10|45|7
+DARKESTMINDS|THE DARKEST MINDS|GREENSBOROUGH|GREENSBOROUGH|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=GRENSB&sessionId=164258|2018|8|19|16|40|8
+DARKESTMINDS|THE DARKEST MINDS|GREENSBOROUGH|GREENSBOROUGH|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=GRENSB&sessionId=164322|2018|8|19|19|5|9
+DARKESTMINDS|THE DARKEST MINDS|GREENSBOROUGH|GREENSBOROUGH|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=GRENSB&sessionId=164260|2018|8|19|21|40|9
+DARKESTMINDS|THE DARKEST MINDS|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341523|2018|8|17|10|30|1
+DARKESTMINDS|THE DARKEST MINDS|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341524|2018|8|17|13|0|2
+DARKESTMINDS|THE DARKEST MINDS|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341525|2018|8|17|15|30|2
+DARKESTMINDS|THE DARKEST MINDS|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341526|2018|8|17|18|0|2
+DARKESTMINDS|THE DARKEST MINDS|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341527|2018|8|17|20|30|3
+DARKESTMINDS|THE DARKEST MINDS|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341528|2018|8|18|10|30|4
+DARKESTMINDS|THE DARKEST MINDS|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341529|2018|8|18|13|0|5
+DARKESTMINDS|THE DARKEST MINDS|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341530|2018|8|18|15|30|5
+DARKESTMINDS|THE DARKEST MINDS|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341717|2018|8|18|19|0|6
+DARKESTMINDS|THE DARKEST MINDS|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341531|2018|8|18|20|45|6
+DARKESTMINDS|THE DARKEST MINDS|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341446|2018|8|19|10|30|7
+DARKESTMINDS|THE DARKEST MINDS|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341447|2018|8|19|13|0|8
+DARKESTMINDS|THE DARKEST MINDS|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341533|2018|8|19|16|45|8
+DARKESTMINDS|THE DARKEST MINDS|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341534|2018|8|19|19|10|9
+DARKESTMINDS|THE DARKEST MINDS|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341535|2018|8|19|21|30|9
+DARKESTMINDS|THE DARKEST MINDS|MELBOURNE_CENTRAL|MELBOURNE CENTRAL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=MCECIN&sessionId=217058|2018|8|17|10|0|1
+DARKESTMINDS|THE DARKEST MINDS|MELBOURNE_CENTRAL|MELBOURNE CENTRAL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=MCECIN&sessionId=216989|2018|8|17|13|0|2
+DARKESTMINDS|THE DARKEST MINDS|MELBOURNE_CENTRAL|MELBOURNE CENTRAL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=MCECIN&sessionId=217060|2018|8|17|15|30|2
+DARKESTMINDS|THE DARKEST MINDS|MELBOURNE_CENTRAL|MELBOURNE CENTRAL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=MCECIN&sessionId=216959|2018|8|18|10|0|4
+DARKESTMINDS|THE DARKEST MINDS|MELBOURNE_CENTRAL|MELBOURNE CENTRAL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=MCECIN&sessionId=216961|2018|8|18|14|30|5
+DARKESTMINDS|THE DARKEST MINDS|MELBOURNE_CENTRAL|MELBOURNE CENTRAL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=MCECIN&sessionId=216840|2018|8|18|20|15|6
+DARKESTMINDS|THE DARKEST MINDS|MELBOURNE_CENTRAL|MELBOURNE CENTRAL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=MCECIN&sessionId=216964|2018|8|19|10|0|7
+DARKESTMINDS|THE DARKEST MINDS|MELBOURNE_CENTRAL|MELBOURNE CENTRAL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=MCECIN&sessionId=216846|2018|8|19|21|15|9
+DARKESTMINDS|THE DARKEST MINDS|NORTHLAND|NORTHLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=NORTHL&sessionId=258072|2018|8|17|10|40|1
+DARKESTMINDS|THE DARKEST MINDS|NORTHLAND|NORTHLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=NORTHL&sessionId=258073|2018|8|17|13|20|2
+DARKESTMINDS|THE DARKEST MINDS|NORTHLAND|NORTHLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=NORTHL&sessionId=258074|2018|8|17|15|45|2
+DARKESTMINDS|THE DARKEST MINDS|NORTHLAND|NORTHLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=NORTHL&sessionId=258075|2018|8|17|18|15|2
+DARKESTMINDS|THE DARKEST MINDS|NORTHLAND|NORTHLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=NORTHL&sessionId=258242|2018|8|17|21|10|3
+DARKESTMINDS|THE DARKEST MINDS|NORTHLAND|NORTHLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=NORTHL&sessionId=258077|2018|8|18|10|40|4
+DARKESTMINDS|THE DARKEST MINDS|NORTHLAND|NORTHLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=NORTHL&sessionId=258078|2018|8|18|13|20|5
+DARKESTMINDS|THE DARKEST MINDS|NORTHLAND|NORTHLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=NORTHL&sessionId=258079|2018|8|18|15|45|5
+DARKESTMINDS|THE DARKEST MINDS|NORTHLAND|NORTHLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=NORTHL&sessionId=258080|2018|8|18|18|15|5
+DARKESTMINDS|THE DARKEST MINDS|NORTHLAND|NORTHLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=NORTHL&sessionId=258192|2018|8|18|20|50|6
+DARKESTMINDS|THE DARKEST MINDS|NORTHLAND|NORTHLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=NORTHL&sessionId=258082|2018|8|19|10|40|7
+DARKESTMINDS|THE DARKEST MINDS|NORTHLAND|NORTHLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=NORTHL&sessionId=258084|2018|8|19|15|45|8
+DARKESTMINDS|THE DARKEST MINDS|NORTHLAND|NORTHLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=NORTHL&sessionId=258085|2018|8|19|18|15|8
+DARKESTMINDS|THE DARKEST MINDS|NORTHLAND|NORTHLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=NORTHL&sessionId=258169|2018|8|19|21|20|9
+DARKESTMINDS|THE DARKEST MINDS|VICTORIA_GARDENS|VICTORIA GARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=VGDCIN&sessionId=204706|2018|8|17|10|30|1
+DARKESTMINDS|THE DARKEST MINDS|VICTORIA_GARDENS|VICTORIA GARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=VGDCIN&sessionId=204678|2018|8|17|16|0|2
+DARKESTMINDS|THE DARKEST MINDS|VICTORIA_GARDENS|VICTORIA GARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=VGDCIN&sessionId=204630|2018|8|17|18|0|2
+DARKESTMINDS|THE DARKEST MINDS|VICTORIA_GARDENS|VICTORIA GARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=VGDCIN&sessionId=204653|2018|8|17|21|30|3
+DARKESTMINDS|THE DARKEST MINDS|VICTORIA_GARDENS|VICTORIA GARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=VGDCIN&sessionId=204711|2018|8|18|10|30|4
+DARKESTMINDS|THE DARKEST MINDS|VICTORIA_GARDENS|VICTORIA GARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=VGDCIN&sessionId=204654|2018|8|18|17|15|5
+DARKESTMINDS|THE DARKEST MINDS|VICTORIA_GARDENS|VICTORIA GARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=VGDCIN&sessionId=204655|2018|8|18|19|30|6
+DARKESTMINDS|THE DARKEST MINDS|VICTORIA_GARDENS|VICTORIA GARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=VGDCIN&sessionId=204656|2018|8|18|21|45|6
+DARKESTMINDS|THE DARKEST MINDS|VICTORIA_GARDENS|VICTORIA GARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=VGDCIN&sessionId=204716|2018|8|19|10|30|7
+DARKESTMINDS|THE DARKEST MINDS|VICTORIA_GARDENS|VICTORIA GARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=VGDCIN&sessionId=204657|2018|8|19|17|15|8
+DARKESTMINDS|THE DARKEST MINDS|VICTORIA_GARDENS|VICTORIA GARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=VGDCIN&sessionId=204658|2018|8|19|19|30|9
+DARKESTMINDS|THE DARKEST MINDS|VICTORIA_GARDENS|VICTORIA GARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=VGDCIN&sessionId=204659|2018|8|19|21|45|9
+DARKESTMINDS|THE DARKEST MINDS|WATERGARDENS|WATERGARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=TAYLOR&sessionId=157229|2018|8|17|12|45|1
+DARKESTMINDS|THE DARKEST MINDS|WATERGARDENS|WATERGARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=TAYLOR&sessionId=157230|2018|8|17|15|30|2
+DARKESTMINDS|THE DARKEST MINDS|WATERGARDENS|WATERGARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=TAYLOR&sessionId=157231|2018|8|17|18|15|2
+DARKESTMINDS|THE DARKEST MINDS|WATERGARDENS|WATERGARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=TAYLOR&sessionId=157029|2018|8|18|12|45|4
+DARKESTMINDS|THE DARKEST MINDS|WATERGARDENS|WATERGARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=TAYLOR&sessionId=157030|2018|8|18|15|20|5
+DARKESTMINDS|THE DARKEST MINDS|WATERGARDENS|WATERGARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=TAYLOR&sessionId=157031|2018|8|18|18|15|5
+DARKESTMINDS|THE DARKEST MINDS|WATERGARDENS|WATERGARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=TAYLOR&sessionId=157034|2018|8|19|13|0|8
+DARKESTMINDS|THE DARKEST MINDS|WATERGARDENS|WATERGARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=TAYLOR&sessionId=157211|2018|8|19|16|45|8
+DARKESTMINDS|THE DARKEST MINDS|WATERGARDENS|WATERGARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=TAYLOR&sessionId=157212|2018|8|19|19|15|9
+DARKESTMINDS|THE DARKEST MINDS|WATERGARDENS|WATERGARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=TAYLOR&sessionId=157213|2018|8|19|21|40|9
+DARKESTMINDS|THE DARKEST MINDS|AIRPORT_WEST|AIRPORT WEST|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=272&sessionid=294377&date=20180817&time=10:40&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|17|10|40|1
+DARKESTMINDS|THE DARKEST MINDS|AIRPORT_WEST|AIRPORT WEST|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=272&sessionid=294351&date=20180817&time=13:10&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|17|13|10|2
+DARKESTMINDS|THE DARKEST MINDS|AIRPORT_WEST|AIRPORT WEST|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=272&sessionid=294353&date=20180817&time=18:40&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|17|18|40|2
+DARKESTMINDS|THE DARKEST MINDS|AIRPORT_WEST|AIRPORT WEST|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=272&sessionid=294354&date=20180817&time=21:00&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|17|21|0|3
+DARKESTMINDS|THE DARKEST MINDS|AIRPORT_WEST|AIRPORT WEST|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=272&sessionid=294276&date=20180818&time=10:40&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|18|10|40|4
+DARKESTMINDS|THE DARKEST MINDS|AIRPORT_WEST|AIRPORT WEST|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=272&sessionid=294277&date=20180818&time=13:10&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|18|13|10|5
+DARKESTMINDS|THE DARKEST MINDS|AIRPORT_WEST|AIRPORT WEST|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=272&sessionid=294279&date=20180818&time=18:40&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|18|18|40|5
+DARKESTMINDS|THE DARKEST MINDS|AIRPORT_WEST|AIRPORT WEST|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=272&sessionid=294280&date=20180818&time=21:00&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|18|21|0|6
+DARKESTMINDS|THE DARKEST MINDS|AIRPORT_WEST|AIRPORT WEST|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=272&sessionid=294341&date=20180819&time=10:40&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|19|10|40|7
+DARKESTMINDS|THE DARKEST MINDS|AIRPORT_WEST|AIRPORT WEST|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=272&sessionid=294342&date=20180819&time=13:10&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|19|13|10|8
+DARKESTMINDS|THE DARKEST MINDS|AIRPORT_WEST|AIRPORT WEST|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=272&sessionid=294344&date=20180819&time=18:40&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|19|18|40|8
+DARKESTMINDS|THE DARKEST MINDS|AIRPORT_WEST|AIRPORT WEST|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=272&sessionid=294345&date=20180819&time=21:00&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|19|21|0|9
+DARKESTMINDS|THE DARKEST MINDS|BENDIGO|BENDIGO|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=024&sessionid=39992&date=20180817&time=10:45&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|17|10|45|1
+DARKESTMINDS|THE DARKEST MINDS|BENDIGO|BENDIGO|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=024&sessionid=40096&date=20180817&time=16:00&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|17|16|0|2
+DARKESTMINDS|THE DARKEST MINDS|BENDIGO|BENDIGO|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=024&sessionid=39994&date=20180817&time=18:30&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|17|18|30|2
+DARKESTMINDS|THE DARKEST MINDS|BENDIGO|BENDIGO|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=024&sessionid=39894&date=20180818&time=11:00&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|18|11|0|4
+DARKESTMINDS|THE DARKEST MINDS|BENDIGO|BENDIGO|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=024&sessionid=39895&date=20180818&time=13:15&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|18|13|15|5
+DARKESTMINDS|THE DARKEST MINDS|BENDIGO|BENDIGO|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=024&sessionid=39897&date=20180818&time=18:30&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|18|18|30|5
+DARKESTMINDS|THE DARKEST MINDS|BENDIGO|BENDIGO|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=024&sessionid=39925&date=20180819&time=10:30&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|19|10|30|7
+DARKESTMINDS|THE DARKEST MINDS|BENDIGO|BENDIGO|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=024&sessionid=39926&date=20180819&time=12:45&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|19|12|45|7
+DARKESTMINDS|THE DARKEST MINDS|BENDIGO|BENDIGO|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=024&sessionid=39933&date=20180819&time=18:30&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|19|18|30|8
+DARKESTMINDS|THE DARKEST MINDS|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353248&date=20180817&time=12:00&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|17|12|0|1
+DARKESTMINDS|THE DARKEST MINDS|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353249&date=20180817&time=14:15&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|17|14|15|2
+DARKESTMINDS|THE DARKEST MINDS|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353423&date=20180817&time=18:45&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|17|18|45|2
+DARKESTMINDS|THE DARKEST MINDS|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353197&date=20180818&time=11:50&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|18|11|50|4
+DARKESTMINDS|THE DARKEST MINDS|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353201&date=20180818&time=14:10&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|18|14|10|5
+DARKESTMINDS|THE DARKEST MINDS|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353232&date=20180818&time=18:45&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|18|18|45|5
+DARKESTMINDS|THE DARKEST MINDS|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353246&date=20180819&time=12:00&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|19|12|0|7
+DARKESTMINDS|THE DARKEST MINDS|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353247&date=20180819&time=14:15&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|19|14|15|8
+DARKESTMINDS|THE DARKEST MINDS|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353419&date=20180819&time=18:45&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|19|18|45|8
+DARKESTMINDS|THE DARKEST MINDS|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484125&date=20180817&time=10:45&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|17|10|45|1
+DARKESTMINDS|THE DARKEST MINDS|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484127&date=20180817&time=13:15&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|17|13|15|2
+DARKESTMINDS|THE DARKEST MINDS|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484075&date=20180817&time=18:40&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|17|18|40|2
+DARKESTMINDS|THE DARKEST MINDS|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484014&date=20180818&time=11:00&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|18|11|0|4
+DARKESTMINDS|THE DARKEST MINDS|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484015&date=20180818&time=13:15&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|18|13|15|5
+DARKESTMINDS|THE DARKEST MINDS|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484008&date=20180818&time=18:40&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|18|18|40|5
+DARKESTMINDS|THE DARKEST MINDS|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484151&date=20180819&time=11:15&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|19|11|15|7
+DARKESTMINDS|THE DARKEST MINDS|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484153&date=20180819&time=13:45&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|19|13|45|8
+DARKESTMINDS|THE DARKEST MINDS|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484071&date=20180819&time=18:40&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|19|18|40|8
+DARKESTMINDS|THE DARKEST MINDS|DONCASTER|DONCASTER|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=301&sessionid=185839&date=20180817&time=14:00&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|17|14|0|2
+DARKESTMINDS|THE DARKEST MINDS|DONCASTER|DONCASTER|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=301&sessionid=185840&date=20180817&time=16:30&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|17|16|30|2
+DARKESTMINDS|THE DARKEST MINDS|DONCASTER|DONCASTER|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=301&sessionid=185841&date=20180817&time=19:00&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|17|19|0|3
+DARKESTMINDS|THE DARKEST MINDS|DONCASTER|DONCASTER|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=301&sessionid=185762&date=20180818&time=14:00&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|18|14|0|5
+DARKESTMINDS|THE DARKEST MINDS|DONCASTER|DONCASTER|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=301&sessionid=185763&date=20180818&time=16:30&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|18|16|30|5
+DARKESTMINDS|THE DARKEST MINDS|DONCASTER|DONCASTER|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=301&sessionid=185764&date=20180818&time=19:00&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|18|19|0|6
+DARKESTMINDS|THE DARKEST MINDS|DONCASTER|DONCASTER|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=301&sessionid=185831&date=20180819&time=14:00&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|19|14|0|8
+DARKESTMINDS|THE DARKEST MINDS|DONCASTER|DONCASTER|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=301&sessionid=185887&date=20180819&time=16:30&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|19|16|30|8
+DARKESTMINDS|THE DARKEST MINDS|DONCASTER|DONCASTER|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=301&sessionid=185832&date=20180819&time=19:00&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|19|19|0|9
+DARKESTMINDS|THE DARKEST MINDS|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=412014&date=20180817&time=10:00&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|17|10|0|1
+DARKESTMINDS|THE DARKEST MINDS|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=412074&date=20180817&time=13:10&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|17|13|10|2
+DARKESTMINDS|THE DARKEST MINDS|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=411960&date=20180817&time=15:45&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|17|15|45|2
+DARKESTMINDS|THE DARKEST MINDS|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=412106&date=20180817&time=18:15&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|17|18|15|2
+DARKESTMINDS|THE DARKEST MINDS|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=412047&date=20180817&time=21:20&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|17|21|20|3
+DARKESTMINDS|THE DARKEST MINDS|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=411805&date=20180818&time=11:00&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|18|11|0|4
+DARKESTMINDS|THE DARKEST MINDS|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=411795&date=20180818&time=13:10&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|18|13|10|5
+DARKESTMINDS|THE DARKEST MINDS|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=411789&date=20180818&time=15:45&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|18|15|45|5
+DARKESTMINDS|THE DARKEST MINDS|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=411796&date=20180818&time=18:20&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|18|18|20|5
+DARKESTMINDS|THE DARKEST MINDS|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=411819&date=20180818&time=21:20&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|18|21|20|6
+DARKESTMINDS|THE DARKEST MINDS|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=412019&date=20180819&time=11:00&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|19|11|0|7
+DARKESTMINDS|THE DARKEST MINDS|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=412049&date=20180819&time=13:10&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|19|13|10|8
+DARKESTMINDS|THE DARKEST MINDS|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=411936&date=20180819&time=15:45&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|19|15|45|8
+DARKESTMINDS|THE DARKEST MINDS|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=411965&date=20180819&time=18:20&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|19|18|20|8
+DARKESTMINDS|THE DARKEST MINDS|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=412023&date=20180819&time=21:20&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|19|21|20|9
+DARKESTMINDS|THE DARKEST MINDS|GEELONG|GEELONG|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=121&sessionid=360526&date=20180817&time=12:50&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|17|12|50|1
+DARKESTMINDS|THE DARKEST MINDS|GEELONG|GEELONG|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=121&sessionid=360504&date=20180817&time=16:30&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|17|16|30|2
+DARKESTMINDS|THE DARKEST MINDS|GEELONG|GEELONG|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=121&sessionid=360604&date=20180817&time=18:40&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|17|18|40|2
+DARKESTMINDS|THE DARKEST MINDS|GEELONG|GEELONG|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=121&sessionid=360366&date=20180817&time=21:30&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|17|21|30|3
+DARKESTMINDS|THE DARKEST MINDS|GEELONG|GEELONG|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=121&sessionid=360322&date=20180818&time=11:20&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|18|11|20|4
+DARKESTMINDS|THE DARKEST MINDS|GEELONG|GEELONG|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=121&sessionid=360323&date=20180818&time=13:40&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|18|13|40|5
+DARKESTMINDS|THE DARKEST MINDS|GEELONG|GEELONG|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=121&sessionid=360324&date=20180818&time=18:40&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|18|18|40|5
+DARKESTMINDS|THE DARKEST MINDS|GEELONG|GEELONG|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=121&sessionid=360325&date=20180818&time=21:30&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|18|21|30|6
+DARKESTMINDS|THE DARKEST MINDS|GEELONG|GEELONG|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=121&sessionid=360585&date=20180819&time=10:00&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|19|10|0|7
+DARKESTMINDS|THE DARKEST MINDS|GEELONG|GEELONG|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=121&sessionid=360489&date=20180819&time=13:40&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|19|13|40|8
+DARKESTMINDS|THE DARKEST MINDS|GEELONG|GEELONG|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=121&sessionid=360490&date=20180819&time=18:30&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|19|18|30|8
+DARKESTMINDS|THE DARKEST MINDS|GEELONG|GEELONG|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=121&sessionid=360350&date=20180819&time=21:30&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|19|21|30|9
+DARKESTMINDS|THE DARKEST MINDS|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545911&date=20180817&time=13:00&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|17|13|0|2
+DARKESTMINDS|THE DARKEST MINDS|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545764&date=20180817&time=16:10&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|17|16|10|2
+DARKESTMINDS|THE DARKEST MINDS|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545662&date=20180817&time=18:45&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|17|18|45|2
+DARKESTMINDS|THE DARKEST MINDS|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545663&date=20180817&time=21:15&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|17|21|15|3
+DARKESTMINDS|THE DARKEST MINDS|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545604&date=20180818&time=13:50&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|18|13|50|5
+DARKESTMINDS|THE DARKEST MINDS|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545605&date=20180818&time=16:10&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|18|16|10|5
+DARKESTMINDS|THE DARKEST MINDS|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545606&date=20180818&time=18:30&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|18|18|30|5
+DARKESTMINDS|THE DARKEST MINDS|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545588&date=20180818&time=21:15&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|18|21|15|6
+DARKESTMINDS|THE DARKEST MINDS|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545768&date=20180819&time=13:50&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|19|13|50|8
+DARKESTMINDS|THE DARKEST MINDS|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545769&date=20180819&time=16:10&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|19|16|10|8
+DARKESTMINDS|THE DARKEST MINDS|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545770&date=20180819&time=18:30&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|19|18|30|8
+DARKESTMINDS|THE DARKEST MINDS|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545719&date=20180819&time=21:15&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|19|21|15|9
+DARKESTMINDS|THE DARKEST MINDS|KARINGAL|KARINGAL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=312&sessionid=279742&date=20180817&time=11:15&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|17|11|15|1
+DARKESTMINDS|THE DARKEST MINDS|KARINGAL|KARINGAL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=312&sessionid=279744&date=20180817&time=15:50&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|17|15|50|2
+DARKESTMINDS|THE DARKEST MINDS|KARINGAL|KARINGAL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=312&sessionid=279745&date=20180817&time=18:15&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|17|18|15|2
+DARKESTMINDS|THE DARKEST MINDS|KARINGAL|KARINGAL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=312&sessionid=279512&date=20180818&time=11:15&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|18|11|15|4
+DARKESTMINDS|THE DARKEST MINDS|KARINGAL|KARINGAL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=312&sessionid=279514&date=20180818&time=15:50&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|18|15|50|5
+DARKESTMINDS|THE DARKEST MINDS|KARINGAL|KARINGAL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=312&sessionid=279513&date=20180818&time=18:15&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|18|18|15|5
+DARKESTMINDS|THE DARKEST MINDS|KARINGAL|KARINGAL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=312&sessionid=279832&date=20180819&time=11:30&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|19|11|30|7
+DARKESTMINDS|THE DARKEST MINDS|KARINGAL|KARINGAL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=312&sessionid=279723&date=20180819&time=16:00&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|19|16|0|8
+DARKESTMINDS|THE DARKEST MINDS|KARINGAL|KARINGAL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=312&sessionid=279724&date=20180819&time=18:15&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|19|18|15|8
+DARKESTMINDS|THE DARKEST MINDS|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519769&date=20180817&time=13:15&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|17|13|15|2
+DARKESTMINDS|THE DARKEST MINDS|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519857&date=20180817&time=18:30&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|17|18|30|2
+DARKESTMINDS|THE DARKEST MINDS|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519708&date=20180817&time=21:40&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|17|21|40|3
+DARKESTMINDS|THE DARKEST MINDS|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519612&date=20180818&time=10:30&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|18|10|30|4
+DARKESTMINDS|THE DARKEST MINDS|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519602&date=20180818&time=13:15&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|18|13|15|5
+DARKESTMINDS|THE DARKEST MINDS|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519619&date=20180818&time=18:30&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|18|18|30|5
+DARKESTMINDS|THE DARKEST MINDS|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519595&date=20180818&time=21:40&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|18|21|40|6
+DARKESTMINDS|THE DARKEST MINDS|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519830&date=20180819&time=10:10&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|19|10|10|7
+DARKESTMINDS|THE DARKEST MINDS|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519774&date=20180819&time=13:15&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|19|13|15|8
+DARKESTMINDS|THE DARKEST MINDS|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519861&date=20180819&time=18:30&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|19|18|30|8
+DARKESTMINDS|THE DARKEST MINDS|MORWELL|MORWELL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=320&sessionid=238536&date=20180817&time=13:10&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|17|13|10|2
+DARKESTMINDS|THE DARKEST MINDS|MORWELL|MORWELL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=320&sessionid=238589&date=20180817&time=15:15&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|17|15|15|2
+DARKESTMINDS|THE DARKEST MINDS|MORWELL|MORWELL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=320&sessionid=238590&date=20180817&time=18:00&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|17|18|0|2
+DARKESTMINDS|THE DARKEST MINDS|MORWELL|MORWELL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=320&sessionid=238591&date=20180817&time=20:20&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|17|20|20|3
+DARKESTMINDS|THE DARKEST MINDS|MORWELL|MORWELL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=320&sessionid=238389&date=20180818&time=13:10&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|18|13|10|5
+DARKESTMINDS|THE DARKEST MINDS|MORWELL|MORWELL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=320&sessionid=238399&date=20180818&time=15:15&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|18|15|15|5
+DARKESTMINDS|THE DARKEST MINDS|MORWELL|MORWELL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=320&sessionid=238400&date=20180818&time=18:00&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|18|18|0|5
+DARKESTMINDS|THE DARKEST MINDS|MORWELL|MORWELL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=320&sessionid=238401&date=20180818&time=20:20&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|18|20|20|6
+DARKESTMINDS|THE DARKEST MINDS|MORWELL|MORWELL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=320&sessionid=238521&date=20180819&time=13:10&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|19|13|10|8
+DARKESTMINDS|THE DARKEST MINDS|MORWELL|MORWELL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=320&sessionid=238577&date=20180819&time=15:15&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|19|15|15|8
+DARKESTMINDS|THE DARKEST MINDS|MORWELL|MORWELL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=320&sessionid=238578&date=20180819&time=18:00&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|19|18|0|8
+DARKESTMINDS|THE DARKEST MINDS|MORWELL|MORWELL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=320&sessionid=238579&date=20180819&time=20:20&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|19|20|20|9
+DARKESTMINDS|THE DARKEST MINDS|PLENTY_VALLEY|PLENTY VALLEY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=285&sessionid=6956&date=20180817&time=10:15&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|17|10|15|1
+DARKESTMINDS|THE DARKEST MINDS|PLENTY_VALLEY|PLENTY VALLEY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=285&sessionid=7001&date=20180817&time=15:45&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|17|15|45|2
+DARKESTMINDS|THE DARKEST MINDS|PLENTY_VALLEY|PLENTY VALLEY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=285&sessionid=7049&date=20180817&time=18:30&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|17|18|30|2
+DARKESTMINDS|THE DARKEST MINDS|PLENTY_VALLEY|PLENTY VALLEY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=285&sessionid=6812&date=20180818&time=10:15&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|18|10|15|4
+DARKESTMINDS|THE DARKEST MINDS|PLENTY_VALLEY|PLENTY VALLEY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=285&sessionid=6819&date=20180818&time=15:45&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|18|15|45|5
+DARKESTMINDS|THE DARKEST MINDS|PLENTY_VALLEY|PLENTY VALLEY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=285&sessionid=6826&date=20180818&time=18:30&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|18|18|30|5
+DARKESTMINDS|THE DARKEST MINDS|PLENTY_VALLEY|PLENTY VALLEY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=285&sessionid=6961&date=20180819&time=10:15&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|19|10|15|7
+DARKESTMINDS|THE DARKEST MINDS|PLENTY_VALLEY|PLENTY VALLEY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=285&sessionid=6986&date=20180819&time=15:45&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|19|15|45|8
+DARKESTMINDS|THE DARKEST MINDS|PLENTY_VALLEY|PLENTY VALLEY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=285&sessionid=7055&date=20180819&time=18:30&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|19|18|30|8
+DARKESTMINDS|THE DARKEST MINDS|SHEPPARTON|SHEPPARTON|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=025&sessionid=137478&date=20180817&time=13:30&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|17|13|30|2
+DARKESTMINDS|THE DARKEST MINDS|SHEPPARTON|SHEPPARTON|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=025&sessionid=137453&date=20180817&time=16:10&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|17|16|10|2
+DARKESTMINDS|THE DARKEST MINDS|SHEPPARTON|SHEPPARTON|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=025&sessionid=137454&date=20180817&time=18:30&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|17|18|30|2
+DARKESTMINDS|THE DARKEST MINDS|SHEPPARTON|SHEPPARTON|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=025&sessionid=137388&date=20180818&time=13:30&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|18|13|30|5
+DARKESTMINDS|THE DARKEST MINDS|SHEPPARTON|SHEPPARTON|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=025&sessionid=137385&date=20180818&time=16:10&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|18|16|10|5
+DARKESTMINDS|THE DARKEST MINDS|SHEPPARTON|SHEPPARTON|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=025&sessionid=137386&date=20180818&time=18:30&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|18|18|30|5
+DARKESTMINDS|THE DARKEST MINDS|SHEPPARTON|SHEPPARTON|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=025&sessionid=137409&date=20180819&time=13:30&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|19|13|30|8
+DARKESTMINDS|THE DARKEST MINDS|SHEPPARTON|SHEPPARTON|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=025&sessionid=137400&date=20180819&time=16:10&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|19|16|10|8
+DARKESTMINDS|THE DARKEST MINDS|SHEPPARTON|SHEPPARTON|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=025&sessionid=137411&date=20180819&time=18:30&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|19|18|30|8
+DARKESTMINDS|THE DARKEST MINDS|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=579983&date=20180817&time=12:40&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|17|12|40|1
+DARKESTMINDS|THE DARKEST MINDS|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=580209&date=20180817&time=15:50&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|17|15|50|2
+DARKESTMINDS|THE DARKEST MINDS|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=579927&date=20180817&time=18:00&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|17|18|0|2
+DARKESTMINDS|THE DARKEST MINDS|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=580069&date=20180817&time=21:10&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|17|21|10|3
+DARKESTMINDS|THE DARKEST MINDS|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=579828&date=20180818&time=12:40&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|18|12|40|4
+DARKESTMINDS|THE DARKEST MINDS|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=579863&date=20180818&time=15:50&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|18|15|50|5
+DARKESTMINDS|THE DARKEST MINDS|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=579817&date=20180818&time=18:00&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|18|18|0|5
+DARKESTMINDS|THE DARKEST MINDS|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=579840&date=20180818&time=21:10&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|18|21|10|6
+DARKESTMINDS|THE DARKEST MINDS|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=579987&date=20180819&time=12:10&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|19|12|10|7
+DARKESTMINDS|THE DARKEST MINDS|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=580214&date=20180819&time=15:50&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|19|15|50|8
+DARKESTMINDS|THE DARKEST MINDS|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=579931&date=20180819&time=18:00&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|19|18|0|8
+DARKESTMINDS|THE DARKEST MINDS|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=580074&date=20180819&time=21:30&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|19|21|30|9
+DARKESTMINDS|THE DARKEST MINDS|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673425&date=20180817&time=11:15&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|17|11|15|1
+DARKESTMINDS|THE DARKEST MINDS|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673429&date=20180817&time=13:40&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|17|13|40|2
+DARKESTMINDS|THE DARKEST MINDS|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673430&date=20180817&time=16:00&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|17|16|0|2
+DARKESTMINDS|THE DARKEST MINDS|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673712&date=20180817&time=18:00&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|17|18|0|2
+DARKESTMINDS|THE DARKEST MINDS|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673431&date=20180817&time=21:30&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|17|21|30|3
+DARKESTMINDS|THE DARKEST MINDS|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673323&date=20180818&time=11:15&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|18|11|15|4
+DARKESTMINDS|THE DARKEST MINDS|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673324&date=20180818&time=13:40&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|18|13|40|5
+DARKESTMINDS|THE DARKEST MINDS|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673368&date=20180818&time=15:50&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|18|15|50|5
+DARKESTMINDS|THE DARKEST MINDS|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673325&date=20180818&time=18:20&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|18|18|20|5
+DARKESTMINDS|THE DARKEST MINDS|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673326&date=20180818&time=20:40&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|18|20|40|6
+DARKESTMINDS|THE DARKEST MINDS|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673410&date=20180819&time=11:15&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|19|11|15|7
+DARKESTMINDS|THE DARKEST MINDS|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673411&date=20180819&time=13:40&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|19|13|40|8
+DARKESTMINDS|THE DARKEST MINDS|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673667&date=20180819&time=15:50&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|19|15|50|8
+DARKESTMINDS|THE DARKEST MINDS|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673412&date=20180819&time=18:20&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|19|18|20|8
+DARKESTMINDS|THE DARKEST MINDS|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673413&date=20180819&time=20:40&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|19|20|40|9
+DARKESTMINDS|THE DARKEST MINDS|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181812&date=20180817&time=10:00&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|17|10|0|1
+DARKESTMINDS|THE DARKEST MINDS|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181844&date=20180817&time=15:30&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|17|15|30|2
+DARKESTMINDS|THE DARKEST MINDS|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181785&date=20180817&time=18:00&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|17|18|0|2
+DARKESTMINDS|THE DARKEST MINDS|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181562&date=20180818&time=10:00&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|18|10|0|4
+DARKESTMINDS|THE DARKEST MINDS|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181570&date=20180818&time=15:30&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|18|15|30|5
+DARKESTMINDS|THE DARKEST MINDS|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181561&date=20180818&time=18:00&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|18|18|0|5
+DARKESTMINDS|THE DARKEST MINDS|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181787&date=20180819&time=13:10&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|19|13|10|8
+DARKESTMINDS|THE DARKEST MINDS|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181820&date=20180819&time=15:30&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|19|15|30|8
+DARKESTMINDS|THE DARKEST MINDS|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181765&date=20180819&time=18:30&ReturnUrl=%2Fmovies%2Fthe-darkest-minds|2018|8|19|18|30|8

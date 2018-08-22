@@ -1,0 +1,15 @@
+VISHWAROOPAM2|VISHWAROOPAM 2|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341802|2018|8|17|17|15|2
+VISHWAROOPAM2|VISHWAROOPAM 2|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341807|2018|8|18|17|15|5
+VISHWAROOPAM2|VISHWAROOPAM 2|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519742&date=20180817&time=20:50&ReturnUrl=%2Fmovies%2Fvishwaroopam-2|2018|8|17|20|50|3
+VISHWAROOPAM2|VISHWAROOPAM 2|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519600&date=20180818&time=20:50&ReturnUrl=%2Fmovies%2Fvishwaroopam-2|2018|8|18|20|50|6
+VISHWAROOPAM2|VISHWAROOPAM 2|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519747&date=20180819&time=20:50&ReturnUrl=%2Fmovies%2Fvishwaroopam-2|2018|8|19|20|50|9
+VISHWAROOPAM2|VISHWAROOPAM 2|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673734&date=20180817&time=11:20&ReturnUrl=%2Fmovies%2Fvishwaroopam-2|2018|8|17|11|20|1
+VISHWAROOPAM2|VISHWAROOPAM 2|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673735&date=20180817&time=14:30&ReturnUrl=%2Fmovies%2Fvishwaroopam-2|2018|8|17|14|30|2
+VISHWAROOPAM2|VISHWAROOPAM 2|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673736&date=20180817&time=17:40&ReturnUrl=%2Fmovies%2Fvishwaroopam-2|2018|8|17|17|40|2
+VISHWAROOPAM2|VISHWAROOPAM 2|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673403&date=20180818&time=11:20&ReturnUrl=%2Fmovies%2Fvishwaroopam-2|2018|8|18|11|20|4
+VISHWAROOPAM2|VISHWAROOPAM 2|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673404&date=20180818&time=14:30&ReturnUrl=%2Fmovies%2Fvishwaroopam-2|2018|8|18|14|30|5
+VISHWAROOPAM2|VISHWAROOPAM 2|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673405&date=20180818&time=17:40&ReturnUrl=%2Fmovies%2Fvishwaroopam-2|2018|8|18|17|40|5
+VISHWAROOPAM2|VISHWAROOPAM 2|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673718&date=20180819&time=11:20&ReturnUrl=%2Fmovies%2Fvishwaroopam-2|2018|8|19|11|20|7
+VISHWAROOPAM2|VISHWAROOPAM 2|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673719&date=20180819&time=14:30&ReturnUrl=%2Fmovies%2Fvishwaroopam-2|2018|8|19|14|30|8
+VISHWAROOPAM2|VISHWAROOPAM 2|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673720&date=20180819&time=17:30&ReturnUrl=%2Fmovies%2Fvishwaroopam-2|2018|8|19|17|30|8
+VISHWAROOPAM2|VISHWAROOPAM 2|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673721&date=20180819&time=20:50&ReturnUrl=%2Fmovies%2Fvishwaroopam-2|2018|8|19|20|50|9

@@ -1,0 +1,3 @@
+GOODACHARI|GOODACHARI|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673689&date=20180817&time=20:50&ReturnUrl=%2Fmovies%2Fgoodachari|2018|8|17|20|50|3
+GOODACHARI|GOODACHARI|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673370&date=20180818&time=21:00&ReturnUrl=%2Fmovies%2Fgoodachari|2018|8|18|21|0|6
+GOODACHARI|GOODACHARI|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673669&date=20180819&time=21:00&ReturnUrl=%2Fmovies%2Fgoodachari|2018|8|19|21|0|9

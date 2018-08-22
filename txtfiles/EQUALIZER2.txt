@@ -1,0 +1,148 @@
+EQUALIZER2|THE EQUALIZER 2|CHADSTONE|CHADSTONE|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=CHDSTN&sessionId=59695|2018|8|17|12|40|1
+EQUALIZER2|THE EQUALIZER 2|CHADSTONE|CHADSTONE|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=CHDSTN&sessionId=59700|2018|8|18|12|30|4
+EQUALIZER2|THE EQUALIZER 2|EASTLAND|EASTLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=EASTLN&sessionId=269470|2018|8|17|13|0|2
+EQUALIZER2|THE EQUALIZER 2|EASTLAND|EASTLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=EASTLN&sessionId=269156|2018|8|17|15|30|2
+EQUALIZER2|THE EQUALIZER 2|EASTLAND|EASTLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=EASTLN&sessionId=269181|2018|8|17|20|40|3
+EQUALIZER2|THE EQUALIZER 2|EASTLAND|EASTLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=EASTLN&sessionId=269161|2018|8|18|15|30|5
+EQUALIZER2|THE EQUALIZER 2|EASTLAND|EASTLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=EASTLN&sessionId=269186|2018|8|18|20|30|6
+EQUALIZER2|THE EQUALIZER 2|EASTLAND|EASTLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=EASTLN&sessionId=269190|2018|8|19|20|0|9
+EQUALIZER2|THE EQUALIZER 2|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=181966|2018|8|17|12|50|1
+EQUALIZER2|THE EQUALIZER 2|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=181855|2018|8|17|15|30|2
+EQUALIZER2|THE EQUALIZER 2|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=181745|2018|8|17|16|30|2
+EQUALIZER2|THE EQUALIZER 2|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=181998|2018|8|17|18|40|2
+EQUALIZER2|THE EQUALIZER 2|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=182030|2018|8|17|21|30|3
+EQUALIZER2|THE EQUALIZER 2|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=181971|2018|8|18|12|45|4
+EQUALIZER2|THE EQUALIZER 2|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=181922|2018|8|18|16|20|5
+EQUALIZER2|THE EQUALIZER 2|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=181893|2018|8|18|18|50|5
+EQUALIZER2|THE EQUALIZER 2|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=182035|2018|8|18|21|30|6
+EQUALIZER2|THE EQUALIZER 2|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=181976|2018|8|19|12|50|7
+EQUALIZER2|THE EQUALIZER 2|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=181926|2018|8|19|16|45|8
+EQUALIZER2|THE EQUALIZER 2|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=182040|2018|8|19|21|30|9
+EQUALIZER2|THE EQUALIZER 2|GREENSBOROUGH|GREENSBOROUGH|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=GRENSB&sessionId=164281|2018|8|17|15|30|2
+EQUALIZER2|THE EQUALIZER 2|GREENSBOROUGH|GREENSBOROUGH|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=GRENSB&sessionId=164313|2018|8|17|21|30|3
+EQUALIZER2|THE EQUALIZER 2|GREENSBOROUGH|GREENSBOROUGH|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=GRENSB&sessionId=164162|2018|8|18|15|50|5
+EQUALIZER2|THE EQUALIZER 2|GREENSBOROUGH|GREENSBOROUGH|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=GRENSB&sessionId=164348|2018|8|18|21|30|6
+EQUALIZER2|THE EQUALIZER 2|GREENSBOROUGH|GREENSBOROUGH|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=GRENSB&sessionId=164291|2018|8|19|15|50|8
+EQUALIZER2|THE EQUALIZER 2|GREENSBOROUGH|GREENSBOROUGH|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=GRENSB&sessionId=164293|2018|8|19|21|30|9
+EQUALIZER2|THE EQUALIZER 2|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341853|2018|8|17|13|10|2
+EQUALIZER2|THE EQUALIZER 2|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341854|2018|8|17|16|0|2
+EQUALIZER2|THE EQUALIZER 2|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341855|2018|8|17|21|20|3
+EQUALIZER2|THE EQUALIZER 2|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341834|2018|8|18|13|10|5
+EQUALIZER2|THE EQUALIZER 2|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341835|2018|8|18|16|0|5
+EQUALIZER2|THE EQUALIZER 2|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341836|2018|8|18|18|40|5
+EQUALIZER2|THE EQUALIZER 2|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341837|2018|8|18|21|20|6
+EQUALIZER2|THE EQUALIZER 2|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341781|2018|8|19|15|40|8
+EQUALIZER2|THE EQUALIZER 2|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341887|2018|8|19|18|40|8
+EQUALIZER2|THE EQUALIZER 2|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341888|2018|8|19|21|20|9
+EQUALIZER2|THE EQUALIZER 2|NORTHLAND|NORTHLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=NORTHL&sessionId=258103|2018|8|17|13|0|2
+EQUALIZER2|THE EQUALIZER 2|NORTHLAND|NORTHLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=NORTHL&sessionId=258241|2018|8|17|15|15|2
+EQUALIZER2|THE EQUALIZER 2|NORTHLAND|NORTHLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=NORTHL&sessionId=258106|2018|8|17|21|20|3
+EQUALIZER2|THE EQUALIZER 2|NORTHLAND|NORTHLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=NORTHL&sessionId=258108|2018|8|18|13|0|5
+EQUALIZER2|THE EQUALIZER 2|NORTHLAND|NORTHLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=NORTHL&sessionId=258185|2018|8|18|15|15|5
+EQUALIZER2|THE EQUALIZER 2|NORTHLAND|NORTHLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=NORTHL&sessionId=258111|2018|8|18|21|20|6
+EQUALIZER2|THE EQUALIZER 2|NORTHLAND|NORTHLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=NORTHL&sessionId=258113|2018|8|19|13|0|8
+EQUALIZER2|THE EQUALIZER 2|NORTHLAND|NORTHLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=NORTHL&sessionId=258116|2018|8|19|21|20|9
+EQUALIZER2|THE EQUALIZER 2|VICTORIA_GARDENS|VICTORIA GARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=VGDCIN&sessionId=204677|2018|8|17|13|15|2
+EQUALIZER2|THE EQUALIZER 2|VICTORIA_GARDENS|VICTORIA GARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=VGDCIN&sessionId=204652|2018|8|17|16|30|2
+EQUALIZER2|THE EQUALIZER 2|VICTORIA_GARDENS|VICTORIA GARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=VGDCIN&sessionId=204680|2018|8|17|21|20|3
+EQUALIZER2|THE EQUALIZER 2|VICTORIA_GARDENS|VICTORIA GARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=VGDCIN&sessionId=204682|2018|8|18|13|15|5
+EQUALIZER2|THE EQUALIZER 2|VICTORIA_GARDENS|VICTORIA GARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=VGDCIN&sessionId=204685|2018|8|18|21|20|6
+EQUALIZER2|THE EQUALIZER 2|VICTORIA_GARDENS|VICTORIA GARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=VGDCIN&sessionId=204690|2018|8|19|21|30|9
+EQUALIZER2|THE EQUALIZER 2|WATERGARDENS|WATERGARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=TAYLOR&sessionId=157202|2018|8|17|16|0|2
+EQUALIZER2|THE EQUALIZER 2|WATERGARDENS|WATERGARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=TAYLOR&sessionId=157203|2018|8|17|21|20|3
+EQUALIZER2|THE EQUALIZER 2|WATERGARDENS|WATERGARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=TAYLOR&sessionId=157236|2018|8|18|21|0|6
+EQUALIZER2|THE EQUALIZER 2|WATERGARDENS|WATERGARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=TAYLOR&sessionId=157237|2018|8|19|21|20|9
+EQUALIZER2|THE EQUALIZER 2|AIRPORT_WEST|AIRPORT WEST|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=272&sessionid=294523&date=20180817&time=20:30&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|17|20|30|3
+EQUALIZER2|THE EQUALIZER 2|AIRPORT_WEST|AIRPORT WEST|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=272&sessionid=294310&date=20180818&time=20:30&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|18|20|30|6
+EQUALIZER2|THE EQUALIZER 2|AIRPORT_WEST|AIRPORT WEST|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=272&sessionid=294513&date=20180819&time=20:30&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|19|20|30|9
+EQUALIZER2|THE EQUALIZER 2|BENDIGO|BENDIGO|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=024&sessionid=39991&date=20180817&time=21:15&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|17|21|15|3
+EQUALIZER2|THE EQUALIZER 2|BENDIGO|BENDIGO|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=024&sessionid=39887&date=20180818&time=21:15&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|18|21|15|6
+EQUALIZER2|THE EQUALIZER 2|BENDIGO|BENDIGO|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=024&sessionid=39922&date=20180819&time=21:15&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|19|21|15|9
+EQUALIZER2|THE EQUALIZER 2|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353399&date=20180817&time=21:30&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|17|21|30|3
+EQUALIZER2|THE EQUALIZER 2|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353229&date=20180818&time=21:30&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|18|21|30|6
+EQUALIZER2|THE EQUALIZER 2|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353417&date=20180819&time=16:00&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|19|16|0|8
+EQUALIZER2|THE EQUALIZER 2|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484260&date=20180817&time=16:15&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|17|16|15|2
+EQUALIZER2|THE EQUALIZER 2|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484160&date=20180817&time=21:20&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|17|21|20|3
+EQUALIZER2|THE EQUALIZER 2|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484262&date=20180817&time=21:45&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|17|21|45|3
+EQUALIZER2|THE EQUALIZER 2|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484021&date=20180818&time=13:30&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|18|13|30|5
+EQUALIZER2|THE EQUALIZER 2|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484038&date=20180818&time=16:15&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|18|16|15|5
+EQUALIZER2|THE EQUALIZER 2|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484022&date=20180818&time=21:20&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|18|21|20|6
+EQUALIZER2|THE EQUALIZER 2|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484040&date=20180818&time=22:00&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|18|22|0|6
+EQUALIZER2|THE EQUALIZER 2|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484256&date=20180819&time=16:15&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|19|16|15|8
+EQUALIZER2|THE EQUALIZER 2|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484156&date=20180819&time=21:35&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|19|21|35|9
+EQUALIZER2|THE EQUALIZER 2|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484258&date=20180819&time=21:45&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|19|21|45|9
+EQUALIZER2|THE EQUALIZER 2|DONCASTER|DONCASTER|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=301&sessionid=185897&date=20180817&time=15:45&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|17|15|45|2
+EQUALIZER2|THE EQUALIZER 2|DONCASTER|DONCASTER|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=301&sessionid=185774&date=20180818&time=15:45&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|18|15|45|5
+EQUALIZER2|THE EQUALIZER 2|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=411987&date=20180817&time=13:00&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|17|13|0|2
+EQUALIZER2|THE EQUALIZER 2|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=412193&date=20180817&time=15:45&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|17|15|45|2
+EQUALIZER2|THE EQUALIZER 2|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=412256&date=20180817&time=15:45&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|17|15|45|2
+EQUALIZER2|THE EQUALIZER 2|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=412137&date=20180817&time=21:00&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|17|21|0|3
+EQUALIZER2|THE EQUALIZER 2|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=412195&date=20180817&time=21:00&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|17|21|0|3
+EQUALIZER2|THE EQUALIZER 2|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=411788&date=20180818&time=13:10&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|18|13|10|5
+EQUALIZER2|THE EQUALIZER 2|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=411836&date=20180818&time=15:45&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|18|15|45|5
+EQUALIZER2|THE EQUALIZER 2|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=411818&date=20180818&time=18:15&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|18|18|15|5
+EQUALIZER2|THE EQUALIZER 2|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=411831&date=20180818&time=21:00&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|18|21|0|6
+EQUALIZER2|THE EQUALIZER 2|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=411935&date=20180819&time=13:10&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|19|13|10|8
+EQUALIZER2|THE EQUALIZER 2|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=412169&date=20180819&time=15:45&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|19|15|45|8
+EQUALIZER2|THE EQUALIZER 2|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=412081&date=20180819&time=18:15&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|19|18|15|8
+EQUALIZER2|THE EQUALIZER 2|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=412171&date=20180819&time=21:00&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|19|21|0|9
+EQUALIZER2|THE EQUALIZER 2|GEELONG|GEELONG|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=121&sessionid=360603&date=20180817&time=16:00&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|17|16|0|2
+EQUALIZER2|THE EQUALIZER 2|GEELONG|GEELONG|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=121&sessionid=360488&date=20180817&time=21:30&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|17|21|30|3
+EQUALIZER2|THE EQUALIZER 2|GEELONG|GEELONG|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=121&sessionid=360343&date=20180818&time=16:00&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|18|16|0|5
+EQUALIZER2|THE EQUALIZER 2|GEELONG|GEELONG|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=121&sessionid=360317&date=20180818&time=21:00&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|18|21|0|6
+EQUALIZER2|THE EQUALIZER 2|GEELONG|GEELONG|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=121&sessionid=360463&date=20180819&time=21:00&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|19|21|0|9
+EQUALIZER2|THE EQUALIZER 2|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545713&date=20180817&time=13:50&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|17|13|50|2
+EQUALIZER2|THE EQUALIZER 2|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545714&date=20180817&time=16:30&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|17|16|30|2
+EQUALIZER2|THE EQUALIZER 2|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=546007&date=20180817&time=20:30&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|17|20|30|3
+EQUALIZER2|THE EQUALIZER 2|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545818&date=20180817&time=21:20&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|17|21|20|3
+EQUALIZER2|THE EQUALIZER 2|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545649&date=20180818&time=11:45&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|18|11|45|4
+EQUALIZER2|THE EQUALIZER 2|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545635&date=20180818&time=14:00&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|18|14|0|5
+EQUALIZER2|THE EQUALIZER 2|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545601&date=20180818&time=15:40&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|18|15|40|5
+EQUALIZER2|THE EQUALIZER 2|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545597&date=20180818&time=21:00&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|18|21|0|6
+EQUALIZER2|THE EQUALIZER 2|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545681&date=20180819&time=13:45&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|19|13|45|8
+EQUALIZER2|THE EQUALIZER 2|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545937&date=20180819&time=14:00&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|19|14|0|8
+EQUALIZER2|THE EQUALIZER 2|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545667&date=20180819&time=21:00&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|19|21|0|9
+EQUALIZER2|THE EQUALIZER 2|KARINGAL|KARINGAL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=312&sessionid=279822&date=20180817&time=16:00&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|17|16|0|2
+EQUALIZER2|THE EQUALIZER 2|KARINGAL|KARINGAL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=312&sessionid=279639&date=20180817&time=20:45&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|17|20|45|3
+EQUALIZER2|THE EQUALIZER 2|KARINGAL|KARINGAL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=312&sessionid=279775&date=20180817&time=21:00&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|17|21|0|3
+EQUALIZER2|THE EQUALIZER 2|KARINGAL|KARINGAL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=312&sessionid=279529&date=20180818&time=16:00&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|18|16|0|5
+EQUALIZER2|THE EQUALIZER 2|KARINGAL|KARINGAL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=312&sessionid=279542&date=20180818&time=20:45&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|18|20|45|6
+EQUALIZER2|THE EQUALIZER 2|KARINGAL|KARINGAL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=312&sessionid=279521&date=20180818&time=21:00&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|18|21|0|6
+EQUALIZER2|THE EQUALIZER 2|KARINGAL|KARINGAL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=312&sessionid=279603&date=20180819&time=20:15&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|19|20|15|9
+EQUALIZER2|THE EQUALIZER 2|KARINGAL|KARINGAL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=312&sessionid=279780&date=20180819&time=20:45&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|19|20|45|9
+EQUALIZER2|THE EQUALIZER 2|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519884&date=20180817&time=12:50&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|17|12|50|1
+EQUALIZER2|THE EQUALIZER 2|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519621&date=20180818&time=12:50&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|18|12|50|4
+EQUALIZER2|THE EQUALIZER 2|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519599&date=20180818&time=20:45&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|18|20|45|6
+EQUALIZER2|THE EQUALIZER 2|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519889&date=20180819&time=12:50&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|19|12|50|7
+EQUALIZER2|THE EQUALIZER 2|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519746&date=20180819&time=18:20&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|19|18|20|8
+EQUALIZER2|THE EQUALIZER 2|MORWELL|MORWELL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=320&sessionid=238455&date=20180817&time=21:10&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|17|21|10|3
+EQUALIZER2|THE EQUALIZER 2|MORWELL|MORWELL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=320&sessionid=238377&date=20180818&time=21:10&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|18|21|10|6
+EQUALIZER2|THE EQUALIZER 2|MORWELL|MORWELL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=320&sessionid=238440&date=20180819&time=21:10&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|19|21|10|9
+EQUALIZER2|THE EQUALIZER 2|PLENTY_VALLEY|PLENTY VALLEY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=285&sessionid=6981&date=20180817&time=16:00&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|17|16|0|2
+EQUALIZER2|THE EQUALIZER 2|PLENTY_VALLEY|PLENTY VALLEY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=285&sessionid=7110&date=20180817&time=16:30&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|17|16|30|2
+EQUALIZER2|THE EQUALIZER 2|PLENTY_VALLEY|PLENTY VALLEY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=285&sessionid=7112&date=20180817&time=21:30&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|17|21|30|3
+EQUALIZER2|THE EQUALIZER 2|PLENTY_VALLEY|PLENTY VALLEY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=285&sessionid=6814&date=20180818&time=16:00&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|18|16|0|5
+EQUALIZER2|THE EQUALIZER 2|PLENTY_VALLEY|PLENTY VALLEY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=285&sessionid=6925&date=20180818&time=16:30&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|18|16|30|5
+EQUALIZER2|THE EQUALIZER 2|PLENTY_VALLEY|PLENTY VALLEY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=285&sessionid=6927&date=20180818&time=21:30&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|18|21|30|6
+EQUALIZER2|THE EQUALIZER 2|PLENTY_VALLEY|PLENTY VALLEY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=285&sessionid=7115&date=20180819&time=16:30&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|19|16|30|8
+EQUALIZER2|THE EQUALIZER 2|PLENTY_VALLEY|PLENTY VALLEY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=285&sessionid=7117&date=20180819&time=21:30&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|19|21|30|9
+EQUALIZER2|THE EQUALIZER 2|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=580180&date=20180817&time=15:30&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|17|15|30|2
+EQUALIZER2|THE EQUALIZER 2|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=580211&date=20180817&time=21:00&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|17|21|0|3
+EQUALIZER2|THE EQUALIZER 2|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=579860&date=20180818&time=16:20&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|18|16|20|5
+EQUALIZER2|THE EQUALIZER 2|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=579867&date=20180818&time=21:00&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|18|21|0|6
+EQUALIZER2|THE EQUALIZER 2|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=580184&date=20180819&time=12:50&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|19|12|50|7
+EQUALIZER2|THE EQUALIZER 2|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=580216&date=20180819&time=21:00&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|19|21|0|9
+EQUALIZER2|THE EQUALIZER 2|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673710&date=20180817&time=12:10&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|17|12|10|1
+EQUALIZER2|THE EQUALIZER 2|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673630&date=20180817&time=19:50&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|17|19|50|3
+EQUALIZER2|THE EQUALIZER 2|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673761&date=20180817&time=21:20&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|17|21|20|3
+EQUALIZER2|THE EQUALIZER 2|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673371&date=20180818&time=12:10&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|18|12|10|4
+EQUALIZER2|THE EQUALIZER 2|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673360&date=20180818&time=19:50&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|18|19|50|6
+EQUALIZER2|THE EQUALIZER 2|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673695&date=20180819&time=12:20&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|19|12|20|7
+EQUALIZER2|THE EQUALIZER 2|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673614&date=20180819&time=19:50&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|19|19|50|9
+EQUALIZER2|THE EQUALIZER 2|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673746&date=20180819&time=21:20&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|19|21|20|9
+EQUALIZER2|THE EQUALIZER 2|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181703&date=20180817&time=14:40&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|17|14|40|2
+EQUALIZER2|THE EQUALIZER 2|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181727&date=20180817&time=17:45&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|17|17|45|2
+EQUALIZER2|THE EQUALIZER 2|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181545&date=20180818&time=14:40&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|18|14|40|5
+EQUALIZER2|THE EQUALIZER 2|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181552&date=20180818&time=17:45&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|18|17|45|5
+EQUALIZER2|THE EQUALIZER 2|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181678&date=20180819&time=14:40&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|19|14|40|8
+EQUALIZER2|THE EQUALIZER 2|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181707&date=20180819&time=18:50&ReturnUrl=%2Fmovies%2Fthe-equalizer-2|2018|8|19|18|50|8

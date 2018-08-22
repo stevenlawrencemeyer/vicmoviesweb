@@ -1,0 +1,46 @@
+GOLD|GOLD|AIRPORT_WEST|AIRPORT WEST|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=272&sessionid=294352&date=20180817&time=15:30&ReturnUrl=%2Fmovies%2Fgold|2018|8|17|15|30|2
+GOLD|GOLD|AIRPORT_WEST|AIRPORT WEST|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=272&sessionid=294381&date=20180817&time=21:20&ReturnUrl=%2Fmovies%2Fgold|2018|8|17|21|20|3
+GOLD|GOLD|AIRPORT_WEST|AIRPORT WEST|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=272&sessionid=294278&date=20180818&time=15:30&ReturnUrl=%2Fmovies%2Fgold|2018|8|18|15|30|5
+GOLD|GOLD|AIRPORT_WEST|AIRPORT WEST|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=272&sessionid=294284&date=20180818&time=21:20&ReturnUrl=%2Fmovies%2Fgold|2018|8|18|21|20|6
+GOLD|GOLD|AIRPORT_WEST|AIRPORT WEST|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=272&sessionid=294343&date=20180819&time=15:30&ReturnUrl=%2Fmovies%2Fgold|2018|8|19|15|30|8
+GOLD|GOLD|AIRPORT_WEST|AIRPORT WEST|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=272&sessionid=294372&date=20180819&time=21:20&ReturnUrl=%2Fmovies%2Fgold|2018|8|19|21|20|9
+GOLD|GOLD|BENDIGO|BENDIGO|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=024&sessionid=39899&date=20180819&time=18:00&ReturnUrl=%2Fmovies%2Fgold|2018|8|19|18|0|8
+GOLD|GOLD|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=412016&date=20180817&time=14:50&ReturnUrl=%2Fmovies%2Fgold|2018|8|17|14|50|2
+GOLD|GOLD|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=411904&date=20180817&time=20:50&ReturnUrl=%2Fmovies%2Fgold|2018|8|17|20|50|3
+GOLD|GOLD|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=411800&date=20180818&time=14:50&ReturnUrl=%2Fmovies%2Fgold|2018|8|18|14|50|5
+GOLD|GOLD|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=411780&date=20180818&time=20:50&ReturnUrl=%2Fmovies%2Fgold|2018|8|18|20|50|6
+GOLD|GOLD|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=411879&date=20180819&time=20:50&ReturnUrl=%2Fmovies%2Fgold|2018|8|19|20|50|9
+GOLD|GOLD|GEELONG|GEELONG|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=121&sessionid=360508&date=20180817&time=21:15&ReturnUrl=%2Fmovies%2Fgold|2018|8|17|21|15|3
+GOLD|GOLD|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519943&date=20180817&time=14:15&ReturnUrl=%2Fmovies%2Fgold|2018|8|17|14|15|2
+GOLD|GOLD|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519975&date=20180817&time=21:00&ReturnUrl=%2Fmovies%2Fgold|2018|8|17|21|0|3
+GOLD|GOLD|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519631&date=20180818&time=14:15&ReturnUrl=%2Fmovies%2Fgold|2018|8|18|14|15|5
+GOLD|GOLD|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519638&date=20180818&time=21:00&ReturnUrl=%2Fmovies%2Fgold|2018|8|18|21|0|6
+GOLD|GOLD|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519948&date=20180819&time=14:15&ReturnUrl=%2Fmovies%2Fgold|2018|8|19|14|15|8
+GOLD|GOLD|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519980&date=20180819&time=21:00&ReturnUrl=%2Fmovies%2Fgold|2018|8|19|21|0|9
+GOLD|GOLD|PLENTY_VALLEY|PLENTY VALLEY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=285&sessionid=6960&date=20180817&time=21:00&ReturnUrl=%2Fmovies%2Fgold|2018|8|17|21|0|3
+GOLD|GOLD|PLENTY_VALLEY|PLENTY VALLEY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=285&sessionid=6809&date=20180818&time=21:00&ReturnUrl=%2Fmovies%2Fgold|2018|8|18|21|0|6
+GOLD|GOLD|PLENTY_VALLEY|PLENTY VALLEY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=285&sessionid=6965&date=20180819&time=21:00&ReturnUrl=%2Fmovies%2Fgold|2018|8|19|21|0|9
+GOLD|GOLD|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=579984&date=20180817&time=15:00&ReturnUrl=%2Fmovies%2Fgold|2018|8|17|15|0|2
+GOLD|GOLD|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=579898&date=20180817&time=20:50&ReturnUrl=%2Fmovies%2Fgold|2018|8|17|20|50|3
+GOLD|GOLD|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=579829&date=20180818&time=15:00&ReturnUrl=%2Fmovies%2Fgold|2018|8|18|15|0|5
+GOLD|GOLD|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=579815&date=20180818&time=20:50&ReturnUrl=%2Fmovies%2Fgold|2018|8|18|20|50|6
+GOLD|GOLD|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=579988&date=20180819&time=14:30&ReturnUrl=%2Fmovies%2Fgold|2018|8|19|14|30|8
+GOLD|GOLD|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=579903&date=20180819&time=20:50&ReturnUrl=%2Fmovies%2Fgold|2018|8|19|20|50|9
+GOLD|GOLD|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673847&date=20180817&time=11:30&ReturnUrl=%2Fmovies%2Fgold|2018|8|17|11|30|1
+GOLD|GOLD|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673848&date=20180817&time=14:40&ReturnUrl=%2Fmovies%2Fgold|2018|8|17|14|40|2
+GOLD|GOLD|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673849&date=20180817&time=17:50&ReturnUrl=%2Fmovies%2Fgold|2018|8|17|17|50|2
+GOLD|GOLD|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673850&date=20180817&time=21:00&ReturnUrl=%2Fmovies%2Fgold|2018|8|17|21|0|3
+GOLD|GOLD|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673399&date=20180818&time=11:30&ReturnUrl=%2Fmovies%2Fgold|2018|8|18|11|30|4
+GOLD|GOLD|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673400&date=20180818&time=14:40&ReturnUrl=%2Fmovies%2Fgold|2018|8|18|14|40|5
+GOLD|GOLD|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673401&date=20180818&time=17:50&ReturnUrl=%2Fmovies%2Fgold|2018|8|18|17|50|5
+GOLD|GOLD|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673402&date=20180818&time=21:30&ReturnUrl=%2Fmovies%2Fgold|2018|8|18|21|30|6
+GOLD|GOLD|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673831&date=20180819&time=11:30&ReturnUrl=%2Fmovies%2Fgold|2018|8|19|11|30|7
+GOLD|GOLD|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673832&date=20180819&time=14:40&ReturnUrl=%2Fmovies%2Fgold|2018|8|19|14|40|8
+GOLD|GOLD|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673833&date=20180819&time=17:50&ReturnUrl=%2Fmovies%2Fgold|2018|8|19|17|50|8
+GOLD|GOLD|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673834&date=20180819&time=19:30&ReturnUrl=%2Fmovies%2Fgold|2018|8|19|19|30|9
+GOLD|GOLD|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181814&date=20180817&time=15:10&ReturnUrl=%2Fmovies%2Fgold|2018|8|17|15|10|2
+GOLD|GOLD|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181846&date=20180817&time=21:10&ReturnUrl=%2Fmovies%2Fgold|2018|8|17|21|10|3
+GOLD|GOLD|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181563&date=20180818&time=15:10&ReturnUrl=%2Fmovies%2Fgold|2018|8|18|15|10|5
+GOLD|GOLD|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181627&date=20180818&time=19:45&ReturnUrl=%2Fmovies%2Fgold|2018|8|18|19|45|6
+GOLD|GOLD|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181789&date=20180819&time=15:15&ReturnUrl=%2Fmovies%2Fgold|2018|8|19|15|15|8
+GOLD|GOLD|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181822&date=20180819&time=21:10&ReturnUrl=%2Fmovies%2Fgold|2018|8|19|21|10|9

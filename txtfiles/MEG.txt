@@ -1,0 +1,603 @@
+MEG|THE MEG|BROADMEADOWS|BROADMEADOWS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=BMWCIN&sessionId=140077|2018|8|17|11|0|1
+MEG|THE MEG|BROADMEADOWS|BROADMEADOWS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=BMWCIN&sessionId=140078|2018|8|17|13|30|2
+MEG|THE MEG|BROADMEADOWS|BROADMEADOWS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=BMWCIN&sessionId=140079|2018|8|17|16|0|2
+MEG|THE MEG|BROADMEADOWS|BROADMEADOWS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=BMWCIN&sessionId=140080|2018|8|17|18|45|2
+MEG|THE MEG|BROADMEADOWS|BROADMEADOWS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=BMWCIN&sessionId=140081|2018|8|17|21|15|3
+MEG|THE MEG|BROADMEADOWS|BROADMEADOWS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=BMWCIN&sessionId=140082|2018|8|18|11|0|4
+MEG|THE MEG|BROADMEADOWS|BROADMEADOWS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=BMWCIN&sessionId=140083|2018|8|18|13|30|5
+MEG|THE MEG|BROADMEADOWS|BROADMEADOWS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=BMWCIN&sessionId=140084|2018|8|18|16|0|5
+MEG|THE MEG|BROADMEADOWS|BROADMEADOWS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=BMWCIN&sessionId=140085|2018|8|18|18|45|5
+MEG|THE MEG|BROADMEADOWS|BROADMEADOWS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=BMWCIN&sessionId=140086|2018|8|18|21|15|6
+MEG|THE MEG|BROADMEADOWS|BROADMEADOWS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=BMWCIN&sessionId=140087|2018|8|19|11|0|7
+MEG|THE MEG|BROADMEADOWS|BROADMEADOWS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=BMWCIN&sessionId=140088|2018|8|19|13|30|8
+MEG|THE MEG|BROADMEADOWS|BROADMEADOWS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=BMWCIN&sessionId=140089|2018|8|19|16|0|8
+MEG|THE MEG|BROADMEADOWS|BROADMEADOWS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=BMWCIN&sessionId=140090|2018|8|19|18|45|8
+MEG|THE MEG|BROADMEADOWS|BROADMEADOWS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=BMWCIN&sessionId=140091|2018|8|19|21|15|9
+MEG|THE MEG|CHADSTONE|CHADSTONE|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=CHDSTN&sessionId=59834|2018|8|17|10|30|1
+MEG|THE MEG|CHADSTONE|CHADSTONE|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=CHDSTN&sessionId=59500|2018|8|17|13|15|2
+MEG|THE MEG|CHADSTONE|CHADSTONE|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=CHDSTN&sessionId=59501|2018|8|17|16|0|2
+MEG|THE MEG|CHADSTONE|CHADSTONE|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=CHDSTN&sessionId=59800|2018|8|17|16|20|2
+MEG|THE MEG|CHADSTONE|CHADSTONE|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=CHDSTN&sessionId=59777|2018|8|17|18|0|2
+MEG|THE MEG|CHADSTONE|CHADSTONE|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=CHDSTN&sessionId=59502|2018|8|17|18|50|2
+MEG|THE MEG|CHADSTONE|CHADSTONE|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=CHDSTN&sessionId=59503|2018|8|17|21|40|3
+MEG|THE MEG|CHADSTONE|CHADSTONE|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=CHDSTN&sessionId=59833|2018|8|18|10|30|4
+MEG|THE MEG|CHADSTONE|CHADSTONE|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=CHDSTN&sessionId=59505|2018|8|18|13|20|5
+MEG|THE MEG|CHADSTONE|CHADSTONE|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=CHDSTN&sessionId=59506|2018|8|18|16|10|5
+MEG|THE MEG|CHADSTONE|CHADSTONE|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=CHDSTN&sessionId=59804|2018|8|18|16|30|5
+MEG|THE MEG|CHADSTONE|CHADSTONE|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=CHDSTN&sessionId=59781|2018|8|18|18|0|5
+MEG|THE MEG|CHADSTONE|CHADSTONE|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=CHDSTN&sessionId=59507|2018|8|18|19|0|6
+MEG|THE MEG|CHADSTONE|CHADSTONE|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=CHDSTN&sessionId=59508|2018|8|18|21|45|6
+MEG|THE MEG|CHADSTONE|CHADSTONE|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=CHDSTN&sessionId=59830|2018|8|19|10|30|7
+MEG|THE MEG|CHADSTONE|CHADSTONE|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=CHDSTN&sessionId=59510|2018|8|19|13|15|8
+MEG|THE MEG|CHADSTONE|CHADSTONE|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=CHDSTN&sessionId=59511|2018|8|19|16|0|8
+MEG|THE MEG|CHADSTONE|CHADSTONE|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=CHDSTN&sessionId=59808|2018|8|19|16|15|8
+MEG|THE MEG|CHADSTONE|CHADSTONE|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=CHDSTN&sessionId=59785|2018|8|19|18|0|8
+MEG|THE MEG|CHADSTONE|CHADSTONE|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=CHDSTN&sessionId=59512|2018|8|19|18|50|8
+MEG|THE MEG|CHADSTONE|CHADSTONE|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=CHDSTN&sessionId=59513|2018|8|19|21|40|9
+MEG|THE MEG|CHADSTONE|CHADSTONE|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=CHDSTN&sessionId=59762|2018|8|19|21|40|9
+MEG|THE MEG|EASTLAND|EASTLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=EASTLN&sessionId=269236|2018|8|17|10|30|1
+MEG|THE MEG|EASTLAND|EASTLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=EASTLN&sessionId=269237|2018|8|17|13|0|2
+MEG|THE MEG|EASTLAND|EASTLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=EASTLN&sessionId=269238|2018|8|17|15|40|2
+MEG|THE MEG|EASTLAND|EASTLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=EASTLN&sessionId=269412|2018|8|17|18|0|2
+MEG|THE MEG|EASTLAND|EASTLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=EASTLN&sessionId=269209|2018|8|17|18|30|2
+MEG|THE MEG|EASTLAND|EASTLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=EASTLN&sessionId=269240|2018|8|17|21|30|3
+MEG|THE MEG|EASTLAND|EASTLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=EASTLN&sessionId=269443|2018|8|17|21|30|3
+MEG|THE MEG|EASTLAND|EASTLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=EASTLN&sessionId=269241|2018|8|18|10|30|4
+MEG|THE MEG|EASTLAND|EASTLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=EASTLN&sessionId=269242|2018|8|18|13|0|5
+MEG|THE MEG|EASTLAND|EASTLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=EASTLN&sessionId=269415|2018|8|18|13|0|5
+MEG|THE MEG|EASTLAND|EASTLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=EASTLN&sessionId=269416|2018|8|18|15|30|5
+MEG|THE MEG|EASTLAND|EASTLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=EASTLN&sessionId=269243|2018|8|18|15|40|5
+MEG|THE MEG|EASTLAND|EASTLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=EASTLN&sessionId=269417|2018|8|18|18|0|5
+MEG|THE MEG|EASTLAND|EASTLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=EASTLN&sessionId=269214|2018|8|18|18|30|5
+MEG|THE MEG|EASTLAND|EASTLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=EASTLN&sessionId=269245|2018|8|18|21|30|6
+MEG|THE MEG|EASTLAND|EASTLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=EASTLN&sessionId=269448|2018|8|18|21|45|6
+MEG|THE MEG|EASTLAND|EASTLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=EASTLN&sessionId=269246|2018|8|19|10|30|7
+MEG|THE MEG|EASTLAND|EASTLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=EASTLN&sessionId=269247|2018|8|19|13|0|8
+MEG|THE MEG|EASTLAND|EASTLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=EASTLN&sessionId=269420|2018|8|19|13|30|8
+MEG|THE MEG|EASTLAND|EASTLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=EASTLN&sessionId=269248|2018|8|19|15|40|8
+MEG|THE MEG|EASTLAND|EASTLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=EASTLN&sessionId=269421|2018|8|19|16|0|8
+MEG|THE MEG|EASTLAND|EASTLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=EASTLN&sessionId=269219|2018|8|19|18|30|8
+MEG|THE MEG|EASTLAND|EASTLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=EASTLN&sessionId=269422|2018|8|19|19|0|9
+MEG|THE MEG|EASTLAND|EASTLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=EASTLN&sessionId=269250|2018|8|19|21|30|9
+MEG|THE MEG|FOREST_HILL|FOREST HILL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FHLCIN&sessionId=128195|2018|8|17|11|0|1
+MEG|THE MEG|FOREST_HILL|FOREST HILL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FHLCIN&sessionId=128196|2018|8|17|13|30|2
+MEG|THE MEG|FOREST_HILL|FOREST HILL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FHLCIN&sessionId=128197|2018|8|17|16|0|2
+MEG|THE MEG|FOREST_HILL|FOREST HILL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FHLCIN&sessionId=128198|2018|8|17|18|30|2
+MEG|THE MEG|FOREST_HILL|FOREST HILL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FHLCIN&sessionId=128199|2018|8|17|21|20|3
+MEG|THE MEG|FOREST_HILL|FOREST HILL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FHLCIN&sessionId=128200|2018|8|18|11|0|4
+MEG|THE MEG|FOREST_HILL|FOREST HILL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FHLCIN&sessionId=128201|2018|8|18|13|30|5
+MEG|THE MEG|FOREST_HILL|FOREST HILL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FHLCIN&sessionId=128202|2018|8|18|16|0|5
+MEG|THE MEG|FOREST_HILL|FOREST HILL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FHLCIN&sessionId=128203|2018|8|18|18|30|5
+MEG|THE MEG|FOREST_HILL|FOREST HILL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FHLCIN&sessionId=128204|2018|8|18|21|10|6
+MEG|THE MEG|FOREST_HILL|FOREST HILL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FHLCIN&sessionId=128205|2018|8|19|10|40|7
+MEG|THE MEG|FOREST_HILL|FOREST HILL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FHLCIN&sessionId=128206|2018|8|19|13|10|8
+MEG|THE MEG|FOREST_HILL|FOREST HILL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FHLCIN&sessionId=128207|2018|8|19|15|40|8
+MEG|THE MEG|FOREST_HILL|FOREST HILL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FHLCIN&sessionId=128237|2018|8|19|19|0|9
+MEG|THE MEG|FOREST_HILL|FOREST HILL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FHLCIN&sessionId=128209|2018|8|19|21|15|9
+MEG|THE MEG|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=181799|2018|8|17|10|30|1
+MEG|THE MEG|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=181800|2018|8|17|13|15|2
+MEG|THE MEG|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=182028|2018|8|17|15|30|2
+MEG|THE MEG|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=181801|2018|8|17|16|0|2
+MEG|THE MEG|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=181802|2018|8|17|18|40|2
+MEG|THE MEG|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=181721|2018|8|17|20|0|3
+MEG|THE MEG|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=182069|2018|8|17|21|10|3
+MEG|THE MEG|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=181803|2018|8|17|21|30|3
+MEG|THE MEG|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=181804|2018|8|18|10|30|4
+MEG|THE MEG|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=181805|2018|8|18|13|15|5
+MEG|THE MEG|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=182033|2018|8|18|15|30|5
+MEG|THE MEG|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=181806|2018|8|18|16|0|5
+MEG|THE MEG|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=181807|2018|8|18|18|40|5
+MEG|THE MEG|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=181725|2018|8|18|20|0|6
+MEG|THE MEG|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=182068|2018|8|18|20|50|6
+MEG|THE MEG|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=181808|2018|8|18|21|30|6
+MEG|THE MEG|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=181809|2018|8|19|10|30|7
+MEG|THE MEG|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=181810|2018|8|19|13|15|8
+MEG|THE MEG|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=182038|2018|8|19|15|30|8
+MEG|THE MEG|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=181811|2018|8|19|16|0|8
+MEG|THE MEG|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=181812|2018|8|19|18|40|8
+MEG|THE MEG|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=181753|2018|8|19|20|0|9
+MEG|THE MEG|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=182066|2018|8|19|20|50|9
+MEG|THE MEG|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=181813|2018|8|19|21|30|9
+MEG|THE MEG|GREENSBOROUGH|GREENSBOROUGH|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=GRENSB&sessionId=164213|2018|8|17|10|20|1
+MEG|THE MEG|GREENSBOROUGH|GREENSBOROUGH|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=GRENSB&sessionId=164214|2018|8|17|13|0|2
+MEG|THE MEG|GREENSBOROUGH|GREENSBOROUGH|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=GRENSB&sessionId=164215|2018|8|17|15|40|2
+MEG|THE MEG|GREENSBOROUGH|GREENSBOROUGH|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=GRENSB&sessionId=164216|2018|8|17|18|15|2
+MEG|THE MEG|GREENSBOROUGH|GREENSBOROUGH|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=GRENSB&sessionId=164342|2018|8|17|18|50|2
+MEG|THE MEG|GREENSBOROUGH|GREENSBOROUGH|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=GRENSB&sessionId=164184|2018|8|17|21|30|3
+MEG|THE MEG|GREENSBOROUGH|GREENSBOROUGH|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=GRENSB&sessionId=164218|2018|8|18|10|20|4
+MEG|THE MEG|GREENSBOROUGH|GREENSBOROUGH|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=GRENSB&sessionId=164219|2018|8|18|13|0|5
+MEG|THE MEG|GREENSBOROUGH|GREENSBOROUGH|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=GRENSB&sessionId=164220|2018|8|18|15|40|5
+MEG|THE MEG|GREENSBOROUGH|GREENSBOROUGH|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=GRENSB&sessionId=164221|2018|8|18|18|15|5
+MEG|THE MEG|GREENSBOROUGH|GREENSBOROUGH|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=GRENSB&sessionId=164347|2018|8|18|19|0|6
+MEG|THE MEG|GREENSBOROUGH|GREENSBOROUGH|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=GRENSB&sessionId=164222|2018|8|18|21|0|6
+MEG|THE MEG|GREENSBOROUGH|GREENSBOROUGH|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=GRENSB&sessionId=164223|2018|8|19|10|20|7
+MEG|THE MEG|GREENSBOROUGH|GREENSBOROUGH|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=GRENSB&sessionId=164224|2018|8|19|13|0|8
+MEG|THE MEG|GREENSBOROUGH|GREENSBOROUGH|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=GRENSB&sessionId=164225|2018|8|19|15|40|8
+MEG|THE MEG|GREENSBOROUGH|GREENSBOROUGH|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=GRENSB&sessionId=164226|2018|8|19|18|15|8
+MEG|THE MEG|GREENSBOROUGH|GREENSBOROUGH|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=GRENSB&sessionId=164352|2018|8|19|18|45|8
+MEG|THE MEG|GREENSBOROUGH|GREENSBOROUGH|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=GRENSB&sessionId=164164|2018|8|19|21|30|9
+MEG|THE MEG|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341577|2018|8|17|10|0|1
+MEG|THE MEG|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341613|2018|8|17|10|30|1
+MEG|THE MEG|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341650|2018|8|17|11|30|1
+MEG|THE MEG|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341578|2018|8|17|12|15|1
+MEG|THE MEG|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341614|2018|8|17|13|15|2
+MEG|THE MEG|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341651|2018|8|17|14|15|2
+MEG|THE MEG|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341579|2018|8|17|14|30|2
+MEG|THE MEG|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341615|2018|8|17|15|45|2
+MEG|THE MEG|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341580|2018|8|17|16|45|2
+MEG|THE MEG|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341652|2018|8|17|17|15|2
+MEG|THE MEG|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341925|2018|8|17|18|15|2
+MEG|THE MEG|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341616|2018|8|17|18|20|2
+MEG|THE MEG|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341581|2018|8|17|19|10|3
+MEG|THE MEG|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341653|2018|8|17|19|45|3
+MEG|THE MEG|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341617|2018|8|17|21|0|3
+MEG|THE MEG|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341905|2018|8|17|21|30|3
+MEG|THE MEG|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341582|2018|8|17|21|30|3
+MEG|THE MEG|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341555|2018|8|17|22|45|3
+MEG|THE MEG|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341583|2018|8|18|10|0|4
+MEG|THE MEG|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341618|2018|8|18|10|30|4
+MEG|THE MEG|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341655|2018|8|18|11|30|4
+MEG|THE MEG|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341584|2018|8|18|12|15|4
+MEG|THE MEG|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341619|2018|8|18|13|15|5
+MEG|THE MEG|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341656|2018|8|18|14|15|5
+MEG|THE MEG|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341585|2018|8|18|14|30|5
+MEG|THE MEG|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341620|2018|8|18|15|45|5
+MEG|THE MEG|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341928|2018|8|18|15|45|5
+MEG|THE MEG|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341586|2018|8|18|16|45|5
+MEG|THE MEG|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341657|2018|8|18|17|15|5
+MEG|THE MEG|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341929|2018|8|18|18|15|5
+MEG|THE MEG|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341621|2018|8|18|18|20|5
+MEG|THE MEG|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341587|2018|8|18|19|10|6
+MEG|THE MEG|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341658|2018|8|18|19|45|6
+MEG|THE MEG|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341622|2018|8|18|21|0|6
+MEG|THE MEG|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341909|2018|8|18|21|30|6
+MEG|THE MEG|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341588|2018|8|18|21|30|6
+MEG|THE MEG|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341560|2018|8|18|22|45|6
+MEG|THE MEG|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341589|2018|8|19|10|0|7
+MEG|THE MEG|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341623|2018|8|19|10|30|7
+MEG|THE MEG|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341532|2018|8|19|11|30|7
+MEG|THE MEG|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341590|2018|8|19|12|15|7
+MEG|THE MEG|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341624|2018|8|19|13|15|8
+MEG|THE MEG|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341506|2018|8|19|14|15|8
+MEG|THE MEG|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341591|2018|8|19|14|30|8
+MEG|THE MEG|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341625|2018|8|19|15|45|8
+MEG|THE MEG|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341932|2018|8|19|15|45|8
+MEG|THE MEG|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341592|2018|8|19|16|45|8
+MEG|THE MEG|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341507|2018|8|19|17|15|8
+MEG|THE MEG|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341933|2018|8|19|18|15|8
+MEG|THE MEG|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341626|2018|8|19|18|20|8
+MEG|THE MEG|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341593|2018|8|19|19|10|9
+MEG|THE MEG|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341508|2018|8|19|19|45|9
+MEG|THE MEG|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341627|2018|8|19|21|0|9
+MEG|THE MEG|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341913|2018|8|19|21|30|9
+MEG|THE MEG|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341594|2018|8|19|21|30|9
+MEG|THE MEG|MELBOURNE_CENTRAL|MELBOURNE CENTRAL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=MCECIN&sessionId=217131|2018|8|17|10|0|1
+MEG|THE MEG|MELBOURNE_CENTRAL|MELBOURNE CENTRAL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=MCECIN&sessionId=217132|2018|8|17|12|30|1
+MEG|THE MEG|MELBOURNE_CENTRAL|MELBOURNE CENTRAL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=MCECIN&sessionId=217133|2018|8|17|15|0|2
+MEG|THE MEG|MELBOURNE_CENTRAL|MELBOURNE CENTRAL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=MCECIN&sessionId=216925|2018|8|17|15|45|2
+MEG|THE MEG|MELBOURNE_CENTRAL|MELBOURNE CENTRAL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=MCECIN&sessionId=216927|2018|8|17|18|40|2
+MEG|THE MEG|MELBOURNE_CENTRAL|MELBOURNE CENTRAL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=MCECIN&sessionId=217062|2018|8|17|19|0|3
+MEG|THE MEG|MELBOURNE_CENTRAL|MELBOURNE CENTRAL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=MCECIN&sessionId=217025|2018|8|17|21|30|3
+MEG|THE MEG|MELBOURNE_CENTRAL|MELBOURNE CENTRAL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=MCECIN&sessionId=216947|2018|8|17|21|30|3
+MEG|THE MEG|MELBOURNE_CENTRAL|MELBOURNE CENTRAL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=MCECIN&sessionId=217136|2018|8|17|23|15|3
+MEG|THE MEG|MELBOURNE_CENTRAL|MELBOURNE CENTRAL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=MCECIN&sessionId=217103|2018|8|18|10|0|4
+MEG|THE MEG|MELBOURNE_CENTRAL|MELBOURNE CENTRAL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=MCECIN&sessionId=216994|2018|8|18|12|50|4
+MEG|THE MEG|MELBOURNE_CENTRAL|MELBOURNE CENTRAL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=MCECIN&sessionId=216928|2018|8|18|13|0|5
+MEG|THE MEG|MELBOURNE_CENTRAL|MELBOURNE CENTRAL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=MCECIN&sessionId=216995|2018|8|18|15|30|5
+MEG|THE MEG|MELBOURNE_CENTRAL|MELBOURNE CENTRAL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=MCECIN&sessionId=216930|2018|8|18|18|45|5
+MEG|THE MEG|MELBOURNE_CENTRAL|MELBOURNE CENTRAL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=MCECIN&sessionId=216962|2018|8|18|19|0|6
+MEG|THE MEG|MELBOURNE_CENTRAL|MELBOURNE CENTRAL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=MCECIN&sessionId=216948|2018|8|18|21|30|6
+MEG|THE MEG|MELBOURNE_CENTRAL|MELBOURNE CENTRAL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=MCECIN&sessionId=216963|2018|8|18|21|45|6
+MEG|THE MEG|MELBOURNE_CENTRAL|MELBOURNE CENTRAL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=MCECIN&sessionId=217142|2018|8|18|23|30|6
+MEG|THE MEG|MELBOURNE_CENTRAL|MELBOURNE CENTRAL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=MCECIN&sessionId=216932|2018|8|19|13|0|8
+MEG|THE MEG|MELBOURNE_CENTRAL|MELBOURNE CENTRAL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=MCECIN&sessionId=217032|2018|8|19|13|15|8
+MEG|THE MEG|MELBOURNE_CENTRAL|MELBOURNE CENTRAL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=MCECIN&sessionId=217033|2018|8|19|15|45|8
+MEG|THE MEG|MELBOURNE_CENTRAL|MELBOURNE CENTRAL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=MCECIN&sessionId=216967|2018|8|19|18|45|8
+MEG|THE MEG|MELBOURNE_CENTRAL|MELBOURNE CENTRAL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=MCECIN&sessionId=216934|2018|8|19|18|45|8
+MEG|THE MEG|MELBOURNE_CENTRAL|MELBOURNE CENTRAL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=MCECIN&sessionId=217147|2018|8|19|21|30|9
+MEG|THE MEG|MELBOURNE_CENTRAL|MELBOURNE CENTRAL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=MCECIN&sessionId=216943|2018|8|19|21|30|9
+MEG|THE MEG|NORTHLAND|NORTHLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=NORTHL&sessionId=258262|2018|8|17|10|30|1
+MEG|THE MEG|NORTHLAND|NORTHLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=NORTHL&sessionId=258263|2018|8|17|13|15|2
+MEG|THE MEG|NORTHLAND|NORTHLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=NORTHL&sessionId=258264|2018|8|17|16|10|2
+MEG|THE MEG|NORTHLAND|NORTHLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=NORTHL&sessionId=258265|2018|8|17|18|50|2
+MEG|THE MEG|NORTHLAND|NORTHLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=NORTHL&sessionId=258076|2018|8|17|20|45|3
+MEG|THE MEG|NORTHLAND|NORTHLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=NORTHL&sessionId=258266|2018|8|17|21|30|3
+MEG|THE MEG|NORTHLAND|NORTHLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=NORTHL&sessionId=258292|2018|8|17|22|20|3
+MEG|THE MEG|NORTHLAND|NORTHLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=NORTHL&sessionId=258267|2018|8|18|10|30|4
+MEG|THE MEG|NORTHLAND|NORTHLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=NORTHL&sessionId=258268|2018|8|18|13|15|5
+MEG|THE MEG|NORTHLAND|NORTHLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=NORTHL&sessionId=258269|2018|8|18|16|10|5
+MEG|THE MEG|NORTHLAND|NORTHLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=NORTHL&sessionId=258270|2018|8|18|18|50|5
+MEG|THE MEG|NORTHLAND|NORTHLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=NORTHL&sessionId=258081|2018|8|18|20|45|6
+MEG|THE MEG|NORTHLAND|NORTHLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=NORTHL&sessionId=258271|2018|8|18|21|30|6
+MEG|THE MEG|NORTHLAND|NORTHLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=NORTHL&sessionId=258293|2018|8|18|22|20|6
+MEG|THE MEG|NORTHLAND|NORTHLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=NORTHL&sessionId=258272|2018|8|19|10|30|7
+MEG|THE MEG|NORTHLAND|NORTHLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=NORTHL&sessionId=258273|2018|8|19|13|15|8
+MEG|THE MEG|NORTHLAND|NORTHLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=NORTHL&sessionId=258274|2018|8|19|16|0|8
+MEG|THE MEG|NORTHLAND|NORTHLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=NORTHL&sessionId=258275|2018|8|19|18|45|8
+MEG|THE MEG|NORTHLAND|NORTHLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=NORTHL&sessionId=258086|2018|8|19|20|45|9
+MEG|THE MEG|NORTHLAND|NORTHLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=NORTHL&sessionId=258276|2018|8|19|21|30|9
+MEG|THE MEG|VICTORIA_GARDENS|VICTORIA GARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=VGDCIN&sessionId=204650|2018|8|17|11|15|1
+MEG|THE MEG|VICTORIA_GARDENS|VICTORIA GARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=VGDCIN&sessionId=204574|2018|8|17|13|15|2
+MEG|THE MEG|VICTORIA_GARDENS|VICTORIA GARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=VGDCIN&sessionId=204737|2018|8|17|16|0|2
+MEG|THE MEG|VICTORIA_GARDENS|VICTORIA GARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=VGDCIN&sessionId=204738|2018|8|17|19|0|3
+MEG|THE MEG|VICTORIA_GARDENS|VICTORIA GARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=VGDCIN&sessionId=204827|2018|8|17|19|0|3
+MEG|THE MEG|VICTORIA_GARDENS|VICTORIA GARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=VGDCIN&sessionId=204577|2018|8|17|21|30|3
+MEG|THE MEG|VICTORIA_GARDENS|VICTORIA GARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=VGDCIN&sessionId=204799|2018|8|17|21|30|3
+MEG|THE MEG|VICTORIA_GARDENS|VICTORIA GARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=VGDCIN&sessionId=204740|2018|8|18|10|50|4
+MEG|THE MEG|VICTORIA_GARDENS|VICTORIA GARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=VGDCIN&sessionId=204579|2018|8|18|13|15|5
+MEG|THE MEG|VICTORIA_GARDENS|VICTORIA GARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=VGDCIN&sessionId=204852|2018|8|18|13|15|5
+MEG|THE MEG|VICTORIA_GARDENS|VICTORIA GARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=VGDCIN&sessionId=204856|2018|8|18|16|20|5
+MEG|THE MEG|VICTORIA_GARDENS|VICTORIA GARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=VGDCIN&sessionId=204743|2018|8|18|19|0|6
+MEG|THE MEG|VICTORIA_GARDENS|VICTORIA GARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=VGDCIN&sessionId=204831|2018|8|18|19|0|6
+MEG|THE MEG|VICTORIA_GARDENS|VICTORIA GARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=VGDCIN&sessionId=204582|2018|8|18|21|30|6
+MEG|THE MEG|VICTORIA_GARDENS|VICTORIA GARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=VGDCIN&sessionId=204804|2018|8|18|21|30|6
+MEG|THE MEG|VICTORIA_GARDENS|VICTORIA GARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=VGDCIN&sessionId=204745|2018|8|19|10|55|7
+MEG|THE MEG|VICTORIA_GARDENS|VICTORIA GARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=VGDCIN&sessionId=204584|2018|8|19|13|15|8
+MEG|THE MEG|VICTORIA_GARDENS|VICTORIA GARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=VGDCIN&sessionId=204806|2018|8|19|13|15|8
+MEG|THE MEG|VICTORIA_GARDENS|VICTORIA GARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=VGDCIN&sessionId=204747|2018|8|19|16|10|8
+MEG|THE MEG|VICTORIA_GARDENS|VICTORIA GARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=VGDCIN&sessionId=204748|2018|8|19|19|0|9
+MEG|THE MEG|VICTORIA_GARDENS|VICTORIA GARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=VGDCIN&sessionId=204835|2018|8|19|19|0|9
+MEG|THE MEG|VICTORIA_GARDENS|VICTORIA GARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=VGDCIN&sessionId=204587|2018|8|19|21|30|9
+MEG|THE MEG|VICTORIA_GARDENS|VICTORIA GARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=VGDCIN&sessionId=204809|2018|8|19|21|30|9
+MEG|THE MEG|WATERGARDENS|WATERGARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=TAYLOR&sessionId=157083|2018|8|17|10|30|1
+MEG|THE MEG|WATERGARDENS|WATERGARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=TAYLOR&sessionId=157084|2018|8|17|13|10|2
+MEG|THE MEG|WATERGARDENS|WATERGARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=TAYLOR&sessionId=157085|2018|8|17|15|50|2
+MEG|THE MEG|WATERGARDENS|WATERGARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=TAYLOR&sessionId=157086|2018|8|17|18|40|2
+MEG|THE MEG|WATERGARDENS|WATERGARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=TAYLOR&sessionId=157177|2018|8|17|20|30|3
+MEG|THE MEG|WATERGARDENS|WATERGARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=TAYLOR&sessionId=157087|2018|8|17|21|20|3
+MEG|THE MEG|WATERGARDENS|WATERGARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=TAYLOR&sessionId=157088|2018|8|18|10|30|4
+MEG|THE MEG|WATERGARDENS|WATERGARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=TAYLOR&sessionId=157089|2018|8|18|13|10|5
+MEG|THE MEG|WATERGARDENS|WATERGARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=TAYLOR&sessionId=157090|2018|8|18|15|50|5
+MEG|THE MEG|WATERGARDENS|WATERGARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=TAYLOR&sessionId=157091|2018|8|18|18|40|5
+MEG|THE MEG|WATERGARDENS|WATERGARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=TAYLOR&sessionId=157179|2018|8|18|20|30|6
+MEG|THE MEG|WATERGARDENS|WATERGARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=TAYLOR&sessionId=157092|2018|8|18|21|20|6
+MEG|THE MEG|WATERGARDENS|WATERGARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=TAYLOR&sessionId=157093|2018|8|19|10|30|7
+MEG|THE MEG|WATERGARDENS|WATERGARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=TAYLOR&sessionId=157094|2018|8|19|13|10|8
+MEG|THE MEG|WATERGARDENS|WATERGARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=TAYLOR&sessionId=157095|2018|8|19|15|50|8
+MEG|THE MEG|WATERGARDENS|WATERGARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=TAYLOR&sessionId=157096|2018|8|19|18|40|8
+MEG|THE MEG|WATERGARDENS|WATERGARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=TAYLOR&sessionId=157097|2018|8|19|21|20|9
+MEG|THE MEG|AIRPORT_WEST|AIRPORT WEST|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=272&sessionid=294321&date=20180817&time=10:50&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|10|50|1
+MEG|THE MEG|AIRPORT_WEST|AIRPORT WEST|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=272&sessionid=294322&date=20180817&time=13:20&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|13|20|2
+MEG|THE MEG|AIRPORT_WEST|AIRPORT WEST|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=272&sessionid=294323&date=20180817&time=16:15&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|16|15|2
+MEG|THE MEG|AIRPORT_WEST|AIRPORT WEST|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=272&sessionid=294324&date=20180817&time=18:45&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|18|45|2
+MEG|THE MEG|AIRPORT_WEST|AIRPORT WEST|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=272&sessionid=294325&date=20180817&time=21:20&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|21|20|3
+MEG|THE MEG|AIRPORT_WEST|AIRPORT WEST|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=272&sessionid=294272&date=20180818&time=13:20&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|13|20|5
+MEG|THE MEG|AIRPORT_WEST|AIRPORT WEST|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=272&sessionid=294273&date=20180818&time=16:15&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|16|15|5
+MEG|THE MEG|AIRPORT_WEST|AIRPORT WEST|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=272&sessionid=294274&date=20180818&time=18:45&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|18|45|5
+MEG|THE MEG|AIRPORT_WEST|AIRPORT WEST|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=272&sessionid=294275&date=20180818&time=21:20&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|21|20|6
+MEG|THE MEG|AIRPORT_WEST|AIRPORT WEST|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=272&sessionid=294312&date=20180819&time=13:20&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|13|20|8
+MEG|THE MEG|AIRPORT_WEST|AIRPORT WEST|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=272&sessionid=294313&date=20180819&time=15:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|15|30|8
+MEG|THE MEG|AIRPORT_WEST|AIRPORT WEST|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=272&sessionid=294314&date=20180819&time=18:45&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|18|45|8
+MEG|THE MEG|AIRPORT_WEST|AIRPORT WEST|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=272&sessionid=294315&date=20180819&time=21:20&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|21|20|9
+MEG|THE MEG|BENDIGO|BENDIGO|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=024&sessionid=39971&date=20180817&time=13:45&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|13|45|2
+MEG|THE MEG|BENDIGO|BENDIGO|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=024&sessionid=39981&date=20180817&time=15:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|15|30|2
+MEG|THE MEG|BENDIGO|BENDIGO|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=024&sessionid=39972&date=20180817&time=16:15&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|16|15|2
+MEG|THE MEG|BENDIGO|BENDIGO|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=024&sessionid=39973&date=20180817&time=18:45&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|18|45|2
+MEG|THE MEG|BENDIGO|BENDIGO|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=024&sessionid=39974&date=20180817&time=21:15&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|21|15|3
+MEG|THE MEG|BENDIGO|BENDIGO|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=024&sessionid=39870&date=20180818&time=14:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|14|0|5
+MEG|THE MEG|BENDIGO|BENDIGO|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=024&sessionid=39883&date=20180818&time=15:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|15|30|5
+MEG|THE MEG|BENDIGO|BENDIGO|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=024&sessionid=39871&date=20180818&time=16:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|16|30|5
+MEG|THE MEG|BENDIGO|BENDIGO|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=024&sessionid=39872&date=20180818&time=19:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|19|0|6
+MEG|THE MEG|BENDIGO|BENDIGO|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=024&sessionid=39873&date=20180818&time=21:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|21|30|6
+MEG|THE MEG|BENDIGO|BENDIGO|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=024&sessionid=39907&date=20180819&time=14:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|14|0|8
+MEG|THE MEG|BENDIGO|BENDIGO|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=024&sessionid=39917&date=20180819&time=15:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|15|30|8
+MEG|THE MEG|BENDIGO|BENDIGO|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=024&sessionid=39908&date=20180819&time=16:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|16|30|8
+MEG|THE MEG|BENDIGO|BENDIGO|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=024&sessionid=39909&date=20180819&time=19:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|19|0|9
+MEG|THE MEG|BENDIGO|BENDIGO|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=024&sessionid=39910&date=20180819&time=21:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|21|30|9
+MEG|THE MEG|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353299&date=20180817&time=14:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|14|0|2
+MEG|THE MEG|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353300&date=20180817&time=16:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|16|30|2
+MEG|THE MEG|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353442&date=20180817&time=18:45&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|18|45|2
+MEG|THE MEG|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353301&date=20180817&time=19:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|19|0|3
+MEG|THE MEG|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353443&date=20180817&time=21:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|21|30|3
+MEG|THE MEG|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353302&date=20180817&time=21:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|21|30|3
+MEG|THE MEG|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353206&date=20180818&time=11:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|11|30|4
+MEG|THE MEG|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353207&date=20180818&time=14:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|14|0|5
+MEG|THE MEG|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353234&date=20180818&time=16:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|16|0|5
+MEG|THE MEG|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353208&date=20180818&time=16:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|16|30|5
+MEG|THE MEG|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353235&date=20180818&time=18:45&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|18|45|5
+MEG|THE MEG|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353209&date=20180818&time=19:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|19|0|6
+MEG|THE MEG|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353236&date=20180818&time=21:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|21|30|6
+MEG|THE MEG|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353210&date=20180818&time=21:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|21|30|6
+MEG|THE MEG|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353295&date=20180819&time=14:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|14|0|8
+MEG|THE MEG|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353438&date=20180819&time=16:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|16|0|8
+MEG|THE MEG|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353296&date=20180819&time=16:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|16|30|8
+MEG|THE MEG|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353439&date=20180819&time=18:45&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|18|45|8
+MEG|THE MEG|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353297&date=20180819&time=19:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|19|0|9
+MEG|THE MEG|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353441&date=20180819&time=21:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|21|30|9
+MEG|THE MEG|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353298&date=20180819&time=21:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|21|30|9
+MEG|THE MEG|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484154&date=20180817&time=11:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|11|0|1
+MEG|THE MEG|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484401&date=20180817&time=11:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|11|0|1
+MEG|THE MEG|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484360&date=20180817&time=14:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|14|0|2
+MEG|THE MEG|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484209&date=20180817&time=14:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|14|0|2
+MEG|THE MEG|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484210&date=20180817&time=16:45&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|16|45|2
+MEG|THE MEG|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484287&date=20180817&time=17:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|17|0|2
+MEG|THE MEG|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484414&date=20180817&time=18:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|18|0|2
+MEG|THE MEG|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484211&date=20180817&time=19:15&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|19|15|3
+MEG|THE MEG|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484288&date=20180817&time=19:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|19|30|3
+MEG|THE MEG|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484415&date=20180817&time=20:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|20|30|3
+MEG|THE MEG|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484212&date=20180817&time=22:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|22|0|3
+MEG|THE MEG|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484289&date=20180817&time=22:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|22|30|3
+MEG|THE MEG|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484028&date=20180818&time=11:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|11|0|4
+MEG|THE MEG|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484029&date=20180818&time=13:45&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|13|45|5
+MEG|THE MEG|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484057&date=20180818&time=14:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|14|0|5
+MEG|THE MEG|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484030&date=20180818&time=16:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|16|30|5
+MEG|THE MEG|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484043&date=20180818&time=17:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|17|0|5
+MEG|THE MEG|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484416&date=20180818&time=18:10&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|18|10|5
+MEG|THE MEG|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484031&date=20180818&time=19:15&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|19|15|6
+MEG|THE MEG|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484044&date=20180818&time=19:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|19|30|6
+MEG|THE MEG|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484417&date=20180818&time=20:40&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|20|40|6
+MEG|THE MEG|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484032&date=20180818&time=22:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|22|0|6
+MEG|THE MEG|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484045&date=20180818&time=22:45&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|22|45|6
+MEG|THE MEG|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484205&date=20180819&time=10:45&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|10|45|7
+MEG|THE MEG|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484202&date=20180819&time=13:20&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|13|20|8
+MEG|THE MEG|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484356&date=20180819&time=14:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|14|0|8
+MEG|THE MEG|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484152&date=20180819&time=16:15&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|16|15|8
+MEG|THE MEG|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484282&date=20180819&time=17:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|17|0|8
+MEG|THE MEG|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484418&date=20180819&time=18:15&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|18|15|8
+MEG|THE MEG|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484207&date=20180819&time=19:15&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|19|15|9
+MEG|THE MEG|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484283&date=20180819&time=19:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|19|30|9
+MEG|THE MEG|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484419&date=20180819&time=20:45&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|20|45|9
+MEG|THE MEG|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484284&date=20180819&time=22:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|22|0|9
+MEG|THE MEG|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484208&date=20180819&time=22:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|22|0|9
+MEG|THE MEG|DONCASTER|DONCASTER|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=301&sessionid=185809&date=20180817&time=11:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|11|0|1
+MEG|THE MEG|DONCASTER|DONCASTER|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=301&sessionid=185810&date=20180817&time=13:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|13|30|2
+MEG|THE MEG|DONCASTER|DONCASTER|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=301&sessionid=186009&date=20180817&time=16:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|16|0|2
+MEG|THE MEG|DONCASTER|DONCASTER|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=301&sessionid=185811&date=20180817&time=16:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|16|0|2
+MEG|THE MEG|DONCASTER|DONCASTER|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=301&sessionid=185812&date=20180817&time=18:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|18|30|2
+MEG|THE MEG|DONCASTER|DONCASTER|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=301&sessionid=185813&date=20180817&time=21:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|21|0|3
+MEG|THE MEG|DONCASTER|DONCASTER|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=301&sessionid=186011&date=20180817&time=21:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|21|30|3
+MEG|THE MEG|DONCASTER|DONCASTER|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=301&sessionid=185757&date=20180818&time=13:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|13|30|5
+MEG|THE MEG|DONCASTER|DONCASTER|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=301&sessionid=185792&date=20180818&time=16:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|16|0|5
+MEG|THE MEG|DONCASTER|DONCASTER|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=301&sessionid=185758&date=20180818&time=16:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|16|0|5
+MEG|THE MEG|DONCASTER|DONCASTER|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=301&sessionid=185759&date=20180818&time=18:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|18|30|5
+MEG|THE MEG|DONCASTER|DONCASTER|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=301&sessionid=186064&date=20180818&time=19:45&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|19|45|6
+MEG|THE MEG|DONCASTER|DONCASTER|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=301&sessionid=185760&date=20180818&time=21:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|21|0|6
+MEG|THE MEG|DONCASTER|DONCASTER|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=301&sessionid=185794&date=20180818&time=21:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|21|30|6
+MEG|THE MEG|DONCASTER|DONCASTER|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=301&sessionid=185801&date=20180819&time=13:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|13|30|8
+MEG|THE MEG|DONCASTER|DONCASTER|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=301&sessionid=185999&date=20180819&time=16:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|16|0|8
+MEG|THE MEG|DONCASTER|DONCASTER|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=301&sessionid=185802&date=20180819&time=16:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|16|0|8
+MEG|THE MEG|DONCASTER|DONCASTER|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=301&sessionid=185803&date=20180819&time=18:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|18|30|8
+MEG|THE MEG|DONCASTER|DONCASTER|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=301&sessionid=186065&date=20180819&time=20:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|20|0|9
+MEG|THE MEG|DONCASTER|DONCASTER|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=301&sessionid=185804&date=20180819&time=21:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|21|0|9
+MEG|THE MEG|DONCASTER|DONCASTER|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=301&sessionid=186001&date=20180819&time=21:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|21|30|9
+MEG|THE MEG|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=411870&date=20180817&time=10:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|10|0|1
+MEG|THE MEG|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=412163&date=20180817&time=14:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|14|0|2
+MEG|THE MEG|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=412245&date=20180817&time=16:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|16|30|2
+MEG|THE MEG|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=412164&date=20180817&time=16:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|16|30|2
+MEG|THE MEG|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=412165&date=20180817&time=19:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|19|0|3
+MEG|THE MEG|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=412247&date=20180817&time=21:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|21|30|3
+MEG|THE MEG|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=412166&date=20180817&time=21:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|21|30|3
+MEG|THE MEG|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=411814&date=20180818&time=10:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|10|0|4
+MEG|THE MEG|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=411827&date=20180818&time=14:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|14|0|5
+MEG|THE MEG|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=411841&date=20180818&time=16:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|16|30|5
+MEG|THE MEG|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=411828&date=20180818&time=16:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|16|30|5
+MEG|THE MEG|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=411829&date=20180818&time=19:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|19|0|6
+MEG|THE MEG|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=411843&date=20180818&time=21:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|21|30|6
+MEG|THE MEG|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=411830&date=20180818&time=21:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|21|30|6
+MEG|THE MEG|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=411845&date=20180819&time=10:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|10|0|7
+MEG|THE MEG|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=412139&date=20180819&time=14:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|14|0|8
+MEG|THE MEG|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=412222&date=20180819&time=16:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|16|30|8
+MEG|THE MEG|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=412140&date=20180819&time=16:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|16|30|8
+MEG|THE MEG|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=412141&date=20180819&time=19:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|19|0|9
+MEG|THE MEG|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=412224&date=20180819&time=21:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|21|30|9
+MEG|THE MEG|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=412142&date=20180819&time=21:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|21|30|9
+MEG|THE MEG|GEELONG|GEELONG|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=121&sessionid=360428&date=20180817&time=11:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|11|0|1
+MEG|THE MEG|GEELONG|GEELONG|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=121&sessionid=360429&date=20180817&time=13:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|13|30|2
+MEG|THE MEG|GEELONG|GEELONG|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=121&sessionid=360387&date=20180817&time=15:15&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|15|15|2
+MEG|THE MEG|GEELONG|GEELONG|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=121&sessionid=360430&date=20180817&time=16:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|16|0|2
+MEG|THE MEG|GEELONG|GEELONG|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=121&sessionid=360431&date=20180817&time=18:45&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|18|45|2
+MEG|THE MEG|GEELONG|GEELONG|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=121&sessionid=360408&date=20180817&time=20:45&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|20|45|3
+MEG|THE MEG|GEELONG|GEELONG|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=121&sessionid=360432&date=20180817&time=21:15&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|21|15|3
+MEG|THE MEG|GEELONG|GEELONG|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=121&sessionid=360307&date=20180818&time=13:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|13|30|5
+MEG|THE MEG|GEELONG|GEELONG|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=121&sessionid=360302&date=20180818&time=15:15&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|15|15|5
+MEG|THE MEG|GEELONG|GEELONG|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=121&sessionid=360308&date=20180818&time=16:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|16|0|5
+MEG|THE MEG|GEELONG|GEELONG|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=121&sessionid=360309&date=20180818&time=18:45&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|18|45|5
+MEG|THE MEG|GEELONG|GEELONG|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=121&sessionid=360305&date=20180818&time=21:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|21|0|6
+MEG|THE MEG|GEELONG|GEELONG|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=121&sessionid=360310&date=20180818&time=21:15&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|21|15|6
+MEG|THE MEG|GEELONG|GEELONG|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=121&sessionid=360412&date=20180819&time=13:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|13|30|8
+MEG|THE MEG|GEELONG|GEELONG|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=121&sessionid=360372&date=20180819&time=15:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|15|0|8
+MEG|THE MEG|GEELONG|GEELONG|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=121&sessionid=360413&date=20180819&time=16:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|16|0|8
+MEG|THE MEG|GEELONG|GEELONG|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=121&sessionid=360414&date=20180819&time=18:45&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|18|45|8
+MEG|THE MEG|GEELONG|GEELONG|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=121&sessionid=360398&date=20180819&time=20:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|20|30|9
+MEG|THE MEG|GEELONG|GEELONG|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=121&sessionid=360415&date=20180819&time=21:15&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|21|15|9
+MEG|THE MEG|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545712&date=20180817&time=11:20&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|11|20|1
+MEG|THE MEG|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545886&date=20180817&time=13:15&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|13|15|2
+MEG|THE MEG|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545887&date=20180817&time=15:50&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|15|50|2
+MEG|THE MEG|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545933&date=20180817&time=16:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|16|30|2
+MEG|THE MEG|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545888&date=20180817&time=18:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|18|30|2
+MEG|THE MEG|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545792&date=20180817&time=20:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|20|30|3
+MEG|THE MEG|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545935&date=20180817&time=21:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|21|30|3
+MEG|THE MEG|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545889&date=20180817&time=21:45&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|21|45|3
+MEG|THE MEG|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545625&date=20180818&time=11:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|11|30|4
+MEG|THE MEG|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545626&date=20180818&time=14:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|14|0|5
+MEG|THE MEG|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545636&date=20180818&time=16:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|16|30|5
+MEG|THE MEG|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545627&date=20180818&time=16:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|16|30|5
+MEG|THE MEG|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545628&date=20180818&time=19:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|19|0|6
+MEG|THE MEG|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545592&date=20180818&time=20:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|20|30|6
+MEG|THE MEG|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545638&date=20180818&time=21:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|21|30|6
+MEG|THE MEG|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545629&date=20180818&time=21:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|21|30|6
+MEG|THE MEG|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545890&date=20180819&time=11:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|11|30|7
+MEG|THE MEG|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545891&date=20180819&time=14:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|14|0|8
+MEG|THE MEG|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545938&date=20180819&time=16:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|16|30|8
+MEG|THE MEG|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545892&date=20180819&time=16:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|16|30|8
+MEG|THE MEG|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545797&date=20180819&time=18:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|18|0|8
+MEG|THE MEG|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545893&date=20180819&time=19:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|19|0|9
+MEG|THE MEG|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545798&date=20180819&time=20:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|20|30|9
+MEG|THE MEG|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545940&date=20180819&time=21:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|21|30|9
+MEG|THE MEG|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545894&date=20180819&time=21:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|21|30|9
+MEG|THE MEG|KARINGAL|KARINGAL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=312&sessionid=279690&date=20180817&time=13:45&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|13|45|2
+MEG|THE MEG|KARINGAL|KARINGAL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=312&sessionid=279640&date=20180817&time=14:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|14|0|2
+MEG|THE MEG|KARINGAL|KARINGAL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=312&sessionid=279637&date=20180817&time=15:45&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|15|45|2
+MEG|THE MEG|KARINGAL|KARINGAL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=312&sessionid=279691&date=20180817&time=16:10&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|16|10|2
+MEG|THE MEG|KARINGAL|KARINGAL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=312&sessionid=279692&date=20180817&time=18:40&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|18|40|2
+MEG|THE MEG|KARINGAL|KARINGAL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=312&sessionid=279635&date=20180817&time=20:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|20|0|3
+MEG|THE MEG|KARINGAL|KARINGAL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=312&sessionid=279693&date=20180817&time=21:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|21|0|3
+MEG|THE MEG|KARINGAL|KARINGAL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=312&sessionid=279595&date=20180818&time=11:45&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|11|45|4
+MEG|THE MEG|KARINGAL|KARINGAL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=312&sessionid=279502&date=20180818&time=13:45&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|13|45|5
+MEG|THE MEG|KARINGAL|KARINGAL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=312&sessionid=279539&date=20180818&time=15:45&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|15|45|5
+MEG|THE MEG|KARINGAL|KARINGAL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=312&sessionid=279505&date=20180818&time=16:10&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|16|10|5
+MEG|THE MEG|KARINGAL|KARINGAL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=312&sessionid=279503&date=20180818&time=18:40&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|18|40|5
+MEG|THE MEG|KARINGAL|KARINGAL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=312&sessionid=279537&date=20180818&time=20:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|20|0|6
+MEG|THE MEG|KARINGAL|KARINGAL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=312&sessionid=279504&date=20180818&time=21:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|21|0|6
+MEG|THE MEG|KARINGAL|KARINGAL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=312&sessionid=279604&date=20180819&time=11:15&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|11|15|7
+MEG|THE MEG|KARINGAL|KARINGAL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=312&sessionid=279673&date=20180819&time=13:15&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|13|15|8
+MEG|THE MEG|KARINGAL|KARINGAL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=312&sessionid=279601&date=20180819&time=15:15&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|15|15|8
+MEG|THE MEG|KARINGAL|KARINGAL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=312&sessionid=279675&date=20180819&time=15:45&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|15|45|8
+MEG|THE MEG|KARINGAL|KARINGAL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=312&sessionid=279674&date=20180819&time=18:15&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|18|15|8
+MEG|THE MEG|KARINGAL|KARINGAL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=312&sessionid=279599&date=20180819&time=19:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|19|30|9
+MEG|THE MEG|KARINGAL|KARINGAL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=312&sessionid=279676&date=20180819&time=20:40&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|20|40|9
+MEG|THE MEG|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519797&date=20180817&time=10:20&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|10|20|1
+MEG|THE MEG|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519668&date=20180817&time=13:15&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|13|15|2
+MEG|THE MEG|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519669&date=20180817&time=15:50&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|15|50|2
+MEG|THE MEG|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=520063&date=20180817&time=16:15&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|16|15|2
+MEG|THE MEG|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519670&date=20180817&time=18:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|18|30|2
+MEG|THE MEG|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519829&date=20180817&time=20:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|20|0|3
+MEG|THE MEG|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519671&date=20180817&time=21:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|21|0|3
+MEG|THE MEG|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=520065&date=20180817&time=21:15&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|21|15|3
+MEG|THE MEG|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519606&date=20180818&time=10:20&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|10|20|4
+MEG|THE MEG|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519673&date=20180818&time=13:15&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|13|15|5
+MEG|THE MEG|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519660&date=20180818&time=15:50&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|15|50|5
+MEG|THE MEG|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519658&date=20180818&time=16:15&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|16|15|5
+MEG|THE MEG|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519675&date=20180818&time=18:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|18|30|5
+MEG|THE MEG|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519614&date=20180818&time=20:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|20|0|6
+MEG|THE MEG|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519676&date=20180818&time=21:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|21|0|6
+MEG|THE MEG|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519653&date=20180818&time=21:15&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|21|15|6
+MEG|THE MEG|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519801&date=20180819&time=10:20&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|10|20|7
+MEG|THE MEG|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519678&date=20180819&time=13:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|13|0|8
+MEG|THE MEG|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519679&date=20180819&time=15:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|15|30|8
+MEG|THE MEG|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=520070&date=20180819&time=16:15&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|16|15|8
+MEG|THE MEG|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519680&date=20180819&time=18:10&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|18|10|8
+MEG|THE MEG|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519681&date=20180819&time=20:40&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|20|40|9
+MEG|THE MEG|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=520072&date=20180819&time=21:15&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|21|15|9
+MEG|THE MEG|MORWELL|MORWELL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=320&sessionid=238563&date=20180817&time=12:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|12|30|1
+MEG|THE MEG|MORWELL|MORWELL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=320&sessionid=238564&date=20180817&time=15:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|15|0|2
+MEG|THE MEG|MORWELL|MORWELL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=320&sessionid=238565&date=20180817&time=18:15&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|18|15|2
+MEG|THE MEG|MORWELL|MORWELL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=320&sessionid=238566&date=20180817&time=20:45&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|20|45|3
+MEG|THE MEG|MORWELL|MORWELL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=320&sessionid=238394&date=20180818&time=12:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|12|30|4
+MEG|THE MEG|MORWELL|MORWELL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=320&sessionid=238395&date=20180818&time=15:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|15|0|5
+MEG|THE MEG|MORWELL|MORWELL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=320&sessionid=238396&date=20180818&time=18:15&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|18|15|5
+MEG|THE MEG|MORWELL|MORWELL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=320&sessionid=238397&date=20180818&time=20:45&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|20|45|6
+MEG|THE MEG|MORWELL|MORWELL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=320&sessionid=238551&date=20180819&time=12:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|12|30|7
+MEG|THE MEG|MORWELL|MORWELL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=320&sessionid=238552&date=20180819&time=15:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|15|0|8
+MEG|THE MEG|MORWELL|MORWELL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=320&sessionid=238553&date=20180819&time=18:15&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|18|15|8
+MEG|THE MEG|MORWELL|MORWELL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=320&sessionid=238554&date=20180819&time=20:45&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|20|45|9
+MEG|THE MEG|PLENTY_VALLEY|PLENTY VALLEY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=285&sessionid=7089&date=20180817&time=12:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|12|0|1
+MEG|THE MEG|PLENTY_VALLEY|PLENTY VALLEY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=285&sessionid=6957&date=20180817&time=12:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|12|30|1
+MEG|THE MEG|PLENTY_VALLEY|PLENTY VALLEY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=285&sessionid=7109&date=20180817&time=14:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|14|0|2
+MEG|THE MEG|PLENTY_VALLEY|PLENTY VALLEY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=285&sessionid=6958&date=20180817&time=15:10&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|15|10|2
+MEG|THE MEG|PLENTY_VALLEY|PLENTY VALLEY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=285&sessionid=6936&date=20180817&time=18:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|18|30|2
+MEG|THE MEG|PLENTY_VALLEY|PLENTY VALLEY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=285&sessionid=7074&date=20180817&time=20:45&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|20|45|3
+MEG|THE MEG|PLENTY_VALLEY|PLENTY VALLEY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=285&sessionid=6983&date=20180817&time=21:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|21|30|3
+MEG|THE MEG|PLENTY_VALLEY|PLENTY VALLEY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=285&sessionid=6919&date=20180818&time=12:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|12|0|4
+MEG|THE MEG|PLENTY_VALLEY|PLENTY VALLEY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=285&sessionid=6810&date=20180818&time=12:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|12|30|4
+MEG|THE MEG|PLENTY_VALLEY|PLENTY VALLEY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=285&sessionid=6924&date=20180818&time=14:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|14|0|5
+MEG|THE MEG|PLENTY_VALLEY|PLENTY VALLEY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=285&sessionid=6806&date=20180818&time=15:10&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|15|10|5
+MEG|THE MEG|PLENTY_VALLEY|PLENTY VALLEY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=285&sessionid=6802&date=20180818&time=18:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|18|30|5
+MEG|THE MEG|PLENTY_VALLEY|PLENTY VALLEY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=285&sessionid=6918&date=20180818&time=20:45&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|20|45|6
+MEG|THE MEG|PLENTY_VALLEY|PLENTY VALLEY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=285&sessionid=6811&date=20180818&time=21:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|21|30|6
+MEG|THE MEG|PLENTY_VALLEY|PLENTY VALLEY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=285&sessionid=7093&date=20180819&time=12:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|12|0|7
+MEG|THE MEG|PLENTY_VALLEY|PLENTY VALLEY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=285&sessionid=6962&date=20180819&time=12:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|12|30|7
+MEG|THE MEG|PLENTY_VALLEY|PLENTY VALLEY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=285&sessionid=7114&date=20180819&time=14:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|14|0|8
+MEG|THE MEG|PLENTY_VALLEY|PLENTY VALLEY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=285&sessionid=6963&date=20180819&time=15:10&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|15|10|8
+MEG|THE MEG|PLENTY_VALLEY|PLENTY VALLEY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=285&sessionid=6941&date=20180819&time=18:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|18|30|8
+MEG|THE MEG|PLENTY_VALLEY|PLENTY VALLEY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=285&sessionid=7078&date=20180819&time=20:45&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|20|45|9
+MEG|THE MEG|PLENTY_VALLEY|PLENTY VALLEY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=285&sessionid=7007&date=20180819&time=21:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|21|30|9
+MEG|THE MEG|SHEPPARTON|SHEPPARTON|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=025&sessionid=137479&date=20180817&time=15:50&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|15|50|2
+MEG|THE MEG|SHEPPARTON|SHEPPARTON|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=025&sessionid=137480&date=20180817&time=18:20&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|18|20|2
+MEG|THE MEG|SHEPPARTON|SHEPPARTON|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=025&sessionid=137481&date=20180817&time=20:45&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|20|45|3
+MEG|THE MEG|SHEPPARTON|SHEPPARTON|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=025&sessionid=137389&date=20180818&time=15:50&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|15|50|5
+MEG|THE MEG|SHEPPARTON|SHEPPARTON|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=025&sessionid=137380&date=20180818&time=18:20&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|18|20|5
+MEG|THE MEG|SHEPPARTON|SHEPPARTON|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=025&sessionid=137397&date=20180818&time=20:45&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|20|45|6
+MEG|THE MEG|SHEPPARTON|SHEPPARTON|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=025&sessionid=137420&date=20180819&time=15:50&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|15|50|8
+MEG|THE MEG|SHEPPARTON|SHEPPARTON|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=025&sessionid=137401&date=20180819&time=18:20&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|18|20|8
+MEG|THE MEG|SHEPPARTON|SHEPPARTON|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=025&sessionid=137402&date=20180819&time=20:45&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|20|45|9
+MEG|THE MEG|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=580035&date=20180817&time=11:20&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|11|20|1
+MEG|THE MEG|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=580036&date=20180817&time=14:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|14|0|2
+MEG|THE MEG|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=580332&date=20180817&time=16:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|16|30|2
+MEG|THE MEG|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=580037&date=20180817&time=16:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|16|30|2
+MEG|THE MEG|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=580038&date=20180817&time=19:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|19|0|3
+MEG|THE MEG|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=580298&date=20180817&time=20:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|20|0|3
+MEG|THE MEG|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=579928&date=20180817&time=20:20&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|20|20|3
+MEG|THE MEG|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=580039&date=20180817&time=21:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|21|30|3
+MEG|THE MEG|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=580299&date=20180817&time=22:20&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|22|20|3
+MEG|THE MEG|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=579834&date=20180818&time=11:20&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|11|20|4
+MEG|THE MEG|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=579835&date=20180818&time=14:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|14|0|5
+MEG|THE MEG|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=579882&date=20180818&time=16:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|16|30|5
+MEG|THE MEG|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=579836&date=20180818&time=16:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|16|30|5
+MEG|THE MEG|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=579837&date=20180818&time=19:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|19|0|6
+MEG|THE MEG|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=579880&date=20180818&time=20:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|20|0|6
+MEG|THE MEG|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=579818&date=20180818&time=20:20&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|20|20|6
+MEG|THE MEG|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=579838&date=20180818&time=21:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|21|30|6
+MEG|THE MEG|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=579887&date=20180818&time=22:20&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|22|20|6
+MEG|THE MEG|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=580040&date=20180819&time=11:20&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|11|20|7
+MEG|THE MEG|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=580041&date=20180819&time=14:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|14|0|8
+MEG|THE MEG|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=580331&date=20180819&time=16:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|16|30|8
+MEG|THE MEG|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=580042&date=20180819&time=16:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|16|30|8
+MEG|THE MEG|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=580043&date=20180819&time=19:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|19|0|9
+MEG|THE MEG|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=579932&date=20180819&time=20:20&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|20|20|9
+MEG|THE MEG|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=580276&date=20180819&time=21:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|21|0|9
+MEG|THE MEG|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673874&date=20180817&time=11:40&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|11|40|1
+MEG|THE MEG|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673875&date=20180817&time=14:10&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|14|10|2
+MEG|THE MEG|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673783&date=20180817&time=14:45&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|14|45|2
+MEG|THE MEG|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673876&date=20180817&time=16:40&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|16|40|2
+MEG|THE MEG|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673658&date=20180817&time=17:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|17|30|2
+MEG|THE MEG|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673760&date=20180817&time=18:45&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|18|45|2
+MEG|THE MEG|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673877&date=20180817&time=19:10&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|19|10|3
+MEG|THE MEG|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673659&date=20180817&time=20:20&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|20|20|3
+MEG|THE MEG|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673785&date=20180817&time=20:40&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|20|40|3
+MEG|THE MEG|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673878&date=20180817&time=21:40&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|21|40|3
+MEG|THE MEG|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673375&date=20180818&time=11:40&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|11|40|4
+MEG|THE MEG|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673376&date=20180818&time=14:10&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|14|10|5
+MEG|THE MEG|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673385&date=20180818&time=14:45&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|14|45|5
+MEG|THE MEG|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673377&date=20180818&time=16:40&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|16|40|5
+MEG|THE MEG|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673378&date=20180818&time=19:10&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|19|10|6
+MEG|THE MEG|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673387&date=20180818&time=19:15&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|19|15|6
+MEG|THE MEG|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673365&date=20180818&time=20:20&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|20|20|6
+MEG|THE MEG|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673379&date=20180818&time=21:40&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|21|40|6
+MEG|THE MEG|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673386&date=20180818&time=21:45&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|21|45|6
+MEG|THE MEG|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673855&date=20180819&time=11:40&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|11|40|7
+MEG|THE MEG|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673856&date=20180819&time=14:10&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|14|10|8
+MEG|THE MEG|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673768&date=20180819&time=14:45&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|14|45|8
+MEG|THE MEG|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673857&date=20180819&time=16:40&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|16|40|8
+MEG|THE MEG|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673745&date=20180819&time=18:45&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|18|45|8
+MEG|THE MEG|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673858&date=20180819&time=19:10&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|19|10|9
+MEG|THE MEG|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673639&date=20180819&time=20:20&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|20|20|9
+MEG|THE MEG|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673770&date=20180819&time=20:40&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|20|40|9
+MEG|THE MEG|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673859&date=20180819&time=21:40&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|21|40|9
+MEG|THE MEG|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181611&date=20180817&time=10:15&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|10|15|1
+MEG|THE MEG|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181612&date=20180817&time=12:50&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|12|50|1
+MEG|THE MEG|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181937&date=20180817&time=13:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|13|30|2
+MEG|THE MEG|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181726&date=20180817&time=15:10&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|15|10|2
+MEG|THE MEG|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181953&date=20180817&time=16:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|16|0|2
+MEG|THE MEG|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181614&date=20180817&time=18:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|18|30|2
+MEG|THE MEG|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181728&date=20180817&time=20:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|20|30|3
+MEG|THE MEG|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181895&date=20180817&time=21:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|21|30|3
+MEG|THE MEG|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181645&date=20180817&time=21:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|17|21|30|3
+MEG|THE MEG|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181528&date=20180818&time=10:15&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|10|15|4
+MEG|THE MEG|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181529&date=20180818&time=12:50&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|12|50|4
+MEG|THE MEG|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181550&date=20180818&time=15:10&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|15|10|5
+MEG|THE MEG|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181584&date=20180818&time=15:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|15|30|5
+MEG|THE MEG|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181531&date=20180818&time=18:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|18|30|5
+MEG|THE MEG|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181557&date=20180818&time=20:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|20|30|6
+MEG|THE MEG|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181537&date=20180818&time=21:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|21|30|6
+MEG|THE MEG|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181576&date=20180818&time=21:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|18|21|30|6
+MEG|THE MEG|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181586&date=20180819&time=10:15&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|10|15|7
+MEG|THE MEG|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181587&date=20180819&time=12:50&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|12|50|7
+MEG|THE MEG|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181900&date=20180819&time=15:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|15|30|8
+MEG|THE MEG|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181616&date=20180819&time=16:00&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|16|0|8
+MEG|THE MEG|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181589&date=20180819&time=18:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|18|30|8
+MEG|THE MEG|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181708&date=20180819&time=20:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|20|30|9
+MEG|THE MEG|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181876&date=20180819&time=21:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|21|30|9
+MEG|THE MEG|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181621&date=20180819&time=21:30&ReturnUrl=%2Fmovies%2Fthe-meg-2d|2018|8|19|21|30|9
+MEG|THE MEG|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353485&date=20180817&time=12:30&ReturnUrl=%2Fmovies%2Fthe-meg-3d|2018|8|17|12|30|1
+MEG|THE MEG|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353484&date=20180817&time=15:15&ReturnUrl=%2Fmovies%2Fthe-meg-3d|2018|8|17|15|15|2
+MEG|THE MEG|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353483&date=20180817&time=18:00&ReturnUrl=%2Fmovies%2Fthe-meg-3d|2018|8|17|18|0|2
+MEG|THE MEG|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353482&date=20180817&time=20:30&ReturnUrl=%2Fmovies%2Fthe-meg-3d|2018|8|17|20|30|3
+MEG|THE MEG|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353481&date=20180818&time=12:30&ReturnUrl=%2Fmovies%2Fthe-meg-3d|2018|8|18|12|30|4
+MEG|THE MEG|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353480&date=20180818&time=15:15&ReturnUrl=%2Fmovies%2Fthe-meg-3d|2018|8|18|15|15|5
+MEG|THE MEG|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353479&date=20180818&time=18:00&ReturnUrl=%2Fmovies%2Fthe-meg-3d|2018|8|18|18|0|5
+MEG|THE MEG|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353478&date=20180818&time=20:30&ReturnUrl=%2Fmovies%2Fthe-meg-3d|2018|8|18|20|30|6
+MEG|THE MEG|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353477&date=20180819&time=12:30&ReturnUrl=%2Fmovies%2Fthe-meg-3d|2018|8|19|12|30|7
+MEG|THE MEG|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353476&date=20180819&time=15:15&ReturnUrl=%2Fmovies%2Fthe-meg-3d|2018|8|19|15|15|8
+MEG|THE MEG|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353475&date=20180819&time=18:00&ReturnUrl=%2Fmovies%2Fthe-meg-3d|2018|8|19|18|0|8
+MEG|THE MEG|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353474&date=20180819&time=20:30&ReturnUrl=%2Fmovies%2Fthe-meg-3d|2018|8|19|20|30|9

@@ -1,0 +1,27 @@
+ISLAND|THE ISLAND |CHADSTONE|CHADSTONE|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=CHDSTN&sessionId=59556|2018|8|17|15|40|2
+ISLAND|THE ISLAND |CHADSTONE|CHADSTONE|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=CHDSTN&sessionId=59644|2018|8|17|18|40|2
+ISLAND|THE ISLAND |CHADSTONE|CHADSTONE|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=CHDSTN&sessionId=59587|2018|8|17|21|20|3
+ISLAND|THE ISLAND |CHADSTONE|CHADSTONE|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=CHDSTN&sessionId=59536|2018|8|18|15|35|5
+ISLAND|THE ISLAND |CHADSTONE|CHADSTONE|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=CHDSTN&sessionId=59649|2018|8|18|18|30|5
+ISLAND|THE ISLAND |CHADSTONE|CHADSTONE|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=CHDSTN&sessionId=59592|2018|8|18|21|30|6
+ISLAND|THE ISLAND |CHADSTONE|CHADSTONE|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=CHDSTN&sessionId=59566|2018|8|19|15|20|8
+ISLAND|THE ISLAND |CHADSTONE|CHADSTONE|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=CHDSTN&sessionId=59596|2018|8|19|18|40|8
+ISLAND|THE ISLAND |CHADSTONE|CHADSTONE|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=CHDSTN&sessionId=59846|2018|8|19|21|30|9
+ISLAND|THE ISLAND |HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341877|2018|8|17|13|45|2
+ISLAND|THE ISLAND |HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341879|2018|8|17|22|15|3
+ISLAND|THE ISLAND |HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341857|2018|8|18|12|45|4
+ISLAND|THE ISLAND |HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341859|2018|8|18|20|30|6
+ISLAND|THE ISLAND |HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341886|2018|8|19|12|45|7
+ISLAND|THE ISLAND |HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341838|2018|8|19|21|30|9
+ISLAND|THE ISLAND |MELBOURNE_CENTRAL|MELBOURNE CENTRAL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=MCECIN&sessionId=216894|2018|8|17|10|45|1
+ISLAND|THE ISLAND |MELBOURNE_CENTRAL|MELBOURNE CENTRAL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=MCECIN&sessionId=216895|2018|8|17|13|45|2
+ISLAND|THE ISLAND |MELBOURNE_CENTRAL|MELBOURNE CENTRAL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=MCECIN&sessionId=216958|2018|8|17|21|45|3
+ISLAND|THE ISLAND |MELBOURNE_CENTRAL|MELBOURNE CENTRAL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=MCECIN&sessionId=217065|2018|8|18|12|30|4
+ISLAND|THE ISLAND |MELBOURNE_CENTRAL|MELBOURNE CENTRAL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=MCECIN&sessionId=217030|2018|8|18|21|30|6
+ISLAND|THE ISLAND |MELBOURNE_CENTRAL|MELBOURNE CENTRAL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=MCECIN&sessionId=217071|2018|8|19|15|30|8
+ISLAND|THE ISLAND |MELBOURNE_CENTRAL|MELBOURNE CENTRAL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=MCECIN&sessionId=216909|2018|8|19|21|30|9
+ISLAND|THE ISLAND|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353348&date=20180817&time=15:45&ReturnUrl=%2Fmovies%2Fthe-island|2018|8|17|15|45|2
+ISLAND|THE ISLAND|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353350&date=20180817&time=21:10&ReturnUrl=%2Fmovies%2Fthe-island|2018|8|17|21|10|3
+ISLAND|THE ISLAND|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353216&date=20180818&time=15:45&ReturnUrl=%2Fmovies%2Fthe-island|2018|8|18|15|45|5
+ISLAND|THE ISLAND|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353218&date=20180818&time=21:10&ReturnUrl=%2Fmovies%2Fthe-island|2018|8|18|21|10|6
+ISLAND|THE ISLAND|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353346&date=20180819&time=21:10&ReturnUrl=%2Fmovies%2Fthe-island|2018|8|19|21|10|9

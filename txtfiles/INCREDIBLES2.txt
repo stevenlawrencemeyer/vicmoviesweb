@@ -1,0 +1,136 @@
+INCREDIBLES2|INCREDIBLES 2|BROADMEADOWS|BROADMEADOWS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=BMWCIN&sessionId=139994|2018|8|17|12|30|1
+INCREDIBLES2|INCREDIBLES 2|BROADMEADOWS|BROADMEADOWS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=BMWCIN&sessionId=138298|2018|8|18|12|15|4
+INCREDIBLES2|INCREDIBLES 2|BROADMEADOWS|BROADMEADOWS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=BMWCIN&sessionId=139999|2018|8|18|12|30|4
+INCREDIBLES2|INCREDIBLES 2|BROADMEADOWS|BROADMEADOWS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=BMWCIN&sessionId=138301|2018|8|19|12|15|7
+INCREDIBLES2|INCREDIBLES 2|CHADSTONE|CHADSTONE|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=CHDSTN&sessionId=59671|2018|8|17|12|15|1
+INCREDIBLES2|INCREDIBLES 2|CHADSTONE|CHADSTONE|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=CHDSTN&sessionId=56661|2018|8|18|12|15|4
+INCREDIBLES2|INCREDIBLES 2|CHADSTONE|CHADSTONE|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=CHDSTN&sessionId=56664|2018|8|19|12|15|7
+INCREDIBLES2|INCREDIBLES 2|EASTLAND|EASTLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=EASTLN&sessionId=269355|2018|8|17|12|15|1
+INCREDIBLES2|INCREDIBLES 2|EASTLAND|EASTLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=EASTLN&sessionId=266250|2018|8|18|12|15|4
+INCREDIBLES2|INCREDIBLES 2|EASTLAND|EASTLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=EASTLN&sessionId=266253|2018|8|19|12|15|7
+INCREDIBLES2|INCREDIBLES 2|FOREST_HILL|FOREST HILL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FHLCIN&sessionId=126629|2018|8|18|12|0|4
+INCREDIBLES2|INCREDIBLES 2|FOREST_HILL|FOREST HILL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FHLCIN&sessionId=127131|2018|8|19|14|20|8
+INCREDIBLES2|INCREDIBLES 2|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=182026|2018|8|17|10|0|1
+INCREDIBLES2|INCREDIBLES 2|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=181942|2018|8|17|12|25|1
+INCREDIBLES2|INCREDIBLES 2|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=182031|2018|8|18|10|0|4
+INCREDIBLES2|INCREDIBLES 2|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=181947|2018|8|18|12|20|4
+INCREDIBLES2|INCREDIBLES 2|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=182002|2018|8|18|15|30|5
+INCREDIBLES2|INCREDIBLES 2|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=182036|2018|8|19|10|0|7
+INCREDIBLES2|INCREDIBLES 2|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=181727|2018|8|19|12|20|7
+INCREDIBLES2|INCREDIBLES 2|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=182007|2018|8|19|15|40|8
+INCREDIBLES2|INCREDIBLES 2|GREENSBOROUGH|GREENSBOROUGH|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=GRENSB&sessionId=164155|2018|8|17|10|10|1
+INCREDIBLES2|INCREDIBLES 2|GREENSBOROUGH|GREENSBOROUGH|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=GRENSB&sessionId=164284|2018|8|18|10|10|4
+INCREDIBLES2|INCREDIBLES 2|GREENSBOROUGH|GREENSBOROUGH|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=GRENSB&sessionId=161189|2018|8|18|12|0|4
+INCREDIBLES2|INCREDIBLES 2|GREENSBOROUGH|GREENSBOROUGH|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=GRENSB&sessionId=161192|2018|8|19|12|0|7
+INCREDIBLES2|INCREDIBLES 2|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341876|2018|8|17|10|45|1
+INCREDIBLES2|INCREDIBLES 2|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341800|2018|8|17|12|15|1
+INCREDIBLES2|INCREDIBLES 2|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341497|2018|8|17|13|45|2
+INCREDIBLES2|INCREDIBLES 2|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341856|2018|8|18|10|0|4
+INCREDIBLES2|INCREDIBLES 2|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341805|2018|8|18|12|15|4
+INCREDIBLES2|INCREDIBLES 2|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341715|2018|8|18|13|45|5
+INCREDIBLES2|INCREDIBLES 2|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341885|2018|8|19|10|0|7
+INCREDIBLES2|INCREDIBLES 2|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341810|2018|8|19|12|15|7
+INCREDIBLES2|INCREDIBLES 2|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341720|2018|8|19|13|45|8
+INCREDIBLES2|INCREDIBLES 2|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341722|2018|8|19|19|0|9
+INCREDIBLES2|INCREDIBLES 2|MELBOURNE_CENTRAL|MELBOURNE CENTRAL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=MCECIN&sessionId=216954|2018|8|17|10|0|1
+INCREDIBLES2|INCREDIBLES 2|MELBOURNE_CENTRAL|MELBOURNE CENTRAL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=MCECIN&sessionId=217026|2018|8|18|10|0|4
+INCREDIBLES2|INCREDIBLES 2|NORTHLAND|NORTHLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=NORTHL&sessionId=258013|2018|8|17|12|15|1
+INCREDIBLES2|INCREDIBLES 2|NORTHLAND|NORTHLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=NORTHL&sessionId=255558|2018|8|18|12|15|4
+INCREDIBLES2|INCREDIBLES 2|NORTHLAND|NORTHLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=NORTHL&sessionId=255573|2018|8|19|12|15|7
+INCREDIBLES2|INCREDIBLES 2|VICTORIA_GARDENS|VICTORIA GARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=VGDCIN&sessionId=201881|2018|8|18|12|15|4
+INCREDIBLES2|INCREDIBLES 2|VICTORIA_GARDENS|VICTORIA GARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=VGDCIN&sessionId=201884|2018|8|19|12|15|7
+INCREDIBLES2|INCREDIBLES 2|WATERGARDENS|WATERGARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=TAYLOR&sessionId=157174|2018|8|17|12|15|1
+INCREDIBLES2|INCREDIBLES 2|WATERGARDENS|WATERGARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=TAYLOR&sessionId=155164|2018|8|18|12|15|4
+INCREDIBLES2|INCREDIBLES 2|WATERGARDENS|WATERGARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=TAYLOR&sessionId=157181|2018|8|19|12|15|7
+INCREDIBLES2|INCREDIBLES 2|AIRPORT_WEST|AIRPORT WEST|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=272&sessionid=294300&date=20180818&time=12:00&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|18|12|0|4
+INCREDIBLES2|INCREDIBLES 2|AIRPORT_WEST|AIRPORT WEST|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=272&sessionid=294484&date=20180819&time=12:00&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|19|12|0|7
+INCREDIBLES2|INCREDIBLES 2|BENDIGO|BENDIGO|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=024&sessionid=39996&date=20180817&time=10:50&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|17|10|50|1
+INCREDIBLES2|INCREDIBLES 2|BENDIGO|BENDIGO|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=024&sessionid=39900&date=20180818&time=10:15&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|18|10|15|4
+INCREDIBLES2|INCREDIBLES 2|BENDIGO|BENDIGO|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=024&sessionid=39934&date=20180819&time=10:15&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|19|10|15|7
+INCREDIBLES2|INCREDIBLES 2|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353225&date=20180818&time=11:30&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|18|11|30|4
+INCREDIBLES2|INCREDIBLES 2|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353418&date=20180819&time=11:00&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|19|11|0|7
+INCREDIBLES2|INCREDIBLES 2|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484100&date=20180817&time=11:10&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|17|11|10|1
+INCREDIBLES2|INCREDIBLES 2|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484013&date=20180818&time=10:40&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|18|10|40|4
+INCREDIBLES2|INCREDIBLES 2|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484380&date=20180819&time=10:30&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|19|10|30|7
+INCREDIBLES2|INCREDIBLES 2|DONCASTER|DONCASTER|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=301&sessionid=185790&date=20180818&time=10:45&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|18|10|45|4
+INCREDIBLES2|INCREDIBLES 2|DONCASTER|DONCASTER|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=301&sessionid=185756&date=20180818&time=10:45&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|18|10|45|4
+INCREDIBLES2|INCREDIBLES 2|DONCASTER|DONCASTER|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=301&sessionid=185997&date=20180819&time=10:45&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|19|10|45|7
+INCREDIBLES2|INCREDIBLES 2|DONCASTER|DONCASTER|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=301&sessionid=185799&date=20180819&time=10:45&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|19|10|45|7
+INCREDIBLES2|INCREDIBLES 2|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=412133&date=20180817&time=10:30&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|17|10|30|1
+INCREDIBLES2|INCREDIBLES 2|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=412104&date=20180817&time=12:30&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|17|12|30|1
+INCREDIBLES2|INCREDIBLES 2|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=412105&date=20180817&time=15:20&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|17|15|20|2
+INCREDIBLES2|INCREDIBLES 2|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=411815&date=20180818&time=10:30&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|18|10|30|4
+INCREDIBLES2|INCREDIBLES 2|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=411816&date=20180818&time=12:30&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|18|12|30|4
+INCREDIBLES2|INCREDIBLES 2|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=411817&date=20180818&time=15:20&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|18|15|20|5
+INCREDIBLES2|INCREDIBLES 2|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=412108&date=20180819&time=10:30&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|19|10|30|7
+INCREDIBLES2|INCREDIBLES 2|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=412079&date=20180819&time=12:30&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|19|12|30|7
+INCREDIBLES2|INCREDIBLES 2|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=412080&date=20180819&time=15:20&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|19|15|20|8
+INCREDIBLES2|INCREDIBLES 2|GEELONG|GEELONG|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=121&sessionid=360321&date=20180818&time=10:40&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|18|10|40|4
+INCREDIBLES2|INCREDIBLES 2|GEELONG|GEELONG|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=121&sessionid=360320&date=20180818&time=15:30&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|18|15|30|5
+INCREDIBLES2|INCREDIBLES 2|GEELONG|GEELONG|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=121&sessionid=360345&date=20180819&time=11:00&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|19|11|0|7
+INCREDIBLES2|INCREDIBLES 2|GEELONG|GEELONG|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=121&sessionid=360462&date=20180819&time=15:15&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|19|15|15|8
+INCREDIBLES2|INCREDIBLES 2|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545840&date=20180817&time=10:45&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|17|10|45|1
+INCREDIBLES2|INCREDIBLES 2|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545738&date=20180817&time=15:50&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|17|15|50|2
+INCREDIBLES2|INCREDIBLES 2|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545740&date=20180817&time=20:50&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|17|20|50|3
+INCREDIBLES2|INCREDIBLES 2|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545585&date=20180818&time=11:15&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|18|11|15|4
+INCREDIBLES2|INCREDIBLES 2|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545607&date=20180818&time=20:15&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|18|20|15|6
+INCREDIBLES2|INCREDIBLES 2|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545767&date=20180819&time=11:15&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|19|11|15|7
+INCREDIBLES2|INCREDIBLES 2|JAM_FACTORY|JAM FACTORY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=323&sessionid=545771&date=20180819&time=20:50&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|19|20|50|9
+INCREDIBLES2|INCREDIBLES 2|KARINGAL|KARINGAL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=312&sessionid=279772&date=20180817&time=12:30&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|17|12|30|1
+INCREDIBLES2|INCREDIBLES 2|KARINGAL|KARINGAL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=312&sessionid=279518&date=20180818&time=12:30&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|18|12|30|4
+INCREDIBLES2|INCREDIBLES 2|KARINGAL|KARINGAL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=312&sessionid=279753&date=20180819&time=12:30&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|19|12|30|7
+INCREDIBLES2|INCREDIBLES 2|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519667&date=20180817&time=10:15&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|17|10|15|1
+INCREDIBLES2|INCREDIBLES 2|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519855&date=20180817&time=13:20&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|17|13|20|2
+INCREDIBLES2|INCREDIBLES 2|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519740&date=20180817&time=15:40&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|17|15|40|2
+INCREDIBLES2|INCREDIBLES 2|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519672&date=20180818&time=10:15&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|18|10|15|4
+INCREDIBLES2|INCREDIBLES 2|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519617&date=20180818&time=13:20&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|18|13|20|5
+INCREDIBLES2|INCREDIBLES 2|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519598&date=20180818&time=15:40&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|18|15|40|5
+INCREDIBLES2|INCREDIBLES 2|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519677&date=20180819&time=10:15&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|19|10|15|7
+INCREDIBLES2|INCREDIBLES 2|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519859&date=20180819&time=13:20&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|19|13|20|8
+INCREDIBLES2|INCREDIBLES 2|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519745&date=20180819&time=15:40&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|19|15|40|8
+INCREDIBLES2|INCREDIBLES 2|MORWELL|MORWELL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=320&sessionid=238452&date=20180817&time=12:45&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|17|12|45|1
+INCREDIBLES2|INCREDIBLES 2|MORWELL|MORWELL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=320&sessionid=238375&date=20180818&time=12:45&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|18|12|45|4
+INCREDIBLES2|INCREDIBLES 2|MORWELL|MORWELL|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=320&sessionid=238437&date=20180819&time=12:45&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|19|12|45|7
+INCREDIBLES2|INCREDIBLES 2|PLENTY_VALLEY|PLENTY VALLEY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=285&sessionid=6979&date=20180817&time=10:30&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|17|10|30|1
+INCREDIBLES2|INCREDIBLES 2|PLENTY_VALLEY|PLENTY VALLEY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=285&sessionid=7023&date=20180817&time=14:50&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|17|14|50|2
+INCREDIBLES2|INCREDIBLES 2|PLENTY_VALLEY|PLENTY VALLEY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=285&sessionid=7024&date=20180817&time=17:40&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|17|17|40|2
+INCREDIBLES2|INCREDIBLES 2|PLENTY_VALLEY|PLENTY VALLEY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=285&sessionid=6808&date=20180818&time=10:30&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|18|10|30|4
+INCREDIBLES2|INCREDIBLES 2|PLENTY_VALLEY|PLENTY VALLEY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=285&sessionid=6830&date=20180818&time=14:50&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|18|14|50|5
+INCREDIBLES2|INCREDIBLES 2|PLENTY_VALLEY|PLENTY VALLEY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=285&sessionid=6843&date=20180818&time=17:40&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|18|17|40|5
+INCREDIBLES2|INCREDIBLES 2|PLENTY_VALLEY|PLENTY VALLEY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=285&sessionid=7004&date=20180819&time=10:20&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|19|10|20|7
+INCREDIBLES2|INCREDIBLES 2|PLENTY_VALLEY|PLENTY VALLEY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=285&sessionid=7028&date=20180819&time=14:50&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|19|14|50|8
+INCREDIBLES2|INCREDIBLES 2|PLENTY_VALLEY|PLENTY VALLEY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=285&sessionid=7029&date=20180819&time=17:40&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|19|17|40|8
+INCREDIBLES2|INCREDIBLES 2|RIVOLI|RIVOLI|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=023&sessionid=287224&date=20180817&time=11:10&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|17|11|10|1
+INCREDIBLES2|INCREDIBLES 2|RIVOLI|RIVOLI|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=023&sessionid=287254&date=20180817&time=15:50&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|17|15|50|2
+INCREDIBLES2|INCREDIBLES 2|RIVOLI|RIVOLI|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=023&sessionid=287256&date=20180817&time=20:50&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|17|20|50|3
+INCREDIBLES2|INCREDIBLES 2|RIVOLI|RIVOLI|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=023&sessionid=287068&date=20180818&time=11:10&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|18|11|10|4
+INCREDIBLES2|INCREDIBLES 2|RIVOLI|RIVOLI|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=023&sessionid=287077&date=20180818&time=20:50&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|18|20|50|6
+INCREDIBLES2|INCREDIBLES 2|RIVOLI|RIVOLI|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=023&sessionid=287196&date=20180819&time=11:15&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|19|11|15|7
+INCREDIBLES2|INCREDIBLES 2|RIVOLI|RIVOLI|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=023&sessionid=287223&date=20180819&time=20:15&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|19|20|15|9
+INCREDIBLES2|INCREDIBLES 2|SHEPPARTON|SHEPPARTON|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=025&sessionid=137393&date=20180818&time=10:30&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|18|10|30|4
+INCREDIBLES2|INCREDIBLES 2|SHEPPARTON|SHEPPARTON|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=025&sessionid=137428&date=20180819&time=10:30&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|19|10|30|7
+INCREDIBLES2|INCREDIBLES 2|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=579953&date=20180817&time=10:40&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|17|10|40|1
+INCREDIBLES2|INCREDIBLES 2|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=580066&date=20180817&time=12:10&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|17|12|10|1
+INCREDIBLES2|INCREDIBLES 2|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=580067&date=20180817&time=15:00&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|17|15|0|2
+INCREDIBLES2|INCREDIBLES 2|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=579821&date=20180818&time=10:40&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|18|10|40|4
+INCREDIBLES2|INCREDIBLES 2|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=579842&date=20180818&time=12:10&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|18|12|10|4
+INCREDIBLES2|INCREDIBLES 2|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=579843&date=20180818&time=15:00&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|18|15|0|5
+INCREDIBLES2|INCREDIBLES 2|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=579826&date=20180818&time=18:10&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|18|18|10|5
+INCREDIBLES2|INCREDIBLES 2|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=580071&date=20180819&time=12:10&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|19|12|10|7
+INCREDIBLES2|INCREDIBLES 2|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=580072&date=20180819&time=15:00&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|19|15|0|8
+INCREDIBLES2|INCREDIBLES 2|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=579989&date=20180819&time=17:40&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|19|17|40|8
+INCREDIBLES2|INCREDIBLES 2|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673685&date=20180817&time=10:00&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|17|10|0|1
+INCREDIBLES2|INCREDIBLES 2|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673574&date=20180817&time=13:45&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|17|13|45|2
+INCREDIBLES2|INCREDIBLES 2|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673576&date=20180817&time=19:40&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|17|19|40|3
+INCREDIBLES2|INCREDIBLES 2|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673366&date=20180818&time=10:40&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|18|10|40|4
+INCREDIBLES2|INCREDIBLES 2|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673349&date=20180818&time=13:45&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|18|13|45|5
+INCREDIBLES2|INCREDIBLES 2|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673351&date=20180818&time=19:40&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|18|19|40|6
+INCREDIBLES2|INCREDIBLES 2|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673665&date=20180819&time=10:40&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|19|10|40|7
+INCREDIBLES2|INCREDIBLES 2|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673558&date=20180819&time=13:45&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|19|13|45|8
+INCREDIBLES2|INCREDIBLES 2|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673560&date=20180819&time=19:40&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|19|19|40|9
+INCREDIBLES2|INCREDIBLES 2|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181842&date=20180817&time=10:10&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|17|10|10|1
+INCREDIBLES2|INCREDIBLES 2|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181843&date=20180817&time=12:50&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|17|12|50|1
+INCREDIBLES2|INCREDIBLES 2|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181567&date=20180818&time=10:10&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|18|10|10|4
+INCREDIBLES2|INCREDIBLES 2|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181568&date=20180818&time=12:50&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|18|12|50|4
+INCREDIBLES2|INCREDIBLES 2|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181818&date=20180819&time=10:10&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|19|10|10|7
+INCREDIBLES2|INCREDIBLES 2|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181819&date=20180819&time=12:50&ReturnUrl=%2Fmovies%2Fthe-incredibles-2-2d|2018|8|19|12|50|7

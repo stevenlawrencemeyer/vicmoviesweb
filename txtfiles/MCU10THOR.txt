@@ -1,0 +1,10 @@
+MCU10THOR|MCU10 THOR|BROADMEADOWS|BROADMEADOWS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=BMWCIN&sessionId=139356|2018|8|19|16|30|8
+MCU10THOR|MCU10 THOR|CHADSTONE|CHADSTONE|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=CHDSTN&sessionId=58446|2018|8|19|16|30|8
+MCU10THOR|MCU10 THOR|EASTLAND|EASTLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=EASTLN&sessionId=268228|2018|8|19|16|30|8
+MCU10THOR|MCU10 THOR|FOREST_HILL|FOREST HILL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FHLCIN&sessionId=127372|2018|8|19|16|30|8
+MCU10THOR|MCU10 THOR|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=181159|2018|8|19|16|30|8
+MCU10THOR|MCU10 THOR|GREENSBOROUGH|GREENSBOROUGH|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=GRENSB&sessionId=163489|2018|8|19|16|25|8
+MCU10THOR|MCU10 THOR|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=340116|2018|8|19|16|30|8
+MCU10THOR|MCU10 THOR|NORTHLAND|NORTHLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=NORTHL&sessionId=257168|2018|8|19|16|30|8
+MCU10THOR|MCU10 THOR|VICTORIA_GARDENS|VICTORIA GARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=VGDCIN&sessionId=203984|2018|8|19|16|30|8
+MCU10THOR|MCU10 THOR|WATERGARDENS|WATERGARDENS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=TAYLOR&sessionId=156385|2018|8|19|16|20|8

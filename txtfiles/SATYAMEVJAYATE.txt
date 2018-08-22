@@ -1,0 +1,10 @@
+SATYAMEVJAYATE|SATYAMEV JAYATE|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=411933&date=20180817&time=18:00&ReturnUrl=%2Fmovies%2Fsatyamev-jayate|2018|8|17|18|0|2
+SATYAMEVJAYATE|SATYAMEV JAYATE|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=411785&date=20180818&time=18:00&ReturnUrl=%2Fmovies%2Fsatyamev-jayate|2018|8|18|18|0|5
+SATYAMEVJAYATE|SATYAMEV JAYATE|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=411908&date=20180819&time=18:00&ReturnUrl=%2Fmovies%2Fsatyamev-jayate|2018|8|19|18|0|8
+SATYAMEVJAYATE|SATYAMEV JAYATE|GEELONG|GEELONG|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=121&sessionid=360486&date=20180818&time=18:00&ReturnUrl=%2Fmovies%2Fsatyamev-jayate|2018|8|18|18|0|5
+SATYAMEVJAYATE|SATYAMEV JAYATE|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181760&date=20180817&time=15:45&ReturnUrl=%2Fmovies%2Fsatyamev-jayate|2018|8|17|15|45|2
+SATYAMEVJAYATE|SATYAMEV JAYATE|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181615&date=20180817&time=21:10&ReturnUrl=%2Fmovies%2Fsatyamev-jayate|2018|8|17|21|10|3
+SATYAMEVJAYATE|SATYAMEV JAYATE|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181554&date=20180818&time=15:45&ReturnUrl=%2Fmovies%2Fsatyamev-jayate|2018|8|18|15|45|5
+SATYAMEVJAYATE|SATYAMEV JAYATE|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181595&date=20180818&time=21:10&ReturnUrl=%2Fmovies%2Fsatyamev-jayate|2018|8|18|21|10|6
+SATYAMEVJAYATE|SATYAMEV JAYATE|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181735&date=20180819&time=15:45&ReturnUrl=%2Fmovies%2Fsatyamev-jayate|2018|8|19|15|45|8
+SATYAMEVJAYATE|SATYAMEV JAYATE|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181590&date=20180819&time=21:10&ReturnUrl=%2Fmovies%2Fsatyamev-jayate|2018|8|19|21|10|9

@@ -1,0 +1,55 @@
+.container-fluid {
+  background-color: white; }
+  .container-fluid .slm-container {
+    background-color: white;
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 8px; }
+    .container-fluid .slm-container .slm-uber-btns {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-around; }
+      .container-fluid .slm-container .slm-uber-btns .slm-movie-btn {
+        width: 320px;
+        margin: 6px;
+        text-align: center;
+        font-size: 0.8rem;
+        font-weight: bold;
+        display: inline;
+        overflow: hidden;
+        text-overflow: ellipsis; }
+  .container-fluid #slm-session-blocks {
+    margin-bottom: 20px; }
+    .container-fluid #slm-session-blocks div#slm-block-btns {
+      width: 300px;
+      margin: 0 auto;
+      margin-bottom: 40px; }
+      .container-fluid #slm-session-blocks div#slm-block-btns .slm-block-btn {
+        box-sizing: border-box;
+        width: 100%;
+        margin: 6px 0 0 0;
+        font-weight: bold; }
+        .container-fluid #slm-session-blocks div#slm-block-btns .slm-block-btn:last-child {
+          margin-bottom: 60px; }
+  .container-fluid #slm-house-btns {
+    width: 300px;
+    margin: 0 auto; }
+    .container-fluid #slm-house-btns .slm-house-btn {
+      box-sizing: border-box;
+      width: 100%;
+      margin: 6px 0 0 0; }
+      .container-fluid #slm-house-btns .slm-house-btn:last-child {
+        margin-bottom: 40px; }
+  .container-fluid #slm-sessions .slm-session-btns {
+    width: 300px;
+    margin: 0 auto; }
+    .container-fluid #slm-sessions .slm-session-btns p {
+      box-sizing: border-box;
+      width: 100%; }
+      .container-fluid #slm-sessions .slm-session-btns p a {
+        font-size: 0.95rem;
+        font-weight: bold; }
+      .container-fluid #slm-sessions .slm-session-btns p:last-child {
+        margin-bottom: 40px; }
+
+/*# sourceMappingURL=style1.css.map */

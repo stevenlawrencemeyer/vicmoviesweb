@@ -1,0 +1,32 @@
+SKYSCRAPER|SKYSCRAPER|BROADMEADOWS|BROADMEADOWS|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=BMWCIN&sessionId=140109|2018|8|17|12|40|1
+SKYSCRAPER|SKYSCRAPER|EASTLAND|EASTLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=EASTLN&sessionId=269440|2018|8|17|12|30|1
+SKYSCRAPER|SKYSCRAPER|FRANKSTON|FRANKSTON|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FRANKS&sessionId=181996|2018|8|17|13|30|2
+SKYSCRAPER|SKYSCRAPER|GREENSBOROUGH|GREENSBOROUGH|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=GRENSB&sessionId=164248|2018|8|17|16|45|2
+SKYSCRAPER|SKYSCRAPER|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341829|2018|8|17|12|15|1
+SKYSCRAPER|SKYSCRAPER|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341881|2018|8|18|12|15|4
+SKYSCRAPER|SKYSCRAPER|NORTHLAND|NORTHLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=NORTHL&sessionId=258189|2018|8|17|13|40|2
+SKYSCRAPER|SKYSCRAPER|NORTHLAND|NORTHLAND|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=NORTHL&sessionId=258184|2018|8|18|13|40|5
+SKYSCRAPER|SKYSCRAPER|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484359&date=20180817&time=11:30&ReturnUrl=%2Fmovies%2Fskyscraper-2d|2018|8|17|11|30|1
+SKYSCRAPER|SKYSCRAPER|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484056&date=20180818&time=12:15&ReturnUrl=%2Fmovies%2Fskyscraper-2d|2018|8|18|12|15|4
+SKYSCRAPER|SKYSCRAPER|CROWN|CROWN|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=303&sessionid=484355&date=20180819&time=12:15&ReturnUrl=%2Fmovies%2Fskyscraper-2d|2018|8|19|12|15|7
+SKYSCRAPER|SKYSCRAPER|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=412044&date=20180817&time=11:00&ReturnUrl=%2Fmovies%2Fskyscraper-2d|2018|8|17|11|0|1
+SKYSCRAPER|SKYSCRAPER|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=412045&date=20180817&time=13:30&ReturnUrl=%2Fmovies%2Fskyscraper-2d|2018|8|17|13|30|2
+SKYSCRAPER|SKYSCRAPER|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=412136&date=20180817&time=18:40&ReturnUrl=%2Fmovies%2Fskyscraper-2d|2018|8|17|18|40|2
+SKYSCRAPER|SKYSCRAPER|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=411804&date=20180818&time=13:30&ReturnUrl=%2Fmovies%2Fskyscraper-2d|2018|8|18|13|30|5
+SKYSCRAPER|SKYSCRAPER|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=411824&date=20180818&time=18:40&ReturnUrl=%2Fmovies%2Fskyscraper-2d|2018|8|18|18|40|5
+SKYSCRAPER|SKYSCRAPER|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=412020&date=20180819&time=13:30&ReturnUrl=%2Fmovies%2Fskyscraper-2d|2018|8|19|13|30|8
+SKYSCRAPER|SKYSCRAPER|FOUNTAIN_GATE|FOUNTAIN GATE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=330&sessionid=412111&date=20180819&time=18:40&ReturnUrl=%2Fmovies%2Fskyscraper-2d|2018|8|19|18|40|8
+SKYSCRAPER|SKYSCRAPER|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519944&date=20180817&time=17:30&ReturnUrl=%2Fmovies%2Fskyscraper-2d|2018|8|17|17|30|2
+SKYSCRAPER|SKYSCRAPER|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519632&date=20180818&time=17:30&ReturnUrl=%2Fmovies%2Fskyscraper-2d|2018|8|18|17|30|5
+SKYSCRAPER|SKYSCRAPER|KNOX|KNOX|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=274&sessionid=519949&date=20180819&time=17:30&ReturnUrl=%2Fmovies%2Fskyscraper-2d|2018|8|19|17|30|8
+SKYSCRAPER|SKYSCRAPER|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=580238&date=20180817&time=13:30&ReturnUrl=%2Fmovies%2Fskyscraper-2d|2018|8|17|13|30|2
+SKYSCRAPER|SKYSCRAPER|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=579870&date=20180818&time=13:30&ReturnUrl=%2Fmovies%2Fskyscraper-2d|2018|8|18|13|30|5
+SKYSCRAPER|SKYSCRAPER|SOUTHLAND|SOUTHLAND|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=282&sessionid=580243&date=20180819&time=13:00&ReturnUrl=%2Fmovies%2Fskyscraper-2d|2018|8|19|13|0|8
+SKYSCRAPER|SKYSCRAPER|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673657&date=20180817&time=15:00&ReturnUrl=%2Fmovies%2Fskyscraper-2d|2018|8|17|15|0|2
+SKYSCRAPER|SKYSCRAPER|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673605&date=20180817&time=21:10&ReturnUrl=%2Fmovies%2Fskyscraper-2d|2018|8|17|21|10|3
+SKYSCRAPER|SKYSCRAPER|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673363&date=20180818&time=15:00&ReturnUrl=%2Fmovies%2Fskyscraper-2d|2018|8|18|15|0|5
+SKYSCRAPER|SKYSCRAPER|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673356&date=20180818&time=21:10&ReturnUrl=%2Fmovies%2Fskyscraper-2d|2018|8|18|21|10|6
+SKYSCRAPER|SKYSCRAPER|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673637&date=20180819&time=15:10&ReturnUrl=%2Fmovies%2Fskyscraper-2d|2018|8|19|15|10|8
+SKYSCRAPER|SKYSCRAPER|SUNSHINE|SUNSHINE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=309&sessionid=673585&date=20180819&time=21:10&ReturnUrl=%2Fmovies%2Fskyscraper-2d|2018|8|19|21|10|9
+SKYSCRAPER|SKYSCRAPER|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181725&date=20180817&time=12:40&ReturnUrl=%2Fmovies%2Fskyscraper-2d|2018|8|17|12|40|1
+SKYSCRAPER|SKYSCRAPER|WERRIBEE|WERRIBEE|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=080&sessionid=181549&date=20180818&time=12:40&ReturnUrl=%2Fmovies%2Fskyscraper-2d|2018|8|18|12|40|4

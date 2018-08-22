@@ -1,0 +1,31 @@
+EUROPERAIDERS|EUROPE RAIDERS|CHADSTONE|CHADSTONE|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=CHDSTN&sessionId=59530|2018|8|17|13|50|2
+EUROPERAIDERS|EUROPE RAIDERS|CHADSTONE|CHADSTONE|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=CHDSTN&sessionId=59617|2018|8|17|20|45|3
+EUROPERAIDERS|EUROPE RAIDERS|CHADSTONE|CHADSTONE|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=CHDSTN&sessionId=59560|2018|8|18|13|15|5
+EUROPERAIDERS|EUROPE RAIDERS|CHADSTONE|CHADSTONE|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=CHDSTN&sessionId=59622|2018|8|18|22|30|6
+EUROPERAIDERS|EUROPE RAIDERS|CHADSTONE|CHADSTONE|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=CHDSTN&sessionId=59652|2018|8|19|12|45|7
+EUROPERAIDERS|EUROPE RAIDERS|CHADSTONE|CHADSTONE|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=CHDSTN&sessionId=59706|2018|8|19|19|20|9
+EUROPERAIDERS|EUROPE RAIDERS|FOREST_HILL|FOREST HILL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FHLCIN&sessionId=128169|2018|8|17|16|45|2
+EUROPERAIDERS|EUROPE RAIDERS|FOREST_HILL|FOREST HILL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FHLCIN&sessionId=128229|2018|8|17|21|20|3
+EUROPERAIDERS|EUROPE RAIDERS|FOREST_HILL|FOREST HILL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FHLCIN&sessionId=128146|2018|8|18|16|50|5
+EUROPERAIDERS|EUROPE RAIDERS|FOREST_HILL|FOREST HILL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FHLCIN&sessionId=128264|2018|8|18|21|20|6
+EUROPERAIDERS|EUROPE RAIDERS|FOREST_HILL|FOREST HILL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FHLCIN&sessionId=128236|2018|8|19|16|50|8
+EUROPERAIDERS|EUROPE RAIDERS|FOREST_HILL|FOREST HILL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=FHLCIN&sessionId=128265|2018|8|19|21|20|9
+EUROPERAIDERS|EUROPE RAIDERS|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341498|2018|8|17|16|30|2
+EUROPERAIDERS|EUROPE RAIDERS|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341713|2018|8|17|21|30|3
+EUROPERAIDERS|EUROPE RAIDERS|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341716|2018|8|18|16|30|5
+EUROPERAIDERS|EUROPE RAIDERS|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341718|2018|8|18|21|30|6
+EUROPERAIDERS|EUROPE RAIDERS|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341721|2018|8|19|16|30|8
+EUROPERAIDERS|EUROPE RAIDERS|HIGHPOINT|HIGHPOINT|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=HIGPNT&sessionId=341723|2018|8|19|21|30|9
+EUROPERAIDERS|EUROPE RAIDERS|MELBOURNE_CENTRAL|MELBOURNE CENTRAL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=MCECIN&sessionId=217059|2018|8|17|12|30|1
+EUROPERAIDERS|EUROPE RAIDERS|MELBOURNE_CENTRAL|MELBOURNE CENTRAL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=MCECIN&sessionId=216960|2018|8|18|12|20|4
+EUROPERAIDERS|EUROPE RAIDERS|MELBOURNE_CENTRAL|MELBOURNE CENTRAL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=MCECIN&sessionId=217068|2018|8|18|21|30|6
+EUROPERAIDERS|EUROPE RAIDERS|MELBOURNE_CENTRAL|MELBOURNE CENTRAL|HOYTS|https://www.hoyts.com.au/movies/purchase?cinemaId=MCECIN&sessionId=217000|2018|8|19|21|30|9
+EUROPERAIDERS|EUROPE RAIDERS|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353250&date=20180817&time=16:30&ReturnUrl=%2Fmovies%2Feurope-raiders|2018|8|17|16|30|2
+EUROPERAIDERS|EUROPE RAIDERS|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353251&date=20180817&time=18:50&ReturnUrl=%2Fmovies%2Feurope-raiders|2018|8|17|18|50|2
+EUROPERAIDERS|EUROPE RAIDERS|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353252&date=20180817&time=21:20&ReturnUrl=%2Fmovies%2Feurope-raiders|2018|8|17|21|20|3
+EUROPERAIDERS|EUROPE RAIDERS|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353198&date=20180818&time=16:30&ReturnUrl=%2Fmovies%2Feurope-raiders|2018|8|18|16|30|5
+EUROPERAIDERS|EUROPE RAIDERS|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353199&date=20180818&time=18:50&ReturnUrl=%2Fmovies%2Feurope-raiders|2018|8|18|18|50|5
+EUROPERAIDERS|EUROPE RAIDERS|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353200&date=20180818&time=21:20&ReturnUrl=%2Fmovies%2Feurope-raiders|2018|8|18|21|20|6
+EUROPERAIDERS|EUROPE RAIDERS|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353342&date=20180819&time=16:10&ReturnUrl=%2Fmovies%2Feurope-raiders|2018|8|19|16|10|8
+EUROPERAIDERS|EUROPE RAIDERS|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353345&date=20180819&time=18:40&ReturnUrl=%2Fmovies%2Feurope-raiders|2018|8|19|18|40|8
+EUROPERAIDERS|EUROPE RAIDERS|CENTURY_CITY|CENTURY CITY|VILLAGE|https://villagecinemas.com.au/tickets?cinemaid=311&sessionid=353395&date=20180819&time=21:30&ReturnUrl=%2Fmovies%2Feurope-raiders|2018|8|19|21|30|9
